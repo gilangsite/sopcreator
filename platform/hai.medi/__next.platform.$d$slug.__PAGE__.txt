@@ -1,0 +1,1996 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],""]
+3:I[55132,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+11:I[32065,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+12:I[95590,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+0:{"buildId":"l85EMLBGOhaR8j66pI5nu","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-[#F8FAFC] text-slate-800 relative overflow-hidden","children":[["$","div",null,{"className":"absolute top-[5%] right-[-10%] w-[800px] h-[800px] bg-blue-100/20 rounded-full blur-[120px] -z-10 pointer-events-none"}],["$","div",null,{"className":"absolute bottom-[10%] left-[-15%] w-[600px] h-[600px] bg-blue-50/40 rounded-full blur-[100px] -z-10 pointer-events-none"}],["$","div",null,{"className":"max-w-5xl mx-auto px-6 pt-32 pb-24 relative z-10","children":[["$","div",null,{"className":"flex justify-between items-center mb-12 print:hidden","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-sm font-bold text-blue-500 hover:text-blue-600 transition-all group","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 group-hover:-translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Kembali ke Dashboard"]}],["$","div",null,{"className":"hidden sm:flex items-center space-x-2","children":[["$","span",null,{"className":"text-[10px] font-bold text-slate-400 uppercase tracking-widest","children":"Status:"}],["$","span",null,{"className":"px-2 py-0.5 bg-emerald-100 text-emerald-600 text-[10px] font-bold uppercase rounded-md border border-emerald-200","children":"Terverifikasi"}]]}]]}],["$","header",null,{"className":"mb-20 print:mb-12","children":[["$","div",null,{"className":"flex items-center space-x-3 mb-6","children":[["$","span",null,{"className":"flex items-center px-3 py-1 bg-blue-500 text-white text-[10px] font-bold uppercase tracking-[0.2em] rounded-md shadow-sm","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-circle-check-big mr-1.5","aria-hidden":"true","children":[["$","path","yps3ct",{"d":"M21.801 10A10 10 0 1 1 17 3.335"}],["$","path","1pflzl",{"d":"m9 11 3 3L22 4"}],"$undefined"]}]," SOP Utama"]}],["$","div",null,{"className":"h-[1px] w-12 bg-blue-200"}],["$","span",null,{"className":"text-slate-400 font-bold text-xs uppercase tracking-widest","children":"@hai.medi"}]]}],["$","h1",null,{"className":"text-4xl md:text-6xl font-black text-slate-900 mb-8 tracking-tight leading-[1.1]","children":"Platform @hai.medi"}],["$","p",null,{"className":"text-xl md:text-2xl text-slate-500 max-w-3xl leading-relaxed font-medium","children":"Panduan konten komik, talent, dan entertainment karakter Medi."}]]}],["$","$L3",null,{"items":[{"level":1,"text":"SOP PANDUAN CREATOR – PLATFORM @HAI.MEDI (MEDI WORLD)","id":"sop-panduan-creator-platform-hai-medi-medi-world-"},{"level":2,"text":"RINGKASAN EKSEKUTIF","id":"ringkasan-eksekutif"},{"level":2,"text":"1. PENDAHULUAN","id":"1-pendahuluan"},{"level":3,"text":"1.1 Fungsi Platform @hai.medi dalam Ekosistem MEDTOOLS","id":"1-1-fungsi-platform-hai-medi-dalam-ekosistem-medtools"},{"level":3,"text":"1.2 Peran Creator terhadap Platform @hai.medi","id":"1-2-peran-creator-terhadap-platform-hai-medi"},{"level":2,"text":"2. TUJUAN PLATFORM @HAI.MEDI","id":"2-tujuan-platform-hai-medi"},{"level":3,"text":"2.1 Tujuan dari Sisi Brand","id":"2-1-tujuan-dari-sisi-brand"},{"level":3,"text":"2.2 Tujuan dari Sisi Edukasi/Value","id":"2-2-tujuan-dari-sisi-edukasi-value"},{"level":3,"text":"2.3 Tujuan dari Sisi Bisnis & Konversi","id":"2-3-tujuan-dari-sisi-bisnis-konversi"},{"level":2,"text":"3. TARGET AUDIENS","id":"3-target-audiens"},{"level":3,"text":"3.1 Segmentasi Audiens Utama","id":"3-1-segmentasi-audiens-utama"},{"level":3,"text":"3.2 Level Pengetahuan Audiens","id":"3-2-level-pengetahuan-audiens"},{"level":3,"text":"3.3 Karakter Audiens yang Relevan dengan Konten","id":"3-3-karakter-audiens-yang-relevan-dengan-konten"},{"level":2,"text":"4. JENIS & FORMAT KONTEN","id":"4-jenis-format-konten"},{"level":3,"text":"4.1 Tema Konten yang Diperbolehkan & Dianjurkan","id":"4-1-tema-konten-yang-diperbolehkan-dianjurkan"},{"level":3,"text":"4.2 Format Konten yang Diutamakan untuk @hai.medi","id":"4-2-format-konten-yang-diutamakan-untuk-hai-medi"},{"level":3,"text":"4.3 Batasan Konten (Do's & Don'ts Khusus @hai.medi)","id":"4-3-batasan-konten-do-s-don-ts-khusus-hai-medi-"},{"level":2,"text":"5. SOP PEMBUATAN KONTEN","id":"5-sop-pembuatan-konten"},{"level":3,"text":"5.1 Tahap Ideasi Konten","id":"5-1-tahap-ideasi-konten"},{"level":3,"text":"5.2 Tahap Riset & Validasi Materi","id":"5-2-tahap-riset-validasi-materi"},{"level":3,"text":"5.3 Tahap Script & Concept Development","id":"5-3-tahap-script-concept-development"},{"level":3,"text":"5.4 Tahap Produksi Visual & Video","id":"5-4-tahap-produksi-visual-video"},{"level":3,"text":"5.5 Tahap Quality Control Sebelum Upload","id":"5-5-tahap-quality-control-sebelum-upload"},{"level":2,"text":"6. SOP UPLOAD & PUBLISHING","id":"6-sop-upload-publishing"},{"level":3,"text":"6.1 Alur Upload Konten","id":"6-1-alur-upload-konten"},{"level":3,"text":"6.2 Proses Approval Sebelum Publish","id":"6-2-proses-approval-sebelum-publish"},{"level":3,"text":"6.3 Aturan Caption","id":"6-3-aturan-caption"},{"level":3,"text":"6.4 Aturan Hashtag","id":"6-4-aturan-hashtag"},{"level":3,"text":"6.5 Ketentuan Teknis Platform","id":"6-5-ketentuan-teknis-platform"},{"level":2,"text":"7. KUOTA & FREKUENSI KONTEN","id":"7-kuota-frekuensi-konten"},{"level":3,"text":"7.1 Target Output Konten per Platform","id":"7-1-target-output-konten-per-platform"},{"level":3,"text":"7.2 Optimal Posting Schedule","id":"7-2-optimal-posting-schedule"},{"level":3,"text":"7.3 Consistency & Reliability","id":"7-3-consistency-reliability"},{"level":2,"text":"8. TONE OF VOICE & BRANDING","id":"8-tone-of-voice-branding"},{"level":3,"text":"8.1 Tone of Voice untuk @hai.medi","id":"8-1-tone-of-voice-untuk-hai-medi"},{"level":3,"text":"8.2 Karakteristik Konten yang Harus Konsisten","id":"8-2-karakteristik-konten-yang-harus-konsisten"},{"level":3,"text":"8.3 Voice Guidelines untuk Specific Situations","id":"8-3-voice-guidelines-untuk-specific-situations"},{"level":2,"text":"9. DO'S & DON'TS CREATOR @HAI.MEDI","id":"9-do-s-don-ts-creator-hai-medi"},{"level":3,"text":"9.1 WAJIB DILAKUKAN (Do's)","id":"9-1-wajib-dilakukan-do-s-"},{"level":3,"text":"9.2 DILARANG DILAKUKAN (Don'ts)","id":"9-2-dilarang-dilakukan-don-ts-"},{"level":2,"text":"10. KPI INDEX / SCORECARD CREATOR @HAI.MEDI","id":"10-kpi-index-scorecard-creator-hai-medi"},{"level":3,"text":"10.1 Kerangka KPI untuk Platform @hai.medi","id":"10-1-kerangka-kpi-untuk-platform-hai-medi"},{"level":3,"text":"10.2 Scorecard KPI Lengkap","id":"10-2-scorecard-kpi-lengkap"},{"level":3,"text":"10.3 Metrik Tambahan untuk Monitoring","id":"10-3-metrik-tambahan-untuk-monitoring"},{"level":3,"text":"10.4 Frekuensi Review & Reporting","id":"10-4-frekuensi-review-reporting"},{"level":2,"text":"11. INFORMASI PENDING & CATATAN TAMBAHAN","id":"11-informasi-pending-catatan-tambahan"},{"level":3,"text":"11.1 Informasi yang Belum Tersedia atau Belum Jelas","id":"11-1-informasi-yang-belum-tersedia-atau-belum-jelas"},{"level":3,"text":"11.2 Rekomendasi Tindak Lanjut (Priority Action Items)","id":"11-2-rekomendasi-tindak-lanjut-priority-action-items-"},{"level":2,"text":"12. PENUTUP","id":"12-penutup"},{"level":3,"text":"LAMPIRAN A: Content Brief Template untuk @hai.medi","id":"lampiran-a-content-brief-template-untuk-hai-medi"},{"level":3,"text":"LAMPIRAN B: Weekly Content Performance Report","id":"lampiran-b-weekly-content-performance-report"},{"level":3,"text":"LAMPIRAN C: Entertainment Content Quality Checklist","id":"lampiran-c-entertainment-content-quality-checklist"}]}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","section",null,{"className":"mb-24 print:hidden","id":"quick-kpi","children":[["$","div",null,{"className":"flex items-center justify-between mb-8","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Target Performa Utama"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","div",null,{"className":"my-16 border-t border-slate-200 pt-12","children":[["$","h3",null,{"className":"text-2xl font-bold text-slate-800 mb-8 flex items-center justify-between","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up mr-3 text-blue-500","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]," Performance Targets"]}],["$","span",null,{"className":"text-xs uppercase tracking-widest text-slate-400 font-medium","children":"Monthly Goals"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","div","0",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-red-50 text-red-500 border-red-100","children":"High"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Post/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">26"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">26"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 11.230019816290405 L40 18.739110428114092 L60 15 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}],["$","div","1",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],"$La"]}],"$Lb","$Lc","$Ld","$Le"]}]]}]]}]
+f:T586,prose prose-slate prose-lg max-w-none  prose-headings:text-slate-900 prose-headings:font-black prose-headings:tracking-tight prose-h1:text-4xl md:text-5xl prose-h1:mb-12 prose-h2:text-2xl md:text-3xl prose-h2:mt-20 prose-h2:mb-8 prose-h2:pb-6 prose-h2:border-b-2 prose-h2:border-blue-50/50 prose-h3:text-xl prose-h3:text-blue-600 prose-h3:mt-12 prose-h3:font-bold  prose-p:text-slate-700 prose-p:leading-[1.8] prose-p:mb-6 prose-ul:my-6 prose-ul:list-disc prose-ul:pl-6 prose-ol:my-6 prose-ol:list-decimal prose-ol:pl-6 prose-li:text-slate-700 prose-li:mb-2 prose-li:leading-relaxed  prose-table:w-full prose-table:border-collapse prose-table:bg-white prose-table:rounded-2xl prose-table:shadow-sm prose-table:border prose-table:border-slate-200 prose-thead:bg-slate-50 prose-thead:text-slate-900 prose-th:p-4 prose-th:text-xs prose-th:uppercase prose-th:tracking-widest prose-th:font-black prose-th:border-b prose-th:border-slate-200 prose-td:p-4 prose-td:text-slate-700 prose-td:border-b prose-td:border-slate-100 prose-td:text-sm md:text-base prose-td:leading-relaxed  prose-strong:text-slate-900 prose-strong:font-bold prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/30 prose-blockquote:py-2 prose-blockquote:px-6 prose-blockquote:rounded-r-xl prose-blockquote:italic  prose-img:rounded-2xl prose-img:shadow-xl prose-img:my-12  prose-hr:my-16 prose-hr:border-slate-100 10:T1352d,<h1 id="sop-panduan-creator-platform-hai-medi-medi-world-">SOP PANDUAN CREATOR – PLATFORM @HAI.MEDI (MEDI WORLD)</h1>
+<p><strong>Dokumen Internal Resmi – Konfidensial</strong><br>
+Departemen Creator Team, MEDTOOLS.ID<br>
+Versi: 1.0<br>
+Tanggal Berlaku: Januari 2026</p>
+<hr>
+<h2 id="ringkasan-eksekutif">RINGKASAN EKSEKUTIF</h2>
+<p>Dokumen ini adalah <strong>Standar Operasional Prosedur (SOP) resmi</strong> yang dirancang khusus untuk <strong>Creator yang memproduksi konten di platform @hai.medi (Brand MEDI WORLD)</strong>. SOP ini mengatur seluruh aspek: dari perencanaan konten, pembuatan, publikasi, hingga pengukuran performa sesuai dengan visi dan misi ekosistem MEDTOOLS.ID.</p>
+<p>Platform @hai.medi adalah <strong>aset entertainment dan awareness driver utama</strong> dalam ekosistem MEDTOOLS. Sebagai brand Medi World dengan tagline <strong>"By Your Side, Every Step"</strong>, platform ini berfokus pada konten yang <strong>menghibur, relatable, dan viral</strong> untuk menjangkau audiens medis Indonesia seluas-luasnya dalam tahap <strong>AWARENESS</strong> dari marketing funnel AIDA. Konten di @hai.medi harus entertaining, funny, relatable dengan kehidupan mahasiswa/dokter, dan memiliki potensi viral tinggi tanpa mengorbankan positioning sebagai trusted medical platform.</p>
+<hr>
+<h2 id="1-pendahuluan">1. PENDAHULUAN</h2>
+<h3 id="1-1-fungsi-platform-hai-medi-dalam-ekosistem-medtools">1.1 Fungsi Platform @hai.medi dalam Ekosistem MEDTOOLS</h3>
+<p><strong>@hai.medi</strong> adalah <strong>akun Instagram untuk brand Medi World</strong> yang berfungsi sebagai:</p>
+<ul>
+<li>
+<p><strong>Awareness Driver &#x26; Traffic Booster (Pendorong Awareness Ekosistem)</strong>: Platform utama untuk menjangkau audiens medis Indonesia yang sangat luas melalui konten entertaining dan viral. Tujuan utama adalah <strong>maximize reach dan followers</strong> agar audiens aware dengan MEDTOOLS.ID ecosystem secara keseluruhan.</p>
+</li>
+<li>
+<p><strong>Entertainment Hub (Pusat Hiburan Medis)</strong>: Menyediakan konten yang menghibur, menggelitik, funny, relatable dengan daily challenge mahasiswa kedokteran dan dokter muda. Konten di sini adalah "entertaining, not lecturing" – provide value through entertainment.</p>
+</li>
+<li>
+<p><strong>Community Building &#x26; Brand Affinity (Membangun Komunitas &#x26; Affinitas Brand)</strong>: Membangun komunitas yang kuat, loyal, dan engaged dengan brand MEDTOOLS. Followers merasa "belong" ke komunitas medis Indonesia yang besar, supportive, dan fun.</p>
+</li>
+<li>
+<p><strong>Gateway to Deeper Ecosystem (Pintu Masuk ke Ecosystem yang Lebih Dalam)</strong>: Followers @hai.medi yang terkoneksi dengan konten entertaining akan naturally curious untuk explore brand lain di ecosystem (Academy, Store, Medimpact). @hai.medi adalah entry point.</p>
+</li>
+<li>
+<p><strong>Talent/Character Development (Pengembangan Talenta &#x26; Karakter)</strong>: @hai.medi adalah platform untuk develop dan feature talent/character komik "Medi" yang menjadi face dari MEDTOOLS ecosystem. Character ini menjadi relatable, beloved figure yang followers mengenal dan love.</p>
+</li>
+</ul>
+<h3 id="1-2-peran-creator-terhadap-platform-hai-medi">1.2 Peran Creator terhadap Platform @hai.medi</h3>
+<p>Sebagai Creator yang bertugas di @hai.medi, tanggung jawab Anda meliputi:</p>
+<ul>
+<li>
+<p><strong>Produksi konten entertaining &#x26; viral</strong> yang relatable dengan kehidupan mahasiswa FK dan dokter muda Indonesia, dengan humor yang segar dan authentic.</p>
+</li>
+<li>
+<p><strong>Ideasi konten yang kreatif, original, dan trend-aware</strong>, menunjukkan kemampuan untuk adapt tren TikTok/Instagram ke format yang on-brand dan engaging.</p>
+</li>
+<li>
+<p><strong>Eksekusi end-to-end</strong> dari perencanaan konten, production, editing, hingga publikasi dengan focus pada entertainment value dan shareability.</p>
+</li>
+<li>
+<p><strong>Character development untuk Medi</strong> (jika ada karakter/talent khusus) untuk menjadi relatable dan beloved oleh community.</p>
+</li>
+<li>
+<p><strong>Community engagement &#x26; interaction</strong> yang fun, approachable, dan build loyalty dengan followers.</p>
+</li>
+<li>
+<p><strong>Trend monitoring &#x26; adaptation</strong> untuk ensure konten always fresh, relevant, dan capitalize pada trending topic/format.</p>
+</li>
+<li>
+<p><strong>Support ecosystem cross-promotion</strong> dengan subtle mention ke brand lain (Academy, Store, Medimpact) ketika relevant, bukan forced.</p>
+</li>
+</ul>
+<hr>
+<h2 id="2-tujuan-platform-hai-medi">2. TUJUAN PLATFORM @HAI.MEDI</h2>
+<h3 id="2-1-tujuan-dari-sisi-brand">2.1 Tujuan dari Sisi Brand</h3>
+<ul>
+<li>
+<p><strong>Maximize brand awareness tentang MEDTOOLS.ID ecosystem</strong> melalui konten entertaining yang viral dan menjangkau audiens medis Indonesia sebesar-besarnya.</p>
+</li>
+<li>
+<p><strong>Establish Medi World sebagai personality yang fun, relatable, dan beloved</strong> di dalam komunitas medis Indonesia. Followers ingin follow bukan hanya karena konten edukatif, tapi karena emotional connection dengan brand.</p>
+</li>
+<li>
+<p><strong>Build ecosystem top-of-mind awareness</strong> – jika dokter/mahasiswa FK berpikir tentang "medical community content" di Indonesia, MEDTOOLS.ID / Medi World harus menjadi salah satu top-of-mind platform.</p>
+</li>
+<li>
+<p><strong>Differentiate dari kompetitor</strong> dengan positioning sebagai platform yang memahami medis student/doctor humor, culture, dan daily struggle. Relatable brand positioning.</p>
+</li>
+<li>
+<p><strong>Support brand storytelling</strong> untuk MEDTOOLS ecosystem secara keseluruhan melalui entertaining narrative dan character-driven content.</p>
+</li>
+</ul>
+<h3 id="2-2-tujuan-dari-sisi-edukasi-value">2.2 Tujuan dari Sisi Edukasi/Value</h3>
+<ul>
+<li>
+<p><strong>Provide entertainment value &#x26; comic relief</strong> yang mahasiswa kedokteran dan dokter muda butuh dalam daily stressful journey mereka.</p>
+</li>
+<li>
+<p><strong>Build community feeling</strong> – followers feel like mereka part of bigger community dari dokter Indonesia yang memahami struggle mereka dan punya sense of humor about it.</p>
+</li>
+<li>
+<p><strong>Subtle value-add</strong> melalui entertainment – content tidak hanya funny tapi juga contain implicit learning/wisdom tentang medical life, culture, reality.</p>
+</li>
+<li>
+<p><strong>Normalize struggle &#x26; hardship</strong> dalam medical journey melalui humor – show bahwa banyak orang experience same thing, you're not alone (implicit support message).</p>
+</li>
+<li>
+<p><strong>Celebrate medical identity</strong> – content celebrate apa yang special/unique tentang being medis student/doctor di Indonesia.</p>
+</li>
+</ul>
+<h3 id="2-3-tujuan-dari-sisi-bisnis-konversi">2.3 Tujuan dari Sisi Bisnis &#x26; Konversi</h3>
+<ul>
+<li>
+<p><strong>Maximize follower growth</strong> – primary KPI untuk @hai.medi adalah <strong>follower growth</strong> (secondary adalah engagement).</p>
+</li>
+<li>
+<p><strong>Drive awareness &#x26; consideration</strong> untuk brand lain di ecosystem (indirect conversion path). Followers yang engaged dengan @hai.medi akan naturally curious explore Academy, Store, Medimpact.</p>
+</li>
+<li>
+<p><strong>Build audience asset</strong> – setiap follower adalah aset valuable untuk future campaigns, announcements, ecosystem promotions.</p>
+</li>
+<li>
+<p><strong>Generate engagement &#x26; social proof</strong> – high engagement rate pada @hai.medi demonstrates bahwa MEDTOOLS community is alive, engaged, fun (social proof untuk ecosystem).</p>
+</li>
+<li>
+<p><strong>Support viral potential</strong> – konten @hai.medi yang viral akan generate free organic reach, traffic, dan awareness untuk whole ecosystem.</p>
+</li>
+</ul>
+<hr>
+<h2 id="3-target-audiens">3. TARGET AUDIENS</h2>
+<h3 id="3-1-segmentasi-audiens-utama">3.1 Segmentasi Audiens Utama</h3>
+<p><strong>Primary Audience #1: Mahasiswa Kedokteran Aktif (Maba – Senior)</strong></p>
+<ul>
+<li><strong>Demografi</strong>: Usia 18-26 tahun, mahasiswa semester 1-12 di universitas Indonesia (FKUI, Unair, Undip, UNPAD, UNHAS, dll, termasuk universitas tier 2-3).</li>
+<li><strong>Psychografi</strong>: Stressed tapi punya sense of humor, suka laugh at medical realities, value community &#x26; sense of belonging, very active di social media (Instagram, TikTok).</li>
+<li><strong>Daily Life</strong>: Class, study, exam pressure, internship, jaga, financial stress, relationship challenge, diet struggle, sleep deprivation.</li>
+<li><strong>Pain Point</strong>: Overwhelming workload, exam anxiety, imposter syndrome, financial pressure, missing fun college life, medical school struggle feel isolating.</li>
+<li><strong>What They Love</strong>: Humor about their reality, relatable content, funny video, meme, trend, character-driven content, sense of humor about struggle.</li>
+<li><strong>Content Preference</strong>: Short-form video (Reels, TikTok), fun, entertaining, trend-aware, character-driven. Prefer quality entertainment over educational content pada platform ini.</li>
+</ul>
+<p><strong>Primary Audience #2: Dokter Muda (Fresh Graduate – Junior Resident)</strong></p>
+<ul>
+<li><strong>Demografi</strong>: Usia 25-32 tahun, fresh graduate atau dalam training program (intern, resident, fellowship).</li>
+<li><strong>Psychografi</strong>: Still experience medical life struggle tapi di different level, appreciate humor about their current reality, want community connection dengan peers.</li>
+<li><strong>Daily Life</strong>: Jadwal yang intense, patient care pressure, career decision, continuing education, still student mindset tapi dengan added responsibility.</li>
+<li><strong>Pain Point</strong>: Burnout, work-life balance, financial pressure, career direction uncertainty, long hours, physical/mental exhaustion.</li>
+<li><strong>What They Love</strong>: Humor about their reality (long shifts, bureaucracy, patient interaction), relatable content, connection dengan community yang understand struggle.</li>
+<li><strong>Content Preference</strong>: Same preference seperti mahasiswa – entertaining, relatable, trend-aware, character-driven.</li>
+</ul>
+<p><strong>Secondary Audience: Medical Colleagues &#x26; Network (Other Healthcare Professional)</strong></p>
+<ul>
+<li>Family/spouse dari doctor yang want to understand medical life struggle.</li>
+<li>Medical student atau fresh doctor di social circle yang influenced by peer sharing.</li>
+</ul>
+<h3 id="3-2-level-pengetahuan-audiens">3.2 Level Pengetahuan Audiens</h3>
+<ul>
+<li>
+<p><strong>Audiens sudah memiliki medical background atau dalam training</strong>, jadi mereka understand medical terminology dan concept.</p>
+</li>
+<li>
+<p><strong>Content tidak perlu explain basic medical terms</strong> – assume audiens understand (unless joke is about medical terminology itself).</p>
+</li>
+<li>
+<p><strong>Humor rooted dalam shared understanding</strong> dari medical education &#x26; practice – konten assume audiens know what medical school/doctor life is like.</p>
+</li>
+<li>
+<p><strong>Relatable humor over explanatory humor</strong> – konten succeed jika audiens go "OMG YES, EXACTLY THIS" not "hmm what does this mean?"</p>
+</li>
+</ul>
+<h3 id="3-3-karakter-audiens-yang-relevan-dengan-konten">3.3 Karakter Audiens yang Relevan dengan Konten</h3>
+<ul>
+<li>
+<p><strong>Mereka appreciate dark humor &#x26; gallows humor</strong> – humor about stress, hardship, struggle yang characteristic dari medical student/doctor culture.</p>
+</li>
+<li>
+<p><strong>Mereka value community &#x26; belonging</strong> – feeling like part of bigger group yang understand them is important. Want connection dengan other medical students/doctors.</p>
+</li>
+<li>
+<p><strong>Mereka are meme-literate &#x26; trend-aware</strong> – understand meme format, trending sound, viral format. Expect konten to be current &#x26; fresh.</p>
+</li>
+<li>
+<p><strong>Mereka are visual-first consumer</strong> – prefer video/meme/image over long text. Consume content fast, expect hook within 1-3 second.</p>
+</li>
+<li>
+<p><strong>Mereka are shareable-content lover</strong> – will share content dengan friends if find it funny/relatable. Shareability is key metric.</p>
+</li>
+<li>
+<p><strong>Mereka balance between being professional &#x26; having fun</strong> – appreciate humor but still want brand to respect medical profession. Not offensive humor, but intelligent, relatable humor.</p>
+</li>
+</ul>
+<hr>
+<h2 id="4-jenis-format-konten">4. JENIS &#x26; FORMAT KONTEN</h2>
+<h3 id="4-1-tema-konten-yang-diperbolehkan-dianjurkan">4.1 Tema Konten yang Diperbolehkan &#x26; Dianjurkan</h3>
+<h4 id="tema-1-medical-school-realities-struggles-realitas-struggle-kuliah-kedokteran-"><strong>Tema 1: Medical School Realities &#x26; Struggles (Realitas &#x26; Struggle Kuliah Kedokteran)</strong></h4>
+<p>Konten yang reflect actual experiences dari mahasiswa kedokteran – exam stress, study struggle, relationship, sleep deprivation, financial challenge, etc.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST (build community)</li>
+<li><strong>Format</strong>: Reels, TikTok, Carousel</li>
+<li><strong>Durasi</strong>: 15-45 detik (Reels/TikTok)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Medical student sleep schedule realistic vs expectation" (relatable video)</li>
+<li>"How med student react to exam result" (funny reaction video)</li>
+<li>"Things only medical student understand" (relatable list/carousel)</li>
+<li>"Medical student budget allocation" (funny breakdown)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-2-doctor-life-work-reality-realitas-hidup-dokter-"><strong>Tema 2: Doctor Life &#x26; Work Reality (Realitas Hidup Dokter)</strong></h4>
+<p>Konten tentang doctor life – long shifts, patient encounter, bureaucracy, emotional moment, etc. Relatable untuk dokter muda dan aspirational/realizable untuk mahasiswa.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Reels, TikTok, Video, Carousel</li>
+<li><strong>Durasi</strong>: 15-45 detik (Reels/TikTok)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Things doctor do when shift finally end" (funny action video)</li>
+<li>"Patient ask you something, you realize degree not enough" (relatable humor)</li>
+<li>"Doctor vs what people think doctor do" (comparison/expectation vs reality)</li>
+<li>"Doctor emergency room moment (real vs movie)" (funny comparison)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-3-trend-adaptation-meme-format-adaptasi-tren-format-meme-"><strong>Tema 3: Trend Adaptation &#x26; Meme Format (Adaptasi Tren &#x26; Format Meme)</strong></h4>
+<p>Memanfaatkan trending format, sound, meme template, dan adapt ke medical context. This is about being CURRENT dan FRESH dengan trend.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS (viral potential)</li>
+<li><strong>Format</strong>: Reels, TikTok, Feed Post (meme)</li>
+<li><strong>Durasi</strong>: 15-45 detik (video), single post (meme)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Popular TikTok sound yang di-adapt dengan medical context" (trending audio)</li>
+<li>"Trending meme template yang relevant ke medical context" (meme)</li>
+<li>"Viral challenge yang di-adapt dengan medical twist" (challenge variation)</li>
+<li>"Trending transition/effect yang showcase medical life" (trendy format)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-4-character-driven-content-konten-karakter-medi-"><strong>Tema 4: Character-Driven Content (Konten Karakter Medi)</strong></h4>
+<p>Konten yang feature Medi character – funny personality, relatable situation, character development. Character menjadi relatable &#x26; beloved figure.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST (character brand building)</li>
+<li><strong>Format</strong>: Reels, TikTok, Video Series, Carousel</li>
+<li><strong>Durasi</strong>: 15-60 detik (short series)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Medi day in the life as medical student" (character journey)</li>
+<li>"Medi react to medical situation/trend" (character reaction)</li>
+<li>"Medi give funny advice about medical life" (character personality)</li>
+<li>"Medi series: Medical student journey" (serial content)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-5-medical-culture-community-celebration-perayaan-kultur-medis-"><strong>Tema 5: Medical Culture &#x26; Community Celebration (Perayaan Kultur Medis)</strong></h4>
+<p>Konten yang celebrate culture, uniqueness, dan community dari medical profession. Feel-good content tentang medical community.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST (community building)</li>
+<li><strong>Format</strong>: Reels, TikTok, Carousel, Video</li>
+<li><strong>Durasi</strong>: 15-45 detik</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Only medical student can relate (with humor)" (community inside joke)</li>
+<li>"Things we love about medical community" (celebration post)</li>
+<li>"Medical student legacy &#x26; tradition" (cultural content)</li>
+<li>"Salute to healthcare worker" (appreciation/celebration)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-6-funny-relationship-social-content-relasi-konten-sosial-lucu-"><strong>Tema 6: Funny Relationship &#x26; Social Content (Relasi &#x26; Konten Sosial Lucu)</strong></h4>
+<p>Humor tentang relationship, dating, friendship, family sebagai seen through lens medical student/doctor life.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Reels, TikTok, Carousel</li>
+<li><strong>Durasi</strong>: 15-45 detik</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Dating a medical student – what to expect" (relatable humor)</li>
+<li>"How medical student friend apologize for ghosting" (funny relatable)</li>
+<li>"Family ask why you not home during exam" (relatable situation)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-7-behind-the-scenes-team-content-behind-the-scenes-tim-"><strong>Tema 7: Behind-the-Scenes &#x26; Team Content (Behind-the-Scenes &#x26; Tim)</strong></h4>
+<p>Konten yang show tim MEDTOOLS, process, fun moment di office, team dynamic. Humanize brand &#x26; build personal connection.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST (brand building)</li>
+<li><strong>Format</strong>: Reels, Stories, Carousel</li>
+<li><strong>Durasi</strong>: Short clips</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Day in the life ng MEDTOOLS team" (behind-the-scenes)</li>
+<li>"Team react to medical trend" (team content)</li>
+<li>"MEDTOOLS fun moment" (candid team content)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-8-interactive-participation-content-konten-interaktif-partisipasi-"><strong>Tema 8: Interactive &#x26; Participation Content (Konten Interaktif &#x26; Partisipasi)</strong></h4>
+<p>Konten yang encourage participation – poll, challenge, question, user tag, call for UGC, etc.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: INTEREST, DESIRE (engagement &#x26; community)</li>
+<li><strong>Format</strong>: Stories (poll, quiz, question sticker), Reels with participation, Carousel with call-to-action</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Tag your medical school friend yang…" (tagging challenge)</li>
+<li>"Poll: Medical student atau doctor preferred personality" (poll)</li>
+<li>"What your medical student superpower" (question prompt)</li>
+<li>"Send your funny medical school moment" (UGC call)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-9-educational-entertainment-hybrid-edukatif-entertainment-hybrid-"><strong>Tema 9: Educational-Entertainment Hybrid (Edukatif-Entertainment Hybrid)</strong></h4>
+<p>Konten yang is entertaining FIRST tapi contain subtle educational value atau interesting fact. Not lecture, entertainment yang happen to teach.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST (value-add entertainment)</li>
+<li><strong>Format</strong>: Reels, TikTok, Carousel</li>
+<li><strong>Durasi</strong>: 15-45 detik</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Weird medical fact yang will blow your mind" (interesting + entertaining)</li>
+<li>"Medical skill you didn't know" (surprising + educational)</li>
+<li>"Did you know about medical profession" (trivia format yang fun)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-10-subtle-ecosystem-mention-cross-promo-cross-promo-subtle-"><strong>Tema 10: Subtle Ecosystem Mention &#x26; Cross-Promo (Cross-Promo Subtle)</strong></h4>
+<p>Konten yang subtle mention Academy, Store, Medimpact, atau invite followers explore ecosystem. NOT hard sell, but natural mention.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: ACTION (indirect conversion)</li>
+<li><strong>Format</strong>: Reels, Stories, Feed Post</li>
+<li><strong>Durasi</strong>: As needed</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"By the way, Academy punya course untuk…" (natural mention)</li>
+<li>"Store product yang every medical student need" (soft mention)</li>
+<li>"If you follow Medimpact, you know…" (casual reference)</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-2-format-konten-yang-diutamakan-untuk-hai-medi">4.2 Format Konten yang Diutamakan untuk @hai.medi</h3>
+<p><strong>Format Priority Ranking:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Format</th>
+<th>Tujuan</th>
+<th>Frekuensi Target</th>
+<th>Durasi/Spec</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Reels (Entertainment)</strong></td>
+<td>AWARENESS, INTEREST</td>
+<td>2-4 per minggu</td>
+<td>15-45 detik</td>
+<td>Algorithm-favored, viral potential tinggi, entertainment-focused, short-form sweet spot</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>TikTok Video</strong></td>
+<td>AWARENESS, INTEREST</td>
+<td>2-4 per minggu</td>
+<td>15-45 detik</td>
+<td>Dedicated TikTok platform audience, trend-forward, high shareability</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Stories (Daily Updates)</strong></td>
+<td>INTEREST</td>
+<td>Daily (5-7 per hari)</td>
+<td>5-15 detik per story</td>
+<td>Keep followers engaged daily, interactive (poll, question), casual/authentic tone</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Feed Post (Meme/Single)</strong></td>
+<td>AWARENESS</td>
+<td>2-3 per minggu</td>
+<td>1 image + caption</td>
+<td>Meme format, iconic moment, can be evergreen &#x26; recyclable</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Carousel (List/Comparison)</strong></td>
+<td>AWARENESS, INTEREST</td>
+<td>1-2 per minggu</td>
+<td>5-10 slide</td>
+<td>Good untuk "relatable list" atau "comparison" format</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Live Video (Special)</strong></td>
+<td>INTEREST, DESIRE</td>
+<td>1x per bulan</td>
+<td>30-60 menit</td>
+<td>Real-time interaction, build community, special announcement</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="4-3-batasan-konten-do-s-don-ts-khusus-hai-medi-">4.3 Batasan Konten (Do's &#x26; Don'ts Khusus @hai.medi)</h3>
+<p><strong>❌ KONTEN YANG WAJIB DIHINDARI:</strong></p>
+<ul>
+<li>
+<p>❌ <strong>Offensive humor</strong>: Tidak boleh humor yang demean, disrespect, atau offensive terhadap medical profession, gender, ethnicity, religion, atau group tertentu. Humor harus "smart" dan "intelligent" bukan mean-spirited.</p>
+</li>
+<li>
+<p>❌ <strong>Promoting dangerous behavior</strong>: Jangan normalize atau encourage dangerous practice (belajar sambil jaga dengan ekstrim, overmedication, unsafe procedure, etc.).</p>
+</li>
+<li>
+<p>❌ <strong>Inaccurate medical information</strong>: Even dalam humor context, jangan spread medical misinformation. Humor boleh, tapi fact harus akurat.</p>
+</li>
+<li>
+<p>❌ <strong>Disrespecting patients atau healthcare ethics</strong>: Don't joke about patient confidentiality breach, lack of empathy, atau unethical behavior dokter.</p>
+</li>
+<li>
+<p>❌ <strong>Low quality production</strong>: Blurry video, bad audio, sloppy editing diminish entertainment value dan brand credibility.</p>
+</li>
+<li>
+<p>❌ <strong>Excessive hard selling</strong>: Don't force promo ecosystem brand. Subtle mention OK, aggressive sell NO.</p>
+</li>
+<li>
+<p>❌ <strong>Copied/plagiarized content</strong>: Don't repost other creator content without credit. Be original.</p>
+</li>
+<li>
+<p>❌ <strong>Content yang dismissive terhadap mental health struggle</strong>: Don't joke about depression, burnout, suicide dalam medical student/doctor context dalam way yang trivialize struggle.</p>
+</li>
+<li>
+<p>❌ <strong>External brand logo atau competitor mention</strong>: Keep konten focused on MEDTOOLS ecosystem, jangan promote unrelated brand.</p>
+</li>
+<li>
+<p>❌ <strong>Content yang alienate non-medical audience</strong>: While target adalah medis student/doctor, jangan make content SO inside-joke yang family/non-medical friend can't enjoy.</p>
+</li>
+</ul>
+<p><strong>✅ KONTEN YANG DIANJURKAN:</strong></p>
+<ul>
+<li>
+<p>✅ <strong>Intelligent, relatable humor</strong>: Humor yang rooted dalam shared understanding, not mean-spirited atau offensive. "OMG YES" moment.</p>
+</li>
+<li>
+<p>✅ <strong>Trend-aware &#x26; fresh</strong>: Content that is current, capitalize pada trending format, sound, topic. Not outdated reference.</p>
+</li>
+<li>
+<p>✅ <strong>Character-driven &#x26; personality-forward</strong>: Feature personality, character, relatable figure. Not generic health content.</p>
+</li>
+<li>
+<p>✅ <strong>Shareability-focused</strong>: Create content people WANT to share dengan friend. Viral potential high.</p>
+</li>
+<li>
+<p>✅ <strong>Authentic &#x26; genuine</strong>: Feel authentic &#x26; genuine, not overly polished atau fake. Medical student/doctor appreciate authenticity.</p>
+</li>
+<li>
+<p>✅ <strong>Community-focused</strong>: Build community feeling, celebrate shared culture, make followers feel belong.</p>
+</li>
+<li>
+<p>✅ <strong>High production quality</strong>: Good lighting, clean audio, smooth editing. Entertainment quality matter.</p>
+</li>
+<li>
+<p>✅ <strong>Inclusive humor</strong>: Humor yang inclusive &#x26; celebrate diversity, not alienate group.</p>
+</li>
+<li>
+<p>✅ <strong>Hook strong di beginning</strong>: First 1-3 second must hook viewer. Entertainment content stand/fall on hook strength.</p>
+</li>
+<li>
+<p>✅ <strong>Encourage interaction</strong>: Content yang encourage comment, share, tag, participation drive engagement &#x26; community.</p>
+</li>
+</ul>
+<hr>
+<h2 id="5-sop-pembuatan-konten">5. SOP PEMBUATAN KONTEN</h2>
+<h3 id="5-1-tahap-ideasi-konten">5.1 Tahap Ideasi Konten</h3>
+<p><strong>Tujuan</strong>: Menghasilkan ide konten entertaining yang fresh, relevant, dan viral potential tinggi.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Trend Monitoring &#x26; Inspiration Gathering</strong> (Ongoing)</p>
+<ul>
+<li>Team constantly monitor:
+<ul>
+<li>TikTok trending sound &#x26; format (lihat apa yang viral di medical/student category)</li>
+<li>Instagram Reels trending format</li>
+<li>Meme template yang sedang viral</li>
+<li>Twitter/X thread tentang medical student/doctor life</li>
+<li>YouTube short yang viral</li>
+<li>Competitor content (@doktertik, medical TikTok creator lain, medical meme page)</li>
+</ul>
+</li>
+<li>Document interesting idea di shared doc/Trello board untuk reference.</li>
+<li>Set aside time daily untuk "scroll &#x26; inspiration" (mandatory 15-30 min per day untuk stay current).</li>
+</ul>
+</li>
+<li>
+<p><strong>Weekly Ideation Session</strong> (Every Minggu, ideally Senin atau Selasa)</p>
+<ul>
+<li><strong>Peserta</strong>: Social Media Manager + Editor + Illustrator + Talent (jika ada).</li>
+<li><strong>Format</strong>: Brainstorming session, 60-90 menit.</li>
+<li><strong>Process</strong>:
+<ul>
+<li>Each participant bring 3-5 idea untuk konten minggu ini.</li>
+<li>Discuss idea bersama – expand, refine, combine idea.</li>
+<li>Evaluate idea berdasarkan criteria:
+<ul>
+<li>Entertainment value (how funny/relatable is this?)</li>
+<li>Trend relevance (is this current atau outdated?)</li>
+<li>Shareability (will people share this?)</li>
+<li>Production feasibility (can we produce this?)</li>
+<li>Audience alignment (will our audience love this?)</li>
+</ul>
+</li>
+<li>Vote atau score idea, finalize top ideas untuk minggu ini.</li>
+<li>Assign creator untuk each idea + due date.</li>
+</ul>
+</li>
+<li><strong>Output</strong>: Concrete content ideas untuk minggu dengan assigned creator.</li>
+</ul>
+</li>
+<li>
+<p><strong>Trend Adaptation Strategy</strong></p>
+<ul>
+<li>For trending format/sound yang promising:
+<ul>
+<li>Identify medical angle atau how to adapt untuk medical context</li>
+<li>Create 1-3 variation dari trending format</li>
+<li>Execute quickly (trend window is short, usually 3-5 hari)</li>
+</ul>
+</li>
+<li>Keep reference library dari trending format yang work well untuk reference future.</li>
+</ul>
+</li>
+<li>
+<p><strong>Content Calendar Assembly</strong></p>
+<ul>
+<li>Social Media Manager compile all approved ideas ke dalam weekly content calendar dengan:
+<ul>
+<li>Idea description, Format, Assigned creator, Due date, Posting date/time.</li>
+</ul>
+</li>
+<li>Share dengan team untuk visibility &#x26; coordination.</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-2-tahap-riset-validasi-materi">5.2 Tahap Riset &#x26; Validasi Materi</h3>
+<p><strong>Tujuan</strong>: Ensure konten adalah accurate, appropriate, on-brand, dan production-feasible.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Concept Validation</strong></p>
+<ul>
+<li>Untuk setiap idea, ask:
+<ul>
+<li>Is this funny/entertaining? (if not, reconsider)</li>
+<li>Is this relatable untuk target audience? (test dengan quick pulse check dengan friend dari target audience)</li>
+<li>Is this original atau too similar dengan existing viral video? (quick YouTube/TikTok search)</li>
+<li>Will MEDTOOLS audience appreciate this? (align dengan brand tone &#x26; audience)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Accuracy Check</strong> (for ideas dengan educational component)</p>
+<ul>
+<li>If konten contain any medical fact/reference, verify accuracy.</li>
+<li>Ask expert/doctor jika unsure (better safe than spread misinformation juga dalam humor context).</li>
+</ul>
+</li>
+<li>
+<p><strong>Appropriateness &#x26; Sensitivity Check</strong></p>
+<ul>
+<li>Review konten untuk ensure:
+<ul>
+<li>Not offensive ke any group</li>
+<li>Respect medical profession &#x26; patient</li>
+<li>No harmful behavior normalization</li>
+<li>Align dengan brand value (inclusive, supportive, professional)</li>
+</ul>
+</li>
+<li>If doubt, escalate ke Dept. Head untuk sensitivity review.</li>
+</ul>
+</li>
+<li>
+<p><strong>Production Feasibility Check</strong></p>
+<ul>
+<li>Can we produce this dengan available resource?</li>
+<li>Do we have talent, equipment, location needed?</li>
+<li>Timeline realistic? (trend window consideration)</li>
+<li>Budget within allocation?</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-3-tahap-script-concept-development">5.3 Tahap Script &#x26; Concept Development</h3>
+<p><strong>Tujuan</strong>: Translate idea jadi concrete script atau visual concept yang siap di-produce.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Script Writing</strong> (untuk Video Content)</p>
+<ul>
+<li>
+<p><strong>Structure</strong>:</p>
+<pre><code>[0:00-0:02] HOOK: Attention-grabbing moment yang make viewer stay
+[0:02-0:10] Setup: Establish situation atau expectation
+[Main Content] Payoff, twist, punchline, relatable moment
+[Conclusion] Final punchline or emotional beat
+[0:40-0:45] Outro: Subtle CTA atau signature (follow, tag, check bio)
+</code></pre>
+</li>
+<li>
+<p><strong>Key Guidelines</strong>:</p>
+<ul>
+<li>Hook MUST be strong (first 1-3 detik sangat critical untuk entertainment content)</li>
+<li>Build anticipation atau expectation then subvert dengan funny payoff</li>
+<li>Use relatable scenario atau character yang audience recognize</li>
+<li>Pacing fast (don't linger di one beat terlalu lama)</li>
+<li>Ensure punchline/payoff is clear (audience should "get the joke")</li>
+</ul>
+</li>
+<li>
+<p><strong>Tone</strong>:</p>
+<ul>
+<li>Funny &#x26; entertaining</li>
+<li>Relatable &#x26; authentic</li>
+<li>Smart humor (not offensive atau mean)</li>
+<li>Casual &#x26; conversational (not overly polished)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Storyboard untuk Video</strong></p>
+<ul>
+<li>Create simple visual storyboard dengan:
+<ul>
+<li>Key scene/shot di setiap timing</li>
+<li>Main action/expression di setiap frame</li>
+<li>Audio element (if any – music, sound effect, dialogue)</li>
+</ul>
+</li>
+<li>Simple sketch OK, jangan perlu artistic. Just untuk visualize flow.</li>
+</ul>
+</li>
+<li>
+<p><strong>Meme atau Carousel Layout Planning</strong></p>
+<ul>
+<li>For meme/single image:
+<ul>
+<li>Visual layout (where text, where image, font size)</li>
+<li>Punchline clarity</li>
+<li>Color scheme on-brand</li>
+</ul>
+</li>
+<li>For carousel:
+<ul>
+<li>Number of slide (keep concise, max 8-10)</li>
+<li>Punchline structure (build dari slide 1, payoff di akhir)</li>
+<li>Visual consistency across slide</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Concept Approval Before Production</strong></p>
+<ul>
+<li>Submit script atau visual concept ke Social Media Manager atau Dept. Head.</li>
+<li>Approval focus on: Entertainment value, Humor effectiveness, Brand alignment, Production feasibility.</li>
+<li>Timeline: Approve dalam max 1 hari kerja.</li>
+<li>Feedback usually quick unless major revision needed.</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-4-tahap-produksi-visual-video">5.4 Tahap Produksi Visual &#x26; Video</h3>
+<p><strong>Tujuan</strong>: Execute approved concept jadi entertainment content berkualitas tinggi.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Pre-Production Checklist</strong></p>
+<ul>
+<li>✓ Script finalized &#x26; approved</li>
+<li>✓ Storyboard clear</li>
+<li>✓ Talent confirmed (jika ada actor/character)</li>
+<li>✓ Location scouted atau studio setup ready</li>
+<li>✓ Equipment (camera, phone, lighting if needed) tested &#x26; ready</li>
+<li>✓ Costume, props prepared (jika needed)</li>
+<li>✓ Trending sound/music downloaded &#x26; ready (jika using trending audio)</li>
+</ul>
+</li>
+<li>
+<p><strong>Video Production Best Practice untuk Entertainment Content</strong></p>
+<ul>
+<li><strong>Hook First 3 Second</strong>: Ensure yang happen dalam 3 detik pertama is compelling &#x26; make viewer want to continue.</li>
+<li><strong>Maintain Pacing</strong>: Entertainment content perlu have good rhythm/pacing. Not too slow, not too frenetic.</li>
+<li><strong>Authentic Performance</strong>: For talent-based content, authentic &#x26; genuine performance lebih penting daripada perfect acting. Relatable > polished.</li>
+<li><strong>Clean Audio</strong>: Even untuk entertaining content, audio quality matter. Dialogue harus clear &#x26; audible.</li>
+<li><strong>Good Lighting</strong>: Even dengan phone, good lighting make big difference. Natural light OK, jangan terlalu dark atau shadow.</li>
+<li><strong>Stable Footage</strong>: Use tripod, gimbal, atau steady hand. Shaky video diminish entertainment value.</li>
+</ul>
+</li>
+<li>
+<p><strong>Editing Tips untuk Entertainment Content</strong></p>
+<ul>
+<li><strong>Fast Pacing</strong>: Keep cut tight, don't linger. Entertainment content benefit dari quick cut.</li>
+<li><strong>Music/Sound Design</strong>: Trending sound is bonus, but even simple music/sound effect can enhance humor.</li>
+<li><strong>Text Overlay</strong>: Use text untuk emphasize punchline, add context, or create visual joke.</li>
+<li><strong>Transition</strong>: Smooth transition matter. Consider trending transition atau simple fade.</li>
+<li><strong>Special Effect</strong>: Use effect sparsely &#x26; smartly. Not overdo effect.</li>
+</ul>
+</li>
+<li>
+<p><strong>Trend-Responsive Production</strong></p>
+<ul>
+<li>For trending format: <strong>produce quickly</strong> (ideally same day atau within 1-2 days)</li>
+<li>Have template ready untuk fast iteration (if using trending format, pre-prepare base template)</li>
+<li>Be ready untuk produce 2-3 variation dari same trending format dengan different angle/twist</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-5-tahap-quality-control-sebelum-upload">5.5 Tahap Quality Control Sebelum Upload</h3>
+<p><strong>Tujuan</strong>: Ensure konten is entertainment-optimized sebelum publish.</p>
+<p><strong>QC Checklist untuk Entertainment Content:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Requirement</th>
+<th>Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Entertainment Quality</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hook Strength</td>
+<td>First 1-3 second grab attention &#x26; make viewer stay</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Humor Effectiveness</td>
+<td>Punchline is clear, relatable, and make audience laugh/smile</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Pacing</td>
+<td>Good rhythm, not too slow, not too frenetic</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Originality</td>
+<td>Content is fresh/original, not too similar dengan existing video</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Relatability</td>
+<td>Content is relatable untuk target audience</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Shareability</td>
+<td>Would people want to share this?</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Production Quality</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Audio Quality</td>
+<td>Clear dialogue/narration, good volume level, minimal noise</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Visual Quality</td>
+<td>Sharp image, good lighting, color grading clean</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>Optimized untuk format (Reels: 15-45s, Carousel: 5-10 slide)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Resolution</td>
+<td>Proper untuk platform (1080x1920 untuk vertical)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Editing</td>
+<td>Smooth transition, good pacing, professional</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Brand Compliance</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>On-Brand Tone</td>
+<td>Content tone match @hai.medi brand personality</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>No Offensive Content</td>
+<td>Not offensive, disrespectful, atau inappropriate</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Medical Accuracy</td>
+<td>If contain medical reference, akurat (even dalam humor)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>No External Logo</td>
+<td>No competitor/unrelated brand logo visible</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Character Consistency</td>
+<td>If feature Medi character, consistent dengan established personality</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Caption Quality</td>
+<td>No typo, grammar correct, caption enhance content</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>QC Process:</strong></p>
+<ol>
+<li>
+<p><strong>Self-Review by Creator</strong></p>
+<ul>
+<li>Creator use checklist untuk self-review sebelum submit.</li>
+<li>Ask self: "Would I share this dengan friend? Is this funny enough?"</li>
+</ul>
+</li>
+<li>
+<p><strong>Content Manager Review</strong></p>
+<ul>
+<li>Social Media Manager watch konten dengan fresh eye (ask: is this entertaining? Will audiens like this?)</li>
+<li>Provide feedback pada entertainment value, pacing, brand fit.</li>
+<li>Timeline: Max 1 hari kerja.</li>
+</ul>
+</li>
+<li>
+<p><strong>Final Approval</strong></p>
+<ul>
+<li>Once revised, konten di-mark "APPROVED FOR PUBLISH".</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="6-sop-upload-publishing">6. SOP UPLOAD &#x26; PUBLISHING</h2>
+<h3 id="6-1-alur-upload-konten">6.1 Alur Upload Konten</h3>
+<p><strong>Step 1: Organize File di Google Drive</strong></p>
+<pre><code>HAI_MEDI/[TAHUN]/[BULAN]/04_FINAL_UNTUK_PUBLISH/
+├── REELS_IG/
+│   ├── 20260120_IG-REELS_MedSchoolReality_V_FINAL.mp4
+│   └── 20260120_IG-REELS_MedSchoolReality_CAPTION.txt
+├── TIKTOK/
+│   ├── 20260120_TIKTOK_TrendingSound_V_FINAL.mp4
+│   └── 20260120_TIKTOK_TrendingSound_CAPTION.txt
+├── FEED_MEME/
+│   ├── 20260120_IG-FEED_MemeDoctor_IMAGE.jpg
+│   └── 20260120_IG-FEED_MemeDoctor_CAPTION.txt
+├── CAROUSEL/
+│   ├── 20260120_IG-CAROUSEL_RelableList_SLIDE1.jpg
+│   └── 20260120_IG-CAROUSEL_RelableList_CAPTION.txt
+└── STORIES/
+    └── 20260120_STORIES_DailyContent_SPEC.txt
+</code></pre>
+<p><strong>Step 2: Prepare Metadata &#x26; Caption</strong>
+Untuk setiap konten, siapkan file (TXT atau DOCS) dengan:</p>
+<ul>
+<li>Caption (final text untuk publish)</li>
+<li>Hashtags (15-25 relevant hashtags)</li>
+<li>Tags (akun yang di-tag, jika any)</li>
+<li>Link (jika ada, misal: mengarah ke bio link)</li>
+<li>Posting time recommendation (optimal posting window)</li>
+<li>Content type (untuk tracking)</li>
+</ul>
+<p><strong>Step 3: Create Weekly Publishing Schedule</strong></p>
+<ul>
+<li>Social Media Manager create schedule dengan semua konten yang akan publish minggu ini.</li>
+<li>Include: date, time, platform, format, content type, caption.</li>
+<li>Share dengan team untuk coordination.</li>
+</ul>
+<h3 id="6-2-proses-approval-sebelum-publish">6.2 Proses Approval Sebelum Publish</h3>
+<p><strong>Final Check Before Publishing:</strong></p>
+<p>Social Media Manager atau Dept. Head lakukan final approval:</p>
+<ol>
+<li>✓ Caption final, no typo, engaging hook</li>
+<li>✓ Hashtag relevant &#x26; good mix (branded + niche + popular)</li>
+<li>✓ Links tested &#x26; working</li>
+<li>✓ Timing tidak conflict dengan other content</li>
+<li>✓ Content entertaining &#x26; on-brand</li>
+<li>✓ No inappropriate/offensive element</li>
+</ol>
+<p><strong>Timeline</strong>: Approve 12-24 jam sebelum scheduled posting.</p>
+<h3 id="6-3-aturan-caption">6.3 Aturan Caption</h3>
+<p><strong>Caption Structure untuk @hai.medi:</strong></p>
+<pre><code>[HOOK/RELATABLE QUESTION – grab attention &#x26; create curiosity]
+[BREAK]
+
+[MAIN CAPTION – context atau continuation dari konten]
+[Optional: Subtle fun element atau additional context]
+[BREAK]
+
+[CTA – encourage interaction atau mention ecosystem (subtle)]
+
+[BREAK]
+
+[HASHTAGS – 18-25 relevant hashtags]
+</code></pre>
+<p><strong>Example Good Caption:</strong></p>
+<pre><code>POV: You're medical student at 3 AM studying for exam tapi focus ada di apakah coffee 4th atau 5th cup 😂
+
+Tag your med school friend yang currently in this exact position 👇
+
+#MediWorld #MedicalStudent #MedSchoolLife #DokterMuda #FakultasKedokteran #StudyFails #MedStudentProblems #DokterIndonesia #KeluargaBesar #ComedyClips #TrendingNow
+</code></pre>
+<p><strong>Caption Best Practice:</strong></p>
+<p>✓ Relatable hook yang create immediate connection<br>
+✓ Brief context atau expansion dari video<br>
+✓ Conversational tone (not formal)<br>
+✓ Encouraging interaction (tag friend, ask question, share experience)<br>
+✓ Subtle CTA atau mention ecosystem (natural, not forced)<br>
+✓ 2-3 emoji max<br>
+✓ Professional tapi fun &#x26; approachable</p>
+<h3 id="6-4-aturan-hashtag">6.4 Aturan Hashtag</h3>
+<p><strong>Hashtag Strategy untuk @hai.medi:</strong></p>
+<p><strong>Mix Hashtag Types:</strong></p>
+<ol>
+<li>
+<p><strong>Brand Hashtag</strong> (Required)</p>
+<ul>
+<li>#MediWorld (branded)</li>
+<li>#MedtoolsCommunity (ecosystem)</li>
+</ul>
+</li>
+<li>
+<p><strong>Niche/Medical Hashtag</strong></p>
+<ul>
+<li>#MedicalStudent, #DokterIndonesia, #MedSchoolLife</li>
+<li>#FakultasKedokteran, #DokterMuda, #MedicalSchoolStruggles</li>
+<li>Reach: 10K-100K (good balance reach vs relevance)</li>
+</ul>
+</li>
+<li>
+<p><strong>Entertainment/Trend Hashtag</strong></p>
+<ul>
+<li>#ComedyClips, #FunnyVideos, #Relatable, #TrendingNow</li>
+<li>#MemeContent, #Hilarious, #ViralVideo</li>
+<li>Reach: 50K-500K (good reach)</li>
+</ul>
+</li>
+<li>
+<p><strong>Broad Appeal Hashtag</strong></p>
+<ul>
+<li>#IndonesianContent, #Comedy, #Trending</li>
+<li>Reach: 1M+ (high reach, lower relevance)</li>
+</ul>
+</li>
+</ol>
+<p><strong>Hashtag Count</strong>: 20-25 well-chosen hashtags</p>
+<p><strong>Hashtag Placement</strong>: Include dalam caption jika space allows, atau in first comment jika caption crowded.</p>
+<h3 id="6-5-ketentuan-teknis-platform">6.5 Ketentuan Teknis Platform</h3>
+<p><strong>Format &#x26; Resolusi untuk Instagram:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Konten Type</th>
+<th>Resolusi</th>
+<th>Aspect Ratio</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reels</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>MP4</td>
+</tr>
+<tr>
+<td>Feed Post (Meme/Single)</td>
+<td>1080 x 1080px</td>
+<td>1:1</td>
+<td>JPG/PNG</td>
+</tr>
+<tr>
+<td>Carousel</td>
+<td>1080 x 1350px per slide</td>
+<td>4:5</td>
+<td>JPG/PNG</td>
+</tr>
+<tr>
+<td>Stories</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>JPG/PNG/MP4</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Format &#x26; Resolusi untuk TikTok:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Content</th>
+<th>Resolusi</th>
+<th>Aspect Ratio</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Video</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>MP4</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Upload Best Practice:</strong></p>
+<p>✓ Always test upload di 1-2 device untuk ensure quality<br>
+✓ Video play correctly sebelum publish<br>
+✓ Trending audio license clear (TikTok usually auto-set)<br>
+✓ Caption preview di app sebelum publish (ensure no cut-off)</p>
+<hr>
+<h2 id="7-kuota-frekuensi-konten">7. KUOTA &#x26; FREKUENSI KONTEN</h2>
+<h3 id="7-1-target-output-konten-per-platform">7.1 Target Output Konten per Platform</h3>
+<p>Berdasarkan entertainment focus dan growth strategy:</p>
+<p><strong>Instagram @hai.medi:</strong></p>
+<ul>
+<li><strong>Target Minimum</strong>: 20-26 konten/bulan (<strong>Green Target</strong>)</li>
+<li><strong>Breakdown</strong>:
+<ul>
+<li>Reels (Entertainment): 2-4 per minggu (8-16 per bulan) = <strong>PRIMARY</strong></li>
+<li>Feed Post (Meme/Single): 2-3 per minggu (8-12 per bulan)</li>
+<li>Carousel (Relatable List): 1-2 per minggu (4-8 per bulan)</li>
+<li>Stories: Daily (5-7 per hari, min 100+ per bulan) = <strong>CONSTANT ENGAGEMENT</strong></li>
+</ul>
+</li>
+</ul>
+<p><strong>TikTok @hai.medi:</strong></p>
+<ul>
+<li><strong>Target</strong>: 2-4 per minggu (8-16 per bulan)</li>
+<li><strong>Format</strong>: Short entertaining video, trending adaptation</li>
+<li><strong>Duration</strong>: 15-45 detik</li>
+</ul>
+<h3 id="7-2-optimal-posting-schedule">7.2 Optimal Posting Schedule</h3>
+<p><strong>Weekday (Senin-Jumat):</strong></p>
+<ul>
+<li><strong>Primary Window 1</strong>: 11:00-13:00 WIB (lunch break, high social media usage)</li>
+<li><strong>Primary Window 2</strong>: 19:00-21:00 WIB (evening relaxation time, study break)</li>
+<li><strong>Secondary</strong>: 08:00-09:00 WIB (morning, before class/work)</li>
+</ul>
+<p><strong>Weekend (Sabtu-Minggu):</strong></p>
+<ul>
+<li><strong>Primary</strong>: 10:00-12:00 WIB (morning leisure)</li>
+<li><strong>Secondary</strong>: 19:00-21:00 WIB (evening)</li>
+<li>Generally good for entertainment content weekend</li>
+</ul>
+<p><strong>Stories Posting:</strong></p>
+<ul>
+<li>Spread throughout day untuk maintain constant visibility</li>
+<li>Morning, mid-day, afternoon, evening untuk reach different segment</li>
+<li>Aim untuk 5-7 stories daily (consistency = visibility)</li>
+</ul>
+<p><strong>Note</strong>: Always verify dengan Instagram Insights untuk actual "Best Time to Post" untuk @hai.medi audience specifically, dan adjust accordingly every month.</p>
+<h3 id="7-3-consistency-reliability">7.3 Consistency &#x26; Reliability</h3>
+<ul>
+<li>
+<p><strong>Hit monthly quota minimum</strong>: 20-26 konten per bulan adalah MINIMUM untuk maintain momentum.</p>
+</li>
+<li>
+<p><strong>Consistency is key</strong>: Regular posting 3-4x per minggu consistent lebih baik dari burst-then-silence pattern. Followers expect regular content.</p>
+</li>
+<li>
+<p><strong>Maintain stories daily</strong>: Stories are lifeblood untuk @hai.medi engagement. Daily stories adalah non-negotiable untuk keep followers engaged &#x26; in loop.</p>
+</li>
+<li>
+<p><strong>Buffer evergreen content</strong>: Always maintain 3-5 evergreen (tidak time-sensitive) entertaining content dalam draft untuk emergency publishing.</p>
+</li>
+<li>
+<p><strong>React to trend quickly</strong>: Trending content window is short. If trend is relevant, publish within 24-48 hours untuk capitalize.</p>
+</li>
+</ul>
+<hr>
+<h2 id="8-tone-of-voice-branding">8. TONE OF VOICE &#x26; BRANDING</h2>
+<h3 id="8-1-tone-of-voice-untuk-hai-medi">8.1 Tone of Voice untuk @hai.medi</h3>
+<p>@hai.medi voice adalah <strong>fun, relatable, smart, authentic, dan community-focused</strong>. Brand personality adalah like a "funny friend who understand your struggle dan make you laugh about it."</p>
+<p><strong>Karakteristik Brand Voice:</strong></p>
+<ol>
+<li>
+<p><strong>Fun &#x26; Entertaining</strong> (Menyenangkan &#x26; Menghibur)</p>
+<ul>
+<li>✓ Primary goal is to entertain, make audience laugh</li>
+<li>✓ Humor is intelligent &#x26; relatable (not mean-spirited)</li>
+<li>✓ Conversational &#x26; casual tone (not corporate/stiff)</li>
+<li>✓ Light-hearted even about serious topic (dark humor OK jika appropriate)</li>
+<li>Contoh: "Medical school: where you learn that sleep is optional and coffee is essential 😅"</li>
+</ul>
+</li>
+<li>
+<p><strong>Relatable &#x26; Authentic</strong> (Relatable &#x26; Authentic)</p>
+<ul>
+<li>✓ Content rooted dalam shared understanding dari medical life</li>
+<li>✓ Show real emotion &#x26; struggle (not fake cheerfulness)</li>
+<li>✓ Acknowledge difficulty dengan humor (don't minimize struggle)</li>
+<li>✓ Genuine &#x26; authentic (audience can tell jika content is fake)</li>
+<li>Contoh: "That moment when exam is over dan you realize half the answers were guess 🤦"</li>
+</ul>
+</li>
+<li>
+<p><strong>Inclusive &#x26; Welcoming</strong> (Inclusive &#x26; Ramah)</p>
+<ul>
+<li>✓ Make all followers feel welcome &#x26; part of community</li>
+<li>✓ Celebrate diversity dalam medical field</li>
+<li>✓ Humor yang inclusive, not alienating group</li>
+<li>✓ Supportive tone (not judgmental tentang struggle)</li>
+<li>Contoh: "Shout out to all medical student (regardless year/university) – we're all surviving together!"</li>
+</ul>
+</li>
+<li>
+<p><strong>Smart &#x26; Clever</strong> (Smart &#x26; Clever)</p>
+<ul>
+<li>✓ Humor demonstrate understanding &#x26; intelligence</li>
+<li>✓ Pop culture reference, meme literacy, trend awareness</li>
+<li>✓ Not dumbed-down atau obvious humor</li>
+<li>✓ Audience appreciate cleverness &#x26; wit</li>
+<li>Contoh: "Medical student sleep schedule: expecting the world, settling for 3-hour nap" (understated humor)</li>
+</ul>
+</li>
+<li>
+<p><strong>Supportive &#x26; Empowering</strong> (Supportive &#x26; Empowering)</p>
+<ul>
+<li>✓ Underlying message is empowerment &#x26; validation</li>
+<li>✓ Celebrate strength &#x26; resilience dari medical community</li>
+<li>✓ Humor acknowledge struggle tapi also celebrate capability</li>
+<li>✓ Make audience feel less alone dalam journey mereka</li>
+<li>Contoh: "Medical student are strong AF – surviving on coffee, survival instinct, dan spite 💪"</li>
+</ul>
+</li>
+</ol>
+<h3 id="8-2-karakteristik-konten-yang-harus-konsisten">8.2 Karakteristik Konten yang Harus Konsisten</h3>
+<p><strong>Visual Identity:</strong></p>
+<ul>
+<li>Logo &#x26; branding consistent (Medi World logo di appropriate place)</li>
+<li>Color palette on-brand (MEDTOOLS color scheme)</li>
+<li>Font consistent (approved font)</li>
+<li>Visual style recognizable (if have character Medi, consistent appearance)</li>
+</ul>
+<p><strong>Character Consistency</strong> (if applicable):</p>
+<ul>
+<li>Medi character personality consistent (same sense of humor, reaction pattern, quirk)</li>
+<li>Character development over time (growth tapi tetap recognizable)</li>
+<li>Audience develop relationship dengan character</li>
+</ul>
+<p><strong>Community Culture:</strong></p>
+<ul>
+<li>Supportive &#x26; inclusive (no put-down humor)</li>
+<li>Celebratory tone (celebrate medical identity &#x26; community)</li>
+<li>Authentic &#x26; genuine</li>
+<li>Responsive &#x26; engage dengan followers</li>
+</ul>
+<h3 id="8-3-voice-guidelines-untuk-specific-situations">8.3 Voice Guidelines untuk Specific Situations</h3>
+<p><strong>Saat Balas Komentar/DM:</strong></p>
+<ul>
+<li>✓ <strong>Response Time</strong>: Max 24 jam (ideal: &#x3C;12 jam during business hours)</li>
+<li>✓ <strong>Tone</strong>: Fun, friendly, approachable, match content tone</li>
+<li>✓ <strong>Depth</strong>: Genuine response, not generic emoji</li>
+<li>Contoh good response: "OMG THIS IS ME 😭 Which medical school are you in?"</li>
+</ul>
+<p><strong>Saat Ada Negative Comment atau Kritik:</strong></p>
+<ul>
+<li>✓ Don't get defensive</li>
+<li>✓ Acknowledge jika ada valid point</li>
+<li>✓ Respond dengan humor (if appropriate) atau professional courtesy</li>
+<li>✓ Jangan escalate conflict</li>
+<li>Contoh: "Haha fair point! Tapi kita tetap cinta medical life 😅"</li>
+</ul>
+<p><strong>Saat Feature UGC (User-Generated Content):</strong></p>
+<ul>
+<li>✓ Give proper credit</li>
+<li>✓ Show appreciation</li>
+<li>✓ Celebrate follower contribution</li>
+<li>Contoh: "😂😂 SHOUT OUT TO @username for this – EXACTLY how it feels!"</li>
+</ul>
+<p><strong>Saat Mention Ecosystem Brand (Academy, Store, Medimpact):</strong></p>
+<ul>
+<li>✓ Natural mention, not forced promotion</li>
+<li>✓ Light-hearted tone</li>
+<li>✓ Connect dengan entertainment value (not hard sell)</li>
+<li>Contoh: "If you follow @medtools.academy, you know this struggle is REAL 😆"</li>
+</ul>
+<hr>
+<h2 id="9-do-s-don-ts-creator-hai-medi">9. DO'S &#x26; DON'TS CREATOR @HAI.MEDI</h2>
+<h3 id="9-1-wajib-dilakukan-do-s-">9.1 WAJIB DILAKUKAN (Do's)</h3>
+<p>✅ <strong>Entertain First, Educate Second</strong></p>
+<ul>
+<li>Content harus entertaining FIRST. If educational value ada, itu bonus tapi tidak mandatory.</li>
+<li>Audience datang untuk laugh &#x26; relatable moment, bukan untuk learn (unlike Academy).</li>
+</ul>
+<p>✅ <strong>Stay Current &#x26; Trend-Aware</strong></p>
+<ul>
+<li>Monitor trend daily, adapt quickly</li>
+<li>Incorporate trending sound, meme format, trend topic</li>
+<li>Content yang outdated = not relevant = low engagement</li>
+</ul>
+<p>✅ <strong>Create Relatable Content</strong></p>
+<ul>
+<li>Content harus rooted dalam shared understanding dari target audience</li>
+<li>"This is SO ME" moment adalah goal</li>
+<li>Authenticity > perfection</li>
+</ul>
+<p>✅ <strong>Build Community &#x26; Engagement</strong></p>
+<ul>
+<li>Respond to comment &#x26; DM thoughtfully</li>
+<li>Feature follower content &#x26; give credit</li>
+<li>Create content yang encourage participation (tag, comment, share)</li>
+<li>Show appreciation untuk community</li>
+</ul>
+<p>✅ <strong>Maintain High Entertainment Quality</strong></p>
+<ul>
+<li>Good hook dalam first 3 second</li>
+<li>Strong punchline atau payoff</li>
+<li>Good pacing &#x26; editing</li>
+<li>Production quality matter untuk entertainment</li>
+</ul>
+<p>✅ <strong>Be Original &#x26; Authentic</strong></p>
+<ul>
+<li>Create original content, not copy other creator</li>
+<li>Bring authentic personality &#x26; perspective</li>
+<li>Add unique angle atau twist pada trending format</li>
+</ul>
+<p>✅ <strong>Celebrate Medical Community</strong></p>
+<ul>
+<li>Content celebrate what special tentang medical student/doctor</li>
+<li>Supportive tone terhadap community</li>
+<li>Inclusive humor (not alienate group)</li>
+</ul>
+<p>✅ <strong>Protect Medical Ethics &#x26; Professionalism</strong></p>
+<ul>
+<li>Even dalam humor, respect medical profession &#x26; patient</li>
+<li>Don't normalize dangerous atau unethical behavior</li>
+<li>Don't breach patient confidentiality even dalam joke</li>
+</ul>
+<h3 id="9-2-dilarang-dilakukan-don-ts-">9.2 DILARANG DILAKUKAN (Don'ts)</h3>
+<p>❌ <strong>Offensive atau Mean-Spirited Humor</strong></p>
+<ul>
+<li>❌ Don't demean, disrespect, atau offensive terhadap group (gender, ethnicity, religion, profession)</li>
+<li>❌ Don't punch down (humor should punch up atau sideways, not down)</li>
+<li>❌ Don't humor yang trivialize serious struggle (like mental health, burnout)</li>
+</ul>
+<p>❌ <strong>Misinformation atau Dangerous Behavior</strong></p>
+<ul>
+<li>❌ Don't spread medical misinformation even dalam joke context</li>
+<li>❌ Don't normalize dangerous practice (extreme pulling all-nighter, overmedication, unsafe procedure)</li>
+<li>❌ Don't encourage unhealthy coping mechanism</li>
+</ul>
+<p>❌ <strong>Plagiarism atau Copied Content</strong></p>
+<ul>
+<li>❌ Don't repost other creator content without permission &#x26; credit</li>
+<li>❌ Don't copy competitor page concept exactly</li>
+<li>❌ Don't use copyrighted audio/image without permission</li>
+</ul>
+<p>❌ <strong>Low Quality Production</strong></p>
+<ul>
+<li>❌ Don't publish blurry video, bad audio, sloppy editing</li>
+<li>❌ Don't post content yang technically poor quality</li>
+<li>❌ Poor quality diminish entertainment value</li>
+</ul>
+<p>❌ <strong>Forced atau Aggressive Promotion</strong></p>
+<ul>
+<li>❌ Don't make entertainment content primarily about hard-selling product</li>
+<li>❌ Don't force ecosystem mention jika tidak natural</li>
+<li>❌ Don't mislead audience dengan clickbait hook then pure promotion</li>
+</ul>
+<p>❌ <strong>Disrespectful Terhadap Medical Profession</strong></p>
+<ul>
+<li>❌ Don't joke about patient confidentiality breach</li>
+<li>❌ Don't promote lack of empathy terhadap patient</li>
+<li>❌ Don't normalize unethical doctor behavior</li>
+<li>❌ Don't dismiss importance dari medical practice</li>
+</ul>
+<p>❌ <strong>Excessive External Brand Mention</strong></p>
+<ul>
+<li>❌ Don't promote competitor brand atau unrelated brand</li>
+<li>❌ Don't put external logo prominent dalam content</li>
+<li>❌ Keep focus pada MEDTOOLS ecosystem</li>
+</ul>
+<p>❌ <strong>Ignore Follower Feedback</strong></p>
+<ul>
+<li>❌ Don't dismiss comment atau feedback dari audience</li>
+<li>❌ Don't create content dalam vacuum without considering audience preference</li>
+<li>❌ Engage WITH community, not AT community</li>
+</ul>
+<p>❌ <strong>Inconsistent Posting atau Abandonment</strong></p>
+<ul>
+<li>❌ Don't let account go silent untuk extended period (momentum loss)</li>
+<li>❌ Don't post inconsistently (engagement algorithm penalize)</li>
+<li>❌ Don't abandon stories atau daily updates</li>
+</ul>
+<hr>
+<h2 id="10-kpi-index-scorecard-creator-hai-medi">10. KPI INDEX / SCORECARD CREATOR @HAI.MEDI</h2>
+<h3 id="10-1-kerangka-kpi-untuk-platform-hai-medi">10.1 Kerangka KPI untuk Platform @hai.medi</h3>
+<p>KPI @hai.medi adalah GROWTH-focused dengan emphasis pada:</p>
+<ul>
+<li><strong>Follower Growth</strong> (PRIMARY metric – lihat jumlah follower gain)</li>
+<li><strong>Engagement Quality</strong> (HOW engaged audiens dengan content)</li>
+<li><strong>Content Output</strong> (consistency &#x26; volume)</li>
+<li><strong>Viral Potential &#x26; Reach</strong> (how far content spread)</li>
+</ul>
+<h3 id="10-2-scorecard-kpi-lengkap">10.2 Scorecard KPI Lengkap</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Kategori KPI</th>
+<th>Metric</th>
+<th>Merah (Perlu Perbaikan)</th>
+<th>Kuning (Cukup)</th>
+<th>Hijau (Target)</th>
+<th>Catatan Evaluasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IMPLEMENTASI KONTEN</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @hai.medi</td>
+<td>Post/Bulan</td>
+<td>&#x3C;20</td>
+<td>20-26</td>
+<td>>26</td>
+<td>Entertainment content consistency untuk maintain momentum</td>
+</tr>
+<tr>
+<td></td>
+<td>Reels/Bulan</td>
+<td>&#x3C;8</td>
+<td>8-12</td>
+<td>>12</td>
+<td>Primary format, should be majority of content</td>
+</tr>
+<tr>
+<td></td>
+<td>Stories/Bulan</td>
+<td>&#x3C;50</td>
+<td>50-100</td>
+<td>>100</td>
+<td>Daily engagement tool (5-7 per hari), consistency key</td>
+</tr>
+<tr>
+<td>TikTok @hai.medi</td>
+<td>Video/Bulan</td>
+<td>&#x3C;8</td>
+<td>8-12</td>
+<td>>12</td>
+<td>Trend-forward platform, need regular fresh content</td>
+</tr>
+<tr>
+<td><strong>PERTUMBUHAN AUDIENS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @hai.medi</td>
+<td>Follower Growth/Bulan</td>
+<td>&#x3C;1500</td>
+<td>1500-2500</td>
+<td>>2500</td>
+<td>Primary KPI – aggressive growth target untuk awareness driver</td>
+</tr>
+<tr>
+<td></td>
+<td>Follower Growth YoY</td>
+<td>&#x3C;18K</td>
+<td>18K-30K</td>
+<td>>30K</td>
+<td>Long-term sustainable growth trajectory</td>
+</tr>
+<tr>
+<td>TikTok @hai.medi</td>
+<td>Follower Growth/Bulan</td>
+<td>&#x3C;1000</td>
+<td>1000-2000</td>
+<td>>2000</td>
+<td>TikTok audience younger, high growth potential</td>
+</tr>
+<tr>
+<td><strong>ENGAGEMENT QUALITY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @hai.medi</td>
+<td>Avg Engagement Rate (%)</td>
+<td>&#x3C;4%</td>
+<td>4-7%</td>
+<td>>7%</td>
+<td>Entertainment content should have good engagement</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Like Rate (%)</td>
+<td>&#x3C;2%</td>
+<td>2-4%</td>
+<td>>4%</td>
+<td>Indicator dari content resonance</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Comment Rate (%)</td>
+<td>&#x3C;1%</td>
+<td>1-2.5%</td>
+<td>>2.5%</td>
+<td>Comments = discussion &#x26; community building</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Share Rate (%)</td>
+<td>&#x3C;1%</td>
+<td>1-2%</td>
+<td>>2%</td>
+<td>Share = strong recommendation (viral indicator)</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Save Rate (%)</td>
+<td>&#x3C;0.5%</td>
+<td>0.5-1.5%</td>
+<td>>1.5%</td>
+<td>Save = audience want to refer later (keep-for-later)</td>
+</tr>
+<tr>
+<td>TikTok @hai.medi</td>
+<td>Avg Video Completion Rate (%)</td>
+<td>&#x3C;50%</td>
+<td>50-70%</td>
+<td>>70%</td>
+<td>Complete view = content hold attention</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Watch Time per View (sec)</td>
+<td>&#x3C;10</td>
+<td>10-20</td>
+<td>>20</td>
+<td>Longer watch = engaging content</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Comment per Video</td>
+<td>&#x3C;10</td>
+<td>10-30</td>
+<td>>30</td>
+<td>Active discussion di comment</td>
+</tr>
+<tr>
+<td><strong>REACH &#x26; VIRALITY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @hai.medi</td>
+<td>Avg Reach per Post</td>
+<td>&#x3C;50K</td>
+<td>50K-150K</td>
+<td>>150K</td>
+<td>How far each post spread</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Impression per Post</td>
+<td>&#x3C;75K</td>
+<td>75K-200K</td>
+<td>>200K</td>
+<td>Total impression across all view</td>
+</tr>
+<tr>
+<td></td>
+<td>Viral Video Count/Bulan (1M+ reach)</td>
+<td>&#x3C;1</td>
+<td>1-2</td>
+<td>>2</td>
+<td>How many video achieve viral status</td>
+</tr>
+<tr>
+<td>TikTok @hai.medi</td>
+<td>Avg View per Video</td>
+<td>&#x3C;50K</td>
+<td>50K-150K</td>
+<td>>150K</td>
+<td>TikTok typically higher view count</td>
+</tr>
+<tr>
+<td></td>
+<td>Viral Video Count/Bulan (500K+ view)</td>
+<td>&#x3C;1</td>
+<td>1-3</td>
+<td>>3</td>
+<td>TikTok viral threshold lower than IG</td>
+</tr>
+<tr>
+<td><strong>FOLLOWER QUALITY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Community Health</td>
+<td>Comment Sentiment (% positive)</td>
+<td>&#x3C;75%</td>
+<td>75-90%</td>
+<td>>90%</td>
+<td>Are engagement positive &#x26; supportive?</td>
+</tr>
+<tr>
+<td></td>
+<td>Return Visitor Rate (%)</td>
+<td>&#x3C;30%</td>
+<td>30-50%</td>
+<td>>50%</td>
+<td>% follower yang regularly engage dengan content</td>
+</tr>
+<tr>
+<td></td>
+<td>Follower Loyalty Score</td>
+<td>&#x3C;6/10</td>
+<td>6-7.5/10</td>
+<td>>7.5/10</td>
+<td>How loyal/engaged followers</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-3-metrik-tambahan-untuk-monitoring">10.3 Metrik Tambahan untuk Monitoring</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Deskripsi</th>
+<th>Frekuensi Check</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Content Type Performance</strong></td>
+<td>Which content type (Reels, Meme, Carousel) get highest engagement</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Topic Performance</strong></td>
+<td>Which topic/theme get most follower interest &#x26; engagement</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Trending Content Reaction Speed</strong></td>
+<td>How quickly we react to trend &#x26; produce content</td>
+<td>Per trend</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Character Performance</strong> (if applicable)</td>
+<td>How Medi character content perform vs other content</td>
+<td>Bi-weekly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Hashtag Performance</strong></td>
+<td>Which hashtag drive most reach/engagement</td>
+<td>Monthly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Cross-Platform Performance</strong></td>
+<td>How same content perform di IG vs TikTok</td>
+<td>Monthly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Competitor Benchmarking</strong></td>
+<td>How we perform vs other medical entertainment page</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Follower Feedback</strong></td>
+<td>What topic/content type follower ask for atau suggest</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-4-frekuensi-review-reporting">10.4 Frekuensi Review &#x26; Reporting</h3>
+<p><strong>Daily Quick Check</strong> (Pagi/Siang):</p>
+<ul>
+<li>Monitor engagement dari konten yang baru dipublish</li>
+<li>Respond to comment &#x26; DM</li>
+<li>Alert jika ada anomaly (sudden drop, spam)</li>
+</ul>
+<p><strong>Weekly Review</strong> (Setiap Senin):</p>
+<ul>
+<li>Engagement rate, reach, follower growth dari minggu lalu</li>
+<li>Top performing content dari minggu lalu</li>
+<li>Trend opportunity untuk minggu depan</li>
+<li>Adjust posting schedule jika needed</li>
+</ul>
+<p><strong>Monthly Deep Dive</strong> (Week 1 of Month):</p>
+<ul>
+<li>Comprehensive review semua KPI untuk bulan sebelumnya</li>
+<li>Analyze trend &#x26; root cause jika underperform</li>
+<li>Celebrate win &#x26; learning</li>
+<li>Create Monthly Performance Report</li>
+<li>Strategic planning untuk month ahead</li>
+</ul>
+<p><strong>Quarterly Business Review</strong> (Every 3 Months):</p>
+<ul>
+<li>Assessment dari 3-month trend &#x26; trajectory</li>
+<li>Follower quality &#x26; community health assessment</li>
+<li>Character development progress (if applicable)</li>
+<li>Competitive position evaluation</li>
+<li>Strategic planning untuk quarter ahead</li>
+</ul>
+<hr>
+<h2 id="11-informasi-pending-catatan-tambahan">11. INFORMASI PENDING &#x26; CATATAN TAMBAHAN</h2>
+<h3 id="11-1-informasi-yang-belum-tersedia-atau-belum-jelas">11.1 Informasi yang Belum Tersedia atau Belum Jelas</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Aspek</th>
+<th>Status</th>
+<th>Catatan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Medi Character Design &#x26; Personality</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak jelas apakah ada defined character "Medi" atau bagaimana personality/design-nya. Need clear character guideline jika feature dalam konten.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Talent/Actor Availability untuk Video Production</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak jelas siapa talent/actor yang bisa gunakan untuk konten. Need list dari available talent dengan rate/availability.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Trend Monitoring Tools &#x26; Subscription</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak jelas tool apa yang available untuk trend monitoring (Social Blade, TrendHQ, etc). Budget untuk subscription?</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Music/Audio Licensing</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How to handle music/audio licensing? Can use Spotify, YouTube Music? Any subscription untuk stock music?</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Video Production Location &#x26; Studio</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Where to shoot video content? Studio available? Allowed to shoot di office? Budget untuk external location?</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Collaboration dengan Influencer atau Creator Lain</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Can collaborate dengan other creator/influencer? Budget untuk collab? Selection criteria?</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>User-Generated Content Strategy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How to collect &#x26; feature UGC? Credit/compensation untuk creator? Permission process?</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Analytics Tool &#x26; Dashboard</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>What tool available untuk track analytics? Can use Meta Business Suite, Later, Hootsuite?</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Content Repurposing Strategy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Can repost viral content di other platform? How often repost OK? Evergreen content archiving?</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>Crisis Management &#x26; Negative Content</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Protocol jika publish konten yang jadi controversial? How to handle negative backlash?</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>Budget Allocation &#x26; Resource</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Production budget? Equipment budget? Talent compensation? Influencer collab budget?</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>Content Archive &#x26; Rights Management</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Long-term archiving strategy? Can delete underperforming content? Archive vs keep live?</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="11-2-rekomendasi-tindak-lanjut-priority-action-items-">11.2 Rekomendasi Tindak Lanjut (Priority Action Items)</h3>
+<ol>
+<li>
+<p><strong>URGENT: Define Medi Character (if applicable)</strong></p>
+<ul>
+<li>If planning to feature character Medi, create comprehensive character guideline:
+<ul>
+<li>Visual design (appearance, clothing, signature accessory)</li>
+<li>Personality trait (humor style, quirk, strength)</li>
+<li>Background story (brief)</li>
+<li>Voice/tone consistency rule</li>
+</ul>
+</li>
+<li>Output: Character Design Document &#x26; Style Guide</li>
+</ul>
+</li>
+<li>
+<p><strong>HIGH PRIORITY: Establish Talent &#x26; Production Resource</strong></p>
+<ul>
+<li>Create list dari available talent untuk on-camera content</li>
+<li>Confirm studio/location availability</li>
+<li>Define video production workflow &#x26; timeline</li>
+<li>Set talent compensation struktur (if applicable)</li>
+<li>Output: Production Resource Database &#x26; Workflow</li>
+</ul>
+</li>
+<li>
+<p><strong>HIGH PRIORITY: Set Up Trend Monitoring System</strong></p>
+<ul>
+<li>Decide which tool untuk trend monitoring (daily TikTok/IG Reels scroll minimal)</li>
+<li>Create trend calendar untuk track trending sound/format</li>
+<li>Establish process untuk quick trend response (production timeline)</li>
+<li>Define which trend relevant untuk @hai.medi</li>
+<li>Output: Trend Monitoring Protocol &#x26; Calendar</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Establish Music/Audio Licensing</strong></p>
+<ul>
+<li>Clarify which music platform can use (Spotify, YouTube Music, etc)</li>
+<li>Subscribe to stock music service (if needed)</li>
+<li>Create guideline untuk music selection &#x26; licensing</li>
+<li>Output: Music Library &#x26; Licensing Policy</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Create Content Repurposing Strategy</strong></p>
+<ul>
+<li>Decide jika OK to repost viral content across platform</li>
+<li>Create archiving strategy untuk evergreen content</li>
+<li>Define repost frequency &#x26; timing</li>
+<li>Output: Content Repurposing Guideline</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Develop UGC Collection Strategy</strong></p>
+<ul>
+<li>Create hashtag atau mention untuk collect UGC</li>
+<li>Design UGC submission process</li>
+<li>Define credit &#x26; compensation (if any)</li>
+<li>Create UGC feature format</li>
+<li>Output: UGC Campaign Brief &#x26; Collection Process</li>
+</ul>
+</li>
+<li>
+<p><strong>LOW PRIORITY: Crisis Management Protocol</strong></p>
+<ul>
+<li>Create guideline untuk handling controversial content</li>
+<li>Define escalation process (Dept. Head approval)</li>
+<li>Create template untuk apology/correction post</li>
+<li>Output: Crisis Management Playbook</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="12-penutup">12. PENUTUP</h2>
+<p>Dokumen SOP Panduan Creator untuk Platform @hai.medi (Medi World) ini dirancang sebagai comprehensive guide untuk production dan management konten entertainment berkualitas tinggi.</p>
+<p>Platform @hai.medi memiliki purpose yang sangat specific: <strong>Be the fun, relatable voice of MEDTOOLS ecosystem that make medical student &#x26; doctor laugh about their journey, build community, dan drive awareness tentang MEDTOOLS.ID</strong>.</p>
+<p>Kesuksesan @hai.medi tergantung pada:</p>
+<ol>
+<li>
+<p><strong>Entertainment First Mentality</strong>: Content harus entertaining FIRST. Everything else is secondary.</p>
+</li>
+<li>
+<p><strong>Trend Awareness &#x26; Quick Response</strong>: Stay current dengan trend, adapt quickly, capitalize pada viral opportunity.</p>
+</li>
+<li>
+<p><strong>Authentic Relatability</strong>: Content rooted dalam genuine shared understanding dari medical student/doctor life, not corporate marketing speak.</p>
+</li>
+<li>
+<p><strong>Consistent Output</strong>: Regular, reliable content schedule yang followers dapat depend on untuk their daily entertainment.</p>
+</li>
+<li>
+<p><strong>Community Building</strong>: Beyond content, actively build community feeling &#x26; loyalty. Respond, engage, celebrate follower.</p>
+</li>
+<li>
+<p><strong>Quality Production</strong>: Even untuk entertainment, production quality matter. Good hook, pacing, editing, sound.</p>
+</li>
+<li>
+<p><strong>Strategic Growth</strong>: Aggressive follower growth adalah primary objective. Every content should consider shareability &#x26; viral potential.</p>
+</li>
+</ol>
+<p>Dengan focus pada these principle, @hai.medi akan become <strong>go-to entertainment destination untuk medical community di Indonesia</strong>, naturally drive awareness untuk whole MEDTOOLS ecosystem, dan build beloved community yang passionate about platform &#x26; brand.</p>
+<p>Mari bersama-sama membuat konten yang membuat ribuan medical student &#x26; doctor everyday laugh about their journey, feel less alone dalam struggle, dan celebrate what amazing tentang being part dari medical community Indonesia.</p>
+<hr>
+<p><strong>Dokumen ini berlaku efektif sejak: Januari 2026</strong><br>
+<strong>Last Updated: 13 Januari 2026</strong><br>
+<strong>Next Review: Maret 2026</strong></p>
+<p><strong>Dibuat oleh:</strong> Tim Creator MEDTOOLS.ID<br>
+<strong>Disetujui oleh:</strong> Gilang Ramadhan, Head of Creator Team</p>
+<hr>
+<h3 id="lampiran-a-content-brief-template-untuk-hai-medi">LAMPIRAN A: Content Brief Template untuk @hai.medi</h3>
+<pre><code>KONTEN BRIEF – @HAI.MEDI (MEDI WORLD)
+
+Idea Title: [Brief catchy title untuk ide]
+Format: [Reels / TikTok / Meme / Carousel / Stories]
+Target Audiens: [Medical student / Doctor / Both]
+Trend Related?: [Yes – trend name / No]
+Trend Window: [If yes: estimated 3-5 days / 1 week / 2 weeks]
+Estimated Virality: [High / Medium / Low]
+
+---
+
+ENTERTAINMENT HOOK:
+[What make this funny/entertaining? Why will people watch?]
+
+CONCEPT SUMMARY:
+[Quick summary dari content idea]
+
+SETUP:
+[What's the situation/expectation yang audience will understand]
+
+PUNCHLINE / PAYOFF:
+[What's the funny moment atau relatable payoff]
+
+PRODUCTION REQUIREMENT:
+[Talent needed? Location? Equipment? Special effect?]
+
+ESTIMATED PRODUCTION TIME:
+[How long to produce this? (days)]
+
+CAPTION CONCEPT:
+[Rough caption idea untuk post]
+
+HASHTAG IDEA:
+[3-5 main hashtag untuk konten ini]
+
+CTA IDEA:
+[How to encourage engagement? (tag, comment, share)]
+
+APPROVAL STATUS:
+[PENDING / APPROVED / APPROVED WITH REVISION]
+
+Notes:
+_________________________________________
+</code></pre>
+<h3 id="lampiran-b-weekly-content-performance-report">LAMPIRAN B: Weekly Content Performance Report</h3>
+<pre><code>MINGGU: [Week # dari Month/Year]
+
+CONTENT SUMMARY:
+- Total Reels Published: ____
+- Total Feed Post Published: ____
+- Total Stories Published: ____
+- Total TikTok Published: ____
+
+TOP PERFORMING CONTENT (by engagement rate):
+1. [Content Title]: __% engagement, ____ reach
+   - What work: [Why was this successful?]
+2. [Content Title]: __% engagement, ____ reach
+3. [Content Title]: __% engagement, ____ reach
+
+LOWEST PERFORMING CONTENT:
+1. [Content Title]: __% engagement
+   - Analysis: [Why underperform?]
+
+FOLLOWER METRICS:
+- Follower Gain This Week: ____ (+_% vs previous week)
+- Engagement Rate (Avg): ___%
+- Reach (Avg per post): ____ reach
+- Impressions (Total): ____ impression
+
+VIRAL MOMENT:
+- [Any viral content this week? Reach achieved?]
+
+TREND OPPORTUNITIES IDENTIFIED:
+- Trend #1: [Description + opportunity]
+- Trend #2: [Description + opportunity]
+
+COMMENTS SENTIMENT:
+- Overall sentiment: [Positive / Mixed / Needs Improvement]
+- Sample positive comment: [Quote]
+- Any negative feedback to address: [Issue + response plan]
+
+LEARNING &#x26; INSIGHTS:
+- Best performing content type this week: [Format]
+- Best performing time to post: [Time]
+- Best performing topic/theme: [Topic]
+- What audience asking for: [Request/theme]
+
+PLAN FOR NEXT WEEK:
+- Focus area: [What to improve?]
+- Content to test: [New idea to try?]
+- Trend to capitalize: [Trending opportunity]
+
+KPI STATUS:
+☐ GREEN (On track / exceed target)
+☐ YELLOW (Some metric below target, need adjustment)
+☐ RED (Significant underperformance)
+
+[Creator Name] ________________ [Date] _______________
+[Dept. Head Review] ________________ [Date] _______________
+</code></pre>
+<h3 id="lampiran-c-entertainment-content-quality-checklist">LAMPIRAN C: Entertainment Content Quality Checklist</h3>
+<pre><code>ENTERTAINMENT CONTENT QUALITY CHECKLIST
+
+Content Title: _________________________________
+Creator: _________________ Date: _____________
+
+RATING SCALE: 1 (Poor) - 2 (Fair) - 3 (Good) - 4 (Excellent)
+
+ENTERTAINMENT VALUE:
+[1] [2] [3] [4] Hook is strong (first 1-3 second grab attention)
+[1] [2] [3] [4] Humor effective &#x26; punchline clear
+[1] [2] [3] [4] Content is relatable untuk target audience
+[1] [2] [3] [4] Pacing good (not too slow, not too frenetic)
+[1] [2] [3] [4] Shareability high (audience want to share)
+
+ORIGINALITY &#x26; TRENDS:
+[1] [2] [3] [4] Content is original / not too similar dengan existing
+[1] [2] [3] [4] If trend-based, unique angle/twist added
+[1] [2] [3] [4] Trend-relevant &#x26; current (not outdated)
+
+PRODUCTION QUALITY:
+[1] [2] [3] [4] Audio clear &#x26; at proper volume
+[1] [2] [3] [4] Visual sharp &#x26; good lighting
+[1] [2] [3] [4] Editing smooth &#x26; professional
+[1] [2] [3] [4] Duration optimized untuk format
+[1] [2] [3] [4] Overall production quality high
+
+BRAND ALIGNMENT:
+[1] [2] [3] [4] Content tone align dengan @hai.medi brand
+[1] [2] [3] [4] Humor appropriate (not offensive)
+[1] [2] [3] [4] Medical profession respected dalam content
+[1] [2] [3] [4] Community feeling present
+
+OVERALL ASSESSMENT:
+Total Score: ____/44
+
+Status:
+☐ APPROVED (Score 37+)
+☐ APPROVED WITH MINOR REVISION (Score 32-36)
+☐ REVISION NEEDED (Score &#x3C;32)
+
+Reviewer Comment:
+_________________________________________
+
+Reviewer: _________________ Date: ___________
+</code></pre>
+<hr>
+<p><strong>END OF DOCUMENT</strong></p>
+5:["$","section",null,{"className":"bg-white rounded-[32px] p-8 md:p-16 shadow-xl border border-slate-100 relative overflow-hidden transition-all hover:shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 right-0 p-8 opacity-[0.03] select-none pointer-events-none","children":["$","span",null,{"className":"text-9xl font-black text-blue-900 rotate-12 block","children":"SOP"}]}],["$","div",null,{"className":"flex items-center space-x-4 mb-20 print:mb-10","children":[["$","h2",null,{"className":"text-xs uppercase tracking-[0.4em] font-black text-blue-500 whitespace-nowrap","children":"Dokumen Panduan Lengkap"}],["$","div",null,{"className":"h-[1px] flex-1 bg-blue-50"}]]}],["$","article",null,{"className":"$f","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}]]}]
+6:["$","section",null,{"className":"mt-32 print:hidden","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Lampiran: Contoh Konten Live"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","$L11",null,{"embeds":[{"type":"instagram","url":"https://www.instagram.com/hai.medi/"},{"type":"instagram","url":"https://www.instagram.com/reel/DCOb_kZy9xB/"}]}]]}]
+7:["$","$L12",null,{}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/3e9c63e23d3b9851.js","async":true}]
+9:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-red-50 text-red-500 border-red-100","children":"High"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Reels/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">12"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">12"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 18.367740079714906 L40 6.419384138118108 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]
+b:["$","div","2",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Stories/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">100"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">100"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 16.001768520416675 L40 17.689016487508418 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+c:["$","div","3",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Video/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">12"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">12"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 18.214559049244457 L40 10.264341815714072 L60 5 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+d:["$","div","4",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Follower Growth/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">2500"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">2500"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 15.588130972401494 L40 16.26086131883971 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+e:["$","div","5",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Follower Growth YoY"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">30K"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">30K"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 15.41370960750058 L40 10.29586803763134 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+15:null

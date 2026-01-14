@@ -1,0 +1,2233 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],""]
+3:I[55132,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+11:I[32065,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+12:I[95590,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+0:{"buildId":"l85EMLBGOhaR8j66pI5nu","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-[#F8FAFC] text-slate-800 relative overflow-hidden","children":[["$","div",null,{"className":"absolute top-[5%] right-[-10%] w-[800px] h-[800px] bg-blue-100/20 rounded-full blur-[120px] -z-10 pointer-events-none"}],["$","div",null,{"className":"absolute bottom-[10%] left-[-15%] w-[600px] h-[600px] bg-blue-50/40 rounded-full blur-[100px] -z-10 pointer-events-none"}],["$","div",null,{"className":"max-w-5xl mx-auto px-6 pt-32 pb-24 relative z-10","children":[["$","div",null,{"className":"flex justify-between items-center mb-12 print:hidden","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-sm font-bold text-blue-500 hover:text-blue-600 transition-all group","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 group-hover:-translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Kembali ke Dashboard"]}],["$","div",null,{"className":"hidden sm:flex items-center space-x-2","children":[["$","span",null,{"className":"text-[10px] font-bold text-slate-400 uppercase tracking-widest","children":"Status:"}],["$","span",null,{"className":"px-2 py-0.5 bg-emerald-100 text-emerald-600 text-[10px] font-bold uppercase rounded-md border border-emerald-200","children":"Terverifikasi"}]]}]]}],["$","header",null,{"className":"mb-20 print:mb-12","children":[["$","div",null,{"className":"flex items-center space-x-3 mb-6","children":[["$","span",null,{"className":"flex items-center px-3 py-1 bg-blue-500 text-white text-[10px] font-bold uppercase tracking-[0.2em] rounded-md shadow-sm","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-circle-check-big mr-1.5","aria-hidden":"true","children":[["$","path","yps3ct",{"d":"M21.801 10A10 10 0 1 1 17 3.335"}],["$","path","1pflzl",{"d":"m9 11 3 3L22 4"}],"$undefined"]}]," SOP Utama"]}],["$","div",null,{"className":"h-[1px] w-12 bg-blue-200"}],["$","span",null,{"className":"text-slate-400 font-bold text-xs uppercase tracking-widest","children":"@medtools.store"}]]}],["$","h1",null,{"className":"text-4xl md:text-6xl font-black text-slate-900 mb-8 tracking-tight leading-[1.1]","children":"Platform @medtools.store"}],["$","p",null,{"className":"text-xl md:text-2xl text-slate-500 max-w-3xl leading-relaxed font-medium","children":"Panduan konten produk dan konversi untuk platform e-commerce Medtools."}]]}],["$","$L3",null,{"items":[{"level":1,"text":"SOP PANDUAN CREATOR – PLATFORM @MEDTOOLS.STORE","id":"sop-panduan-creator-platform-medtools-store"},{"level":2,"text":"RINGKASAN EKSEKUTIF","id":"ringkasan-eksekutif"},{"level":2,"text":"1. PENDAHULUAN","id":"1-pendahuluan"},{"level":3,"text":"1.1 Fungsi Platform @medtools.store dalam Ekosistem MEDTOOLS","id":"1-1-fungsi-platform-medtools-store-dalam-ekosistem-medtools"},{"level":3,"text":"1.2 Peran Creator terhadap Platform @medtools.store","id":"1-2-peran-creator-terhadap-platform-medtools-store"},{"level":2,"text":"2. TUJUAN PLATFORM @MEDTOOLS.STORE","id":"2-tujuan-platform-medtools-store"},{"level":3,"text":"2.1 Tujuan dari Sisi Brand (Medtools Store)","id":"2-1-tujuan-dari-sisi-brand-medtools-store-"},{"level":3,"text":"2.2 Tujuan dari Sisi Edukasi & Produk","id":"2-2-tujuan-dari-sisi-edukasi-produk"},{"level":3,"text":"2.3 Tujuan dari Sisi Bisnis & Konversi","id":"2-3-tujuan-dari-sisi-bisnis-konversi"},{"level":2,"text":"3. TARGET AUDIENS","id":"3-target-audiens"},{"level":3,"text":"3.1 Segmentasi Audiens Utama","id":"3-1-segmentasi-audiens-utama"},{"level":3,"text":"3.2 Level Pengetahuan Audiens","id":"3-2-level-pengetahuan-audiens"},{"level":3,"text":"3.3 Karakter Audiens yang Relevan dengan Konten","id":"3-3-karakter-audiens-yang-relevan-dengan-konten"},{"level":2,"text":"4. JENIS & FORMAT KONTEN","id":"4-jenis-format-konten"},{"level":3,"text":"4.1 Tema Konten yang Diperbolehkan dan Dianjurkan","id":"4-1-tema-konten-yang-diperbolehkan-dan-dianjurkan"},{"level":3,"text":"4.2 Format Konten yang Diutamakan untuk @medtools.store","id":"4-2-format-konten-yang-diutamakan-untuk-medtools-store"},{"level":3,"text":"4.3 Batasan Konten (Do's & Don'ts Khusus @medtools.store)","id":"4-3-batasan-konten-do-s-don-ts-khusus-medtools-store-"},{"level":2,"text":"5. SOP PEMBUATAN KONTEN","id":"5-sop-pembuatan-konten"},{"level":3,"text":"5.1 Tahap Ideasi Konten","id":"5-1-tahap-ideasi-konten"},{"level":3,"text":"5.2 Tahap Riset & Validasi Materi","id":"5-2-tahap-riset-validasi-materi"},{"level":3,"text":"5.3 Tahap Penulisan Script & Konsep Visual","id":"5-3-tahap-penulisan-script-konsep-visual"},{"level":3,"text":"5.4 Tahap Produksi Visual & Video","id":"5-4-tahap-produksi-visual-video"},{"level":3,"text":"5.5 Tahap Quality Control Sebelum Upload","id":"5-5-tahap-quality-control-sebelum-upload"},{"level":2,"text":"6. SOP UPLOAD & PUBLISHING","id":"6-sop-upload-publishing"},{"level":3,"text":"6.1 Alur Upload Konten","id":"6-1-alur-upload-konten"},{"level":3,"text":"6.2 Proses Approval Sebelum Publish","id":"6-2-proses-approval-sebelum-publish"},{"level":3,"text":"6.3 Aturan Caption","id":"6-3-aturan-caption"},{"level":3,"text":"6.4 Aturan Hashtag","id":"6-4-aturan-hashtag"},{"level":3,"text":"6.5 Ketentuan Teknis Platform (Instagram & YouTube)","id":"6-5-ketentuan-teknis-platform-instagram-youtube-"},{"level":2,"text":"7. KUOTA & FREKUENSI KONTEN","id":"7-kuota-frekuensi-konten"},{"level":3,"text":"7.1 Target Output Konten per Platform","id":"7-1-target-output-konten-per-platform"},{"level":3,"text":"7.2 Optimal Posting Schedule","id":"7-2-optimal-posting-schedule"},{"level":3,"text":"7.3 Frekuensi Publikasi & Consistency","id":"7-3-frekuensi-publikasi-consistency"},{"level":2,"text":"8. TONE OF VOICE & BRANDING","id":"8-tone-of-voice-branding"},{"level":3,"text":"8.1 Tone of Voice untuk @medtools.store","id":"8-1-tone-of-voice-untuk-medtools-store"},{"level":3,"text":"8.2 Karakteristik Konten yang Harus Konsisten","id":"8-2-karakteristik-konten-yang-harus-konsisten"},{"level":3,"text":"8.3 Voice Guidelines untuk Specific Situations","id":"8-3-voice-guidelines-untuk-specific-situations"},{"level":2,"text":"9. DO'S & DON'TS CREATOR @MEDTOOLS.STORE","id":"9-do-s-don-ts-creator-medtools-store"},{"level":3,"text":"9.1 WAJIB DILAKUKAN (Do's)","id":"9-1-wajib-dilakukan-do-s-"},{"level":3,"text":"9.2 DILARANG DILAKUKAN (Don'ts)","id":"9-2-dilarang-dilakukan-don-ts-"},{"level":2,"text":"10. KPI INDEX / SCORECARD CREATOR @MEDTOOLS.STORE","id":"10-kpi-index-scorecard-creator-medtools-store"},{"level":3,"text":"10.1 Kerangka KPI untuk Platform @medtools.store","id":"10-1-kerangka-kpi-untuk-platform-medtools-store"},{"level":3,"text":"10.2 Scorecard KPI Lengkap untuk @medtools.store","id":"10-2-scorecard-kpi-lengkap-untuk-medtools-store"},{"level":3,"text":"10.3 Metrik Tambahan untuk Monitoring (Supporting Metrics)","id":"10-3-metrik-tambahan-untuk-monitoring-supporting-metrics-"},{"level":3,"text":"10.4 Frekuensi Review & Reporting KPI","id":"10-4-frekuensi-review-reporting-kpi"},{"level":3,"text":"10.5 Scoring & Individual Performance Evaluation","id":"10-5-scoring-individual-performance-evaluation"},{"level":2,"text":"11. INFORMASI PENDING & CATATAN TAMBAHAN","id":"11-informasi-pending-catatan-tambahan"},{"level":3,"text":"11.1 Informasi yang Belum Tersedia atau Belum Lengkap","id":"11-1-informasi-yang-belum-tersedia-atau-belum-lengkap"},{"level":3,"text":"11.2 Rekomendasi Tindak Lanjut (Action Items)","id":"11-2-rekomendasi-tindak-lanjut-action-items-"},{"level":2,"text":"12. PENUTUP","id":"12-penutup"},{"level":3,"text":"LAMPIRAN A: Content Brief Template untuk @medtools.store","id":"lampiran-a-content-brief-template-untuk-medtools-store"},{"level":3,"text":"LAMPIRAN B: Monthly Content Performance Template","id":"lampiran-b-monthly-content-performance-template"},{"level":3,"text":"LAMPIRAN C: Useful Resources & External Links","id":"lampiran-c-useful-resources-external-links"}]}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","section",null,{"className":"mb-24 print:hidden","id":"quick-kpi","children":[["$","div",null,{"className":"flex items-center justify-between mb-8","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Target Performa Utama"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","div",null,{"className":"my-16 border-t border-slate-200 pt-12","children":[["$","h3",null,{"className":"text-2xl font-bold text-slate-800 mb-8 flex items-center justify-between","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up mr-3 text-blue-500","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]," Performance Targets"]}],["$","span",null,{"className":"text-xs uppercase tracking-widest text-slate-400 font-medium","children":"Monthly Goals"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","div","0",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-red-50 text-red-500 border-red-100","children":"High"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Post/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">28"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">28"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 10.164831398467651 L40 5.384812943959437 L60 15 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}],["$","div","1",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],"$La"]}],"$Lb","$Lc","$Ld","$Le"]}]]}]]}]
+f:T586,prose prose-slate prose-lg max-w-none  prose-headings:text-slate-900 prose-headings:font-black prose-headings:tracking-tight prose-h1:text-4xl md:text-5xl prose-h1:mb-12 prose-h2:text-2xl md:text-3xl prose-h2:mt-20 prose-h2:mb-8 prose-h2:pb-6 prose-h2:border-b-2 prose-h2:border-blue-50/50 prose-h3:text-xl prose-h3:text-blue-600 prose-h3:mt-12 prose-h3:font-bold  prose-p:text-slate-700 prose-p:leading-[1.8] prose-p:mb-6 prose-ul:my-6 prose-ul:list-disc prose-ul:pl-6 prose-ol:my-6 prose-ol:list-decimal prose-ol:pl-6 prose-li:text-slate-700 prose-li:mb-2 prose-li:leading-relaxed  prose-table:w-full prose-table:border-collapse prose-table:bg-white prose-table:rounded-2xl prose-table:shadow-sm prose-table:border prose-table:border-slate-200 prose-thead:bg-slate-50 prose-thead:text-slate-900 prose-th:p-4 prose-th:text-xs prose-th:uppercase prose-th:tracking-widest prose-th:font-black prose-th:border-b prose-th:border-slate-200 prose-td:p-4 prose-td:text-slate-700 prose-td:border-b prose-td:border-slate-100 prose-td:text-sm md:text-base prose-td:leading-relaxed  prose-strong:text-slate-900 prose-strong:font-bold prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/30 prose-blockquote:py-2 prose-blockquote:px-6 prose-blockquote:rounded-r-xl prose-blockquote:italic  prose-img:rounded-2xl prose-img:shadow-xl prose-img:my-12  prose-hr:my-16 prose-hr:border-slate-100 10:T1702d,<h1 id="sop-panduan-creator-platform-medtools-store">SOP PANDUAN CREATOR – PLATFORM @MEDTOOLS.STORE</h1>
+<p><strong>Dokumen Internal Resmi – Konfidensial</strong><br>
+Departemen Creator Team, MEDTOOLS.ID<br>
+Versi: 1.0<br>
+Tanggal Berlaku: Januari 2026</p>
+<hr>
+<h2 id="ringkasan-eksekutif">RINGKASAN EKSEKUTIF</h2>
+<p>Dokumen ini adalah <strong>Standar Operasional Prosedur (SOP) resmi</strong> yang dirancang khusus untuk <strong>Creator yang memproduksi konten di platform @medtools.store</strong>. SOP ini mengatur seluruh aspek: dari perencanaan konten, pembuatan, publikasi, hingga pengukuran performa sesuai dengan visi dan misi ekosistem MEDTOOLS.ID.</p>
+<p>Platform @medtools.store memiliki <strong>peran strategis unik</strong> dalam ekosistem MEDTOOLS sebagai hub utama untuk <strong>DESIRE dan ACTION stages dalam marketing funnel AIDA</strong>. Konten di platform ini difokuskan pada <strong>product showcase, product demonstration, dan direct conversion</strong> ke penjualan. Setiap konten yang diproduksi harus efektif dalam menampilkan produk, menjelaskan manfaat, dan mendorong audiens untuk melakukan pembelian atau tindakan konversi lainnya.</p>
+<hr>
+<h2 id="1-pendahuluan">1. PENDAHULUAN</h2>
+<h3 id="1-1-fungsi-platform-medtools-store-dalam-ekosistem-medtools">1.1 Fungsi Platform @medtools.store dalam Ekosistem MEDTOOLS</h3>
+<p><strong>@medtools.store</strong> adalah <strong>akun Instagram utama khusus untuk brand Medtools Store</strong> yang berfungsi sebagai:</p>
+<ul>
+<li>
+<p><strong>Hub Penjualan &#x26; Produk (Product Showcase Channel)</strong>: Platform utama untuk memamerkan seluruh produk yang tersedia di Medtools Store dengan cara yang menarik, informatif, dan mendorong pembelian. Setiap produk harus dipresentasikan dengan cara yang menunjukkan value proposition dan unique selling points-nya.</p>
+</li>
+<li>
+<p><strong>Pusat Demonstrasi Produk (Product Demo &#x26; Education Hub)</strong>: Menjadi tempat di mana produk tidak hanya ditampilkan, tetapi juga dijelaskan cara penggunaannya, benefit-nya, dan bagaimana produk tersebut dapat memecahkan pain points mahasiswa kedokteran atau profesional medis.</p>
+</li>
+<li>
+<p><strong>Driver Konversi Langsung (Direct Conversion Channel)</strong>: Mengubah followers yang sudah terinterest dengan produk menjadi actual customers melalui konten yang memiliki strong call-to-action, clear pricing, dan seamless purchasing pathway.</p>
+</li>
+<li>
+<p><strong>Trust Builder &#x26; Credibility Hub</strong>: Membangun kepercayaan terhadap kualitas produk melalui unboxing, review, testimoni, dan konten yang menunjukkan bahwa produk Medtools Store adalah pilihan tepat dan berkualitas.</p>
+</li>
+<li>
+<p><strong>Community Hub untuk Product Users</strong>: Membangun komunitas di antara pengguna produk Medtools Store (baik yang sudah membeli maupun calon pembeli) melalui user-generated content, testimonial sharing, dan engagement langsung.</p>
+</li>
+</ul>
+<h3 id="1-2-peran-creator-terhadap-platform-medtools-store">1.2 Peran Creator terhadap Platform @medtools.store</h3>
+<p>Sebagai Creator yang bertugas di @medtools.store, tanggung jawab Anda meliputi:</p>
+<ul>
+<li>
+<p><strong>Produksi konten product-centric berkualitas tinggi</strong> yang berfokus pada showcase produk dengan cara yang menarik, kredibel, dan actionable.</p>
+</li>
+<li>
+<p><strong>Demonstrasi dan edukasi produk</strong> melalui video unboxing, tutorial penggunaan, product review, dan konten lainnya yang membantu audiens memahami benefit dari setiap produk.</p>
+</li>
+<li>
+<p><strong>Ideasi konten kreatif seputar produk</strong> yang tetap on-brand dan relevan dengan target audiens (mahasiswa kedokteran, profesional medis, student healthcare, dll.).</p>
+</li>
+<li>
+<p><strong>Eksekusi end-to-end</strong> dari perencanaan, produksi, hingga publikasi konten product-focused yang memenuhi standar kualitas MEDTOOLS.</p>
+</li>
+<li>
+<p><strong>Manajemen interaksi komunitas</strong> khusus untuk pertanyaan produk, customer service via social media, dan engagement dengan followers yang interested atau sudah membeli produk.</p>
+</li>
+<li>
+<p><strong>Optimalisasi untuk konversi</strong> dengan memastikan setiap konten memiliki clear CTA, pricing transparency, dan link yang mengarahkan ke halaman pembelian.</p>
+</li>
+</ul>
+<hr>
+<h2 id="2-tujuan-platform-medtools-store">2. TUJUAN PLATFORM @MEDTOOLS.STORE</h2>
+<h3 id="2-1-tujuan-dari-sisi-brand-medtools-store-">2.1 Tujuan dari Sisi Brand (Medtools Store)</h3>
+<ul>
+<li>
+<p><strong>Memposisikan Medtools Store sebagai destination utama</strong> untuk mahasiswa kedokteran dan profesional medis yang mencari produk berkualitas tinggi dengan standar medis.</p>
+</li>
+<li>
+<p><strong>Membangun brand awareness</strong> tentang keunggulan dan keunikan produk-produk Medtools Store dibandingkan kompetitor atau marketplace lainnya.</p>
+</li>
+<li>
+<p><strong>Menciptakan perceived value</strong> melalui konten yang menunjukkan kualitas, durability, design, dan fungsionalitas dari setiap produk.</p>
+</li>
+<li>
+<p><strong>Memposisikan Medtools Store sebagai trusted seller</strong> melalui transparent pricing, authentic review, dan customer testimonial yang genuine.</p>
+</li>
+</ul>
+<h3 id="2-2-tujuan-dari-sisi-edukasi-produk">2.2 Tujuan dari Sisi Edukasi &#x26; Produk</h3>
+<ul>
+<li>
+<p><strong>Mengedukasi audiens tentang penggunaan produk</strong> melalui tutorial, demo, dan explanatory content yang membuat mereka merasa percaya diri dalam menggunakan produk.</p>
+</li>
+<li>
+<p><strong>Menunjukkan problem-solving capability</strong> dari setiap produk dengan demonstrasi bagaimana produk Medtools Store dapat memecahkan pain points audiens (misal: "Alat ini bikin hidup Anda jadi lebih mudah saat...")</p>
+</li>
+<li>
+<p><strong>Memberikan informasi teknis yang jelas</strong> tentang spesifikasi, material, durability, warranty, dan detail lainnya yang penting untuk keputusan pembelian.</p>
+</li>
+<li>
+<p><strong>Membangun kepercayaan melalui authenticity</strong> dengan menampilkan produk secara real, bukan overly polished atau fake.</p>
+</li>
+</ul>
+<h3 id="2-3-tujuan-dari-sisi-bisnis-konversi">2.3 Tujuan dari Sisi Bisnis &#x26; Konversi</h3>
+<ul>
+<li>
+<p><strong>Meningkatkan penjualan produk</strong> melalui konten yang effective dalam mengkonversi viewers menjadi buyers.</p>
+</li>
+<li>
+<p><strong>Mendorong traffic ke halaman penjualan</strong> (product pages di Medtools Store atau marketplace seperti Tokopedia/Shopee) melalui clear CTA dan link yang prominent.</p>
+</li>
+<li>
+<p><strong>Meningkatkan Average Order Value (AOV)</strong> melalui konten yang menampilkan product bundles, recommendations, atau upselling opportunities.</p>
+</li>
+<li>
+<p><strong>Mengurangi return rate</strong> dengan memberikan informasi lengkap dan accurate tentang produk sehingga expectation customer align dengan reality produk yang diterima.</p>
+</li>
+<li>
+<p><strong>Building loyal customer base</strong> melalui post-purchase engagement dan community building di antara product users.</p>
+</li>
+</ul>
+<hr>
+<h2 id="3-target-audiens">3. TARGET AUDIENS</h2>
+<h3 id="3-1-segmentasi-audiens-utama">3.1 Segmentasi Audiens Utama</h3>
+<p><strong>Primary Audience #1: Mahasiswa Kedokteran (Pre-Professional)</strong></p>
+<ul>
+<li><strong>Demografi</strong>: Usia 18-26 tahun, mahasiswa dari semester 1 hingga akhir di universitas Indonesia.</li>
+<li><strong>Characteristics</strong>: Sedang mencari produk medis yang berkualitas, nilai price-conscious (ingin value for money), active di social media, influence-able oleh peer recommendation.</li>
+<li><strong>Pain Points</strong>: Kebutuhan akan alat medis berkualitas untuk praktik, belajar, atau rotasi; budget terbatas; khawatir dengan kualitas barang yang dibeli online.</li>
+<li><strong>Purchase Behavior</strong>: Sering cek review sebelum beli, influenced by user testimonial, mencari promo/discount, prefer all-in-one bundling.</li>
+</ul>
+<p><strong>Primary Audience #2: Profesional Medis Muda (Resident &#x26; Fresh Graduate)</strong></p>
+<ul>
+<li><strong>Demografi</strong>: Usia 26-35 tahun, dokter muda yang sedang praktik atau residency program.</li>
+<li><strong>Characteristics</strong>: Memiliki budget lebih dari mahasiswa, mencari produk dengan kualitas premium, value efficiency dan durability, trust word-of-mouth dari senior.</li>
+<li><strong>Pain Points</strong>: Mencari produk yang reliable untuk praktik klinis, perlu yang tahan lama dan good investment, tidak punya banyak waktu untuk riset.</li>
+<li><strong>Purchase Behavior</strong>: Less price-sensitive dibanding mahasiswa, lebih focus pada kualitas dan spec, prefer trusted recommendations, willing to invest untuk good products.</li>
+</ul>
+<p><strong>Secondary Audience: Parents/Keluarga Mahasiswa</strong></p>
+<ul>
+<li>Orang tua yang membeli produk untuk anak yang sedang kuliah kedokteran.</li>
+<li>Motivated by wanting the best for their child's education and career preparation.</li>
+</ul>
+<h3 id="3-2-level-pengetahuan-audiens">3.2 Level Pengetahuan Audiens</h3>
+<ul>
+<li>
+<p><strong>Audiens sudah punya basic knowledge</strong> tentang produk medis (mereka adalah mahasiswa kedokteran atau professionals di field medis), tapi mungkin belum familiar dengan product-specific details dari Medtools Store.</p>
+</li>
+<li>
+<p><strong>Konten harus menjelaskan tidak hanya "apa" tapi juga "mengapa" dan "bagaimana"</strong>: Jangan asumsikan mereka tahu perbedaan antara satu produk dengan kompetitor. Explain the benefits in context yang relevan dengan daily use mereka.</p>
+</li>
+<li>
+<p><strong>Technical specifications penting, tapi present in accessible way</strong>: Jangan dump all specs sekaligus. Highlight yang most relevant untuk audiens (misal: durability, ease of use, convenience).</p>
+</li>
+</ul>
+<h3 id="3-3-karakter-audiens-yang-relevan-dengan-konten">3.3 Karakter Audiens yang Relevan dengan Konten</h3>
+<ul>
+<li>
+<p><strong>Mereka adalah pragmatists</strong>: Mereka tidak tertarik dengan hype atau pretty words. Mereka ingin value for money. Show them konkret benefit dan honest assessment.</p>
+</li>
+<li>
+<p><strong>Mereka adalah busy professionals/students</strong>: Konten harus respect their time. Video should be concise, visual should be scannable, key info harus clear.</p>
+</li>
+<li>
+<p><strong>Mereka adalah detail-oriented</strong>: Mereka notice quality (atau lack thereof) dalam konten Anda. Jika konten buruk, mereka akan assume produk juga buruk. Quality of content = perceived quality of product.</p>
+</li>
+<li>
+<p><strong>Mereka adalah sharers &#x26; recommendors</strong>: Jika mereka suka produk, mereka akan share dan recommend ke teman. Buat konten yang shareable dan yang membuat mereka merasa good tentang sharing it.</p>
+</li>
+<li>
+<p><strong>Mereka appreciate authenticity</strong>: Fake testimonial atau over-selling akan turn them off. Authentic, genuine content (bahkan jika ada minus dari produk) akan build more trust.</p>
+</li>
+</ul>
+<hr>
+<h2 id="4-jenis-format-konten">4. JENIS &#x26; FORMAT KONTEN</h2>
+<h3 id="4-1-tema-konten-yang-diperbolehkan-dan-dianjurkan">4.1 Tema Konten yang Diperbolehkan dan Dianjurkan</h3>
+<h4 id="tema-1-product-unboxing-first-impressions"><strong>Tema 1: Product Unboxing &#x26; First Impressions</strong></h4>
+<p>Konten yang menunjukkan packaging, unboxing experience, first impressions dari produk.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: DESIRE, ACTION</li>
+<li><strong>Format</strong>: Video Reels, Stories, YouTube video</li>
+<li><strong>Durasi Video</strong>: 30-60 detik (Reels), 5-15 menit (YouTube)</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Show packaging quality dan care</li>
+<li>Reveal product in exciting way</li>
+<li>Highlight first thoughts, design, build quality</li>
+<li>End with CTA: "Link di bio untuk beli!" atau "Interested? DM kami!"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-2-product-demonstration-tutorial"><strong>Tema 2: Product Demonstration &#x26; Tutorial</strong></h4>
+<p>Konten yang menunjukkan cara menggunakan produk, fitur-fitur, dan bagaimana cara merawatnya.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: DESIRE, ACTION</li>
+<li><strong>Format</strong>: Video Reels, YouTube video, Carousel with step-by-step</li>
+<li><strong>Durasi Video</strong>: 15-60 detik (Reels), 3-10 menit (YouTube)</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Show actual usage in realistic context</li>
+<li>Explain each feature/function clearly</li>
+<li>Demonstrate problem-solving capability</li>
+<li>Include tips &#x26; best practices</li>
+<li>End with clear call-to-action</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-3-product-review-comparison"><strong>Tema 3: Product Review &#x26; Comparison</strong></h4>
+<p>Konten yang memberikan honest review, plus-minus produk, dan comparison dengan kompetitor (jika relevan).</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: DESIRE</li>
+<li><strong>Format</strong>: Video Reels, YouTube video (long-form), Carousel</li>
+<li><strong>Durasi Video</strong>: 30-60 detik (Reels), 5-15 menit (YouTube)</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Be honest about plus AND minus</li>
+<li>Compare dengan kompetitor jika applicable</li>
+<li>Highlight unique value proposition</li>
+<li>Price-to-quality ratio assessment</li>
+<li>Who should buy this product (ideal use case)</li>
+<li>Link untuk membeli</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-4-testimonial-user-stories"><strong>Tema 4: Testimonial &#x26; User Stories</strong></h4>
+<p>Konten yang menampilkan customer testimonial, success story, atau how product helps someone.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: DESIRE, ACTION</li>
+<li><strong>Format</strong>: Video Reels, Stories, YouTube shorts</li>
+<li><strong>Durasi Video</strong>: 15-45 detik (Reels), 1-2 menit (Stories), 1-3 menit (YouTube)</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Feature actual customer/user (bukan talent/actor jika possible)</li>
+<li>Show specific use case dan result</li>
+<li>Make it relatable untuk audiens lain</li>
+<li>Include quote or key message dari user</li>
+<li>CTA: "Want similar result? Link di bio!"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-5-product-tips-hacks"><strong>Tema 5: Product Tips &#x26; Hacks</strong></h4>
+<p>Konten yang memberikan tips, tricks, atau clever ways untuk menggunakan produk lebih optimal.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: INTEREST, DESIRE, ACTION</li>
+<li><strong>Format</strong>: Carousel, Reels, Stories</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Provide value-add information</li>
+<li>Show less obvious features or benefits</li>
+<li>Make audiens feel like insider (eksklusif info)</li>
+<li>Bisa berupa quick tips atau detailed guide</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-6-behind-the-scenes-product-sourcing"><strong>Tema 6: Behind-the-Scenes &#x26; Product Sourcing</strong></h4>
+<p>Konten yang menunjukkan bagaimana produk dibuat, sourced, quality-checked, atau bagaimana tim Medtools Store bekerja.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST, DESIRE (trust building)</li>
+<li><strong>Format</strong>: Reels, Stories, YouTube</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Show quality control process</li>
+<li>Highlight supplier/manufacturing standards</li>
+<li>Show team passion for products</li>
+<li>Transparency about sourcing &#x26; pricing</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-7-product-comparison-bundle-deals"><strong>Tema 7: Product Comparison &#x26; Bundle Deals</strong></h4>
+<p>Konten yang membandingkan produk sejenis, atau menampilkan bundle offers dan value packages.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: ACTION</li>
+<li><strong>Format</strong>: Carousel (comparison matrix), Reels (quick comparison), Stories (promo alerts)</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Clear comparison table atau visual</li>
+<li>Explain why certain bundle makes sense</li>
+<li>Highlight savings/value dari bundle</li>
+<li>Clear CTA untuk bundle purchase</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-8-community-user-generated-content"><strong>Tema 8: Community &#x26; User-Generated Content</strong></h4>
+<p>Konten yang feature customer photos, reviews, atau stories tentang produk Medtools Store.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: DESIRE, ACTION (social proof)</li>
+<li><strong>Format</strong>: Carousel, Stories, Feed post, Reels</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Credit original creator</li>
+<li>Show diversity of users/use cases</li>
+<li>Highlight authentic feedback</li>
+<li>Encourage more UGC dengan hashtag atau tag</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-9-educational-content-seputar-kategori-produk"><strong>Tema 9: Educational Content Seputar Kategori Produk</strong></h4>
+<p>Konten yang mendidik audiens tentang kategori produk (misal: "Cara Memilih Stetoskop yang Tepat" untuk produk stetoskop).</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST, DESIRE</li>
+<li><strong>Format</strong>: Carousel, Long-form video, Stories</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Provide unbiased educational content</li>
+<li>Explain criteria untuk memilih produk kategori itu</li>
+<li>Guide audiens ke decision making</li>
+<li>Subtle mention Medtools Store option (bukan hard-sell)</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-10-flash-sale-promo-limited-time-offers"><strong>Tema 10: Flash Sale, Promo &#x26; Limited Time Offers</strong></h4>
+<p>Konten promosi yang menciptakan urgency dan mendorong immediate action.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: ACTION</li>
+<li><strong>Format</strong>: Stories (primary), Feed post, Reels, Carousel</li>
+<li><strong>Durasi</strong>: Stories 24 jam, Feed/Reels sesuai timing promo</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Create urgency (limited stock, limited time)</li>
+<li>Show discount/value clearly</li>
+<li>Make CTA crystal clear</li>
+<li>Use countdown timer atau scarcity language</li>
+<li>Easy link ke purchase</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-2-format-konten-yang-diutamakan-untuk-medtools-store">4.2 Format Konten yang Diutamakan untuk @medtools.store</h3>
+<p><strong>Format Priority Ranking:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Format</th>
+<th>Tujuan</th>
+<th>Frekuensi Target</th>
+<th>Durasi/Spec</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Video Reels (Product Demo/Unboxing/Tips)</strong></td>
+<td>DESIRE, ACTION</td>
+<td>4-6 per minggu</td>
+<td>15-60 detik</td>
+<td>Highest engagement, algorithm-favored, showcase produk most effectively</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>YouTube Video (Detailed Review/Tutorial)</strong></td>
+<td>DESIRE</td>
+<td>1-2 per minggu</td>
+<td>3-10 menit</td>
+<td>Build authority, longer watch time, detailed product explanation</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Carousel (Comparison/Tips/Specs)</strong></td>
+<td>INTEREST, DESIRE</td>
+<td>2-3 per minggu</td>
+<td>5-10 slides</td>
+<td>Good untuk detail info, comparison, step-by-step guides</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Stories (Daily Updates/Promo/Behind-the-scenes)</strong></td>
+<td>ACTION, AWARENESS</td>
+<td>Daily (3-5 per hari)</td>
+<td>1-15 detik per story</td>
+<td>Keep followers engaged, announce promo, test new content ideas</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Feed Post (Product Spotlight/Testimonial)</strong></td>
+<td>DESIRE, ACTION</td>
+<td>2-3 per minggu</td>
+<td>1 image + caption</td>
+<td>More permanent than stories, good untuk showcase hero products</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Live Video (Q&#x26;A/Product Launch/Special Event)</strong></td>
+<td>INTEREST, DESIRE, ACTION</td>
+<td>1-2 per bulan</td>
+<td>30-60 menit</td>
+<td>Direct interaction, real-time engagement, product launch excitement</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="4-3-batasan-konten-do-s-don-ts-khusus-medtools-store-">4.3 Batasan Konten (Do's &#x26; Don'ts Khusus @medtools.store)</h3>
+<p><strong>❌ KONTEN YANG WAJIB DIHINDARI:</strong></p>
+<ul>
+<li>❌ <strong>Konten yang misleading atau overpromise</strong>: Jangan klaim "guaranteed" atau "miracle" result jika tidak ada evidence. Audiens ini educated dan akan notice bullshit.</li>
+<li>❌ <strong>Konten dengan kualitas produk yang tidak sesuai</strong>: Jika tampilan fisik produk di konten tidak match dengan actual product, trust akan broken.</li>
+<li>❌ <strong>Comparison yang unfair dengan kompetitor</strong>: Jangan black-mouth kompetitor atau manipulate comparison untuk look better.</li>
+<li>❌ <strong>Fake testimonial atau paid actors</strong>: Gunakan real customers jika possible. Jika gunakan talent, disclose bahwa itu re-enacted.</li>
+<li>❌ <strong>Konten yang mengabaikan technical specifications</strong>: Jangan hide spec atau detail penting yang might affect buying decision.</li>
+<li>❌ <strong>Aggressive hard-selling tone</strong>: Overly pushy selling akan turn off audiens. Focus on value, tidak pressure.</li>
+<li>❌ <strong>Product quality issues yang diabaikan</strong>: Jika ada known issue dengan produk, acknowledge dan explain bagaimana it's being fixed.</li>
+<li>❌ <strong>Pricing yang tidak transparent</strong>: Jangan hide actual price atau sneak in additional costs dalam fine print.</li>
+<li>❌ <strong>Spam atau low-quality production</strong>: Konten dengan audio jelek, video blur, atau sloppily edited akan diminish product perception.</li>
+</ul>
+<p><strong>✅ KONTEN YANG DIANJURKAN:</strong></p>
+<ul>
+<li>✅ <strong>Honest assessment dengan plus-minus</strong>: Authentic review yang acknowledge both strengths dan weaknesses akan build more trust.</li>
+<li>✅ <strong>Real customer testimonial</strong>: Actual users sharing genuine experience adalah gold standard.</li>
+<li>✅ <strong>Detailed product specs dengan context</strong>: Explain technical details in way yang relate to user benefit (bukan just listing specs).</li>
+<li>✅ <strong>Before-after atau problem-solution framing</strong>: Show konkret bagaimana produk memecahkan problem atau improve situation.</li>
+<li>✅ <strong>Comparison dengan clear reasoning</strong>: Jika compare dengan kompetitor, do it fairly dan explain trade-offs.</li>
+<li>✅ <strong>Value-for-money messaging</strong>: Emphasize quality dan durability untuk justify price point.</li>
+<li>✅ <strong>Educational content</strong>: Help audiens make informed decision, tidak just sell-sell-sell.</li>
+<li>✅ <strong>High production quality</strong>: Good lighting, clear audio, smooth editing = perceived high product quality.</li>
+<li>✅ <strong>Responsive customer service in comments</strong>: Answer questions, address concerns, show you care about customer satisfaction.</li>
+</ul>
+<hr>
+<h2 id="5-sop-pembuatan-konten">5. SOP PEMBUATAN KONTEN</h2>
+<h3 id="5-1-tahap-ideasi-konten">5.1 Tahap Ideasi Konten</h3>
+<p><strong>Tujuan</strong>: Menghasilkan ide konten product-focused yang kreatif, relevan dengan target audiens, dan selaras dengan strategi marketing Medtools Store.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Monthly Product Prioritization</strong> (Awal Bulan)</p>
+<ul>
+<li>Social Media Manager, bekerja sama dengan Product/E-commerce team, mengidentifikasi <strong>produk mana yang akan menjadi hero/priority</strong> untuk bulan tersebut.</li>
+<li>Criteria prioritization:
+<ul>
+<li>New product launch</li>
+<li>High-margin products</li>
+<li>Trending products (high demand)</li>
+<li>Slow-moving products yang perlu boost</li>
+<li>Seasonal products</li>
+</ul>
+</li>
+<li>Dokumentasi: Create list of "hero products" untuk bulan tersebut dengan alasan priority masing-masing.</li>
+</ul>
+</li>
+<li>
+<p><strong>Content Calendar Planning</strong> (Week 1-2 of Month)</p>
+<ul>
+<li>Untuk setiap hero product, brainstorm <strong>minimal 5-10 content ideas</strong> dengan berbagai format dan angle.</li>
+<li>Content ideas harus diverse dalam format (video, carousel, reels, live, dll.) dan angle (demo, review, testimonial, tips, comparison, dll.).</li>
+<li>Kolaborasi: Ideation melibatkan Creator, Editor, Social Media Manager. Brainstorm bisa informal tapi dokumentasi harus clear.</li>
+<li><strong>Content Ideation Framework untuk setiap produk:</strong>
+<ul>
+<li><strong>Format</strong>: Video Reels / YouTube / Carousel / Stories / Live</li>
+<li><strong>Angle/Theme</strong>: Demo / Review / Unboxing / Tips / Comparison / Testimonial / Educational / Behind-the-scenes</li>
+<li><strong>Funnel Stage</strong>: DESIRE / ACTION / INTEREST</li>
+<li><strong>Key Message</strong>: Apa unique value dari produk ini?</li>
+<li><strong>Target Audience Sub-segment</strong>: Mahasiswa / Professional / Parent</li>
+<li><strong>Execution Difficulty</strong>: Easy / Medium / Hard (dengan note tentang resource/talent needed)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Content Calendar Assembly</strong></p>
+<ul>
+<li>Social Media Manager meng-compile semua idea ke dalam <strong>Content Calendar</strong> untuk bulan tersebut.</li>
+<li>Struktur:
+<pre><code>Minggu 1: 
+- Tgl X: Video Reels - Product Unboxing [Product A]
+- Tgl Y: Carousel - Product Tips [Product B]
+- Tgl Z: Stories - Flash Sale [Product C]
+... etc
+</code></pre>
+</li>
+<li>Spreadsheet harus include: Tanggal, Format, Produk, Angle, Funnel Stage, Lead Creator, Status.</li>
+</ul>
+</li>
+<li>
+<p><strong>Calendar Approval</strong> (Week 2-3)</p>
+<ul>
+<li>Dept. Head review calendar untuk ensure:
+<ul>
+<li>Balanced mix of formats</li>
+<li>Adequate coverage untuk priority products</li>
+<li>No excessive repetition</li>
+<li>Align dengan overall strategy dan promotion calendar</li>
+</ul>
+</li>
+<li>Feedback diberikan dan calendar di-finalize.</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-2-tahap-riset-validasi-materi">5.2 Tahap Riset &#x26; Validasi Materi</h3>
+<p><strong>Tujuan</strong>: Memastikan semua informasi tentang produk adalah akurat, dan semua klaim didukung oleh spesifikasi produk atau evidence yang valid.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Product Research &#x26; Familiarization</strong></p>
+<ul>
+<li>Sebelum membuat konten tentang produk, <strong>creator harus fully familiar dengan produk tersebut</strong>.</li>
+<li>Aktivitas:
+<ul>
+<li>Read product description, spec sheet, dan packaging.</li>
+<li>Jika possible, test/use produk sendiri untuk personal experience.</li>
+<li>Check supplier/manufacturer information untuk understand quality, origin, certifications.</li>
+<li>Review existing customer reviews (dari e-commerce, testimonial, feedback).</li>
+<li>Understand competitor products di kategori yang sama untuk context.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Specification &#x26; Claim Validation</strong></p>
+<ul>
+<li><strong>Semua klaim atau benefit yang akan mentioned di konten harus terverifikasi</strong> terhadap product spec atau actual experience.</li>
+<li>Contoh: Jangan klaim "durability 5 tahun" jika specification hanya says "high durability" tanpa specific years. Say instead: "High-quality, durable design yang bisa tahan penggunaan intensif"</li>
+<li>Jika claim technical, validate dengan product documentation atau manufacturer info.</li>
+<li>Jika claim result-based (misal: "bikin pekerjaan lebih cepat"), ini okay jika based on realistic use case, bukan hyperbole.</li>
+</ul>
+</li>
+<li>
+<p><strong>Price &#x26; Availability Check</strong></p>
+<ul>
+<li>Verify current price (tidak outdated).</li>
+<li>Check stock availability status.</li>
+<li>Understand ongoing promo atau bundle deals yang relevant.</li>
+<li>Verify link/URL yang akan digunakan di konten (jangan broken links).</li>
+</ul>
+</li>
+<li>
+<p><strong>Competitor Context Research</strong> (Jika ada)</p>
+<ul>
+<li>Jika konten akan include comparison, research kompetitor product untuk ensure comparison adalah fair dan accurate.</li>
+<li>Jangan distort competitor info untuk make Medtools product look better artificially.</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-3-tahap-penulisan-script-konsep-visual">5.3 Tahap Penulisan Script &#x26; Konsep Visual</h3>
+<p><strong>Tujuan</strong>: Menerjemahkan ide konten menjadi script atau visual concept yang siap untuk diproduksi.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Script Writing (untuk Video Content)</strong></p>
+<ul>
+<li>
+<p><strong>Hook (0-3 detik)</strong>: Start dengan attention-grabbing statement, question, atau visual.</p>
+<ul>
+<li>Contoh hook: "Stetoskop yang satu ini bisa dengar detak jantung pasien dari ruang isolasi... gimana caranya?" (curiosity hook)</li>
+<li>Atau: "Bakal ngubah cara lo examine pasien" (benefit hook)</li>
+<li>Atau: "Lihat perbedaan stetoskop biasa vs stetoskop ini" (comparison hook)</li>
+</ul>
+</li>
+<li>
+<p><strong>Body (3-45 detik)</strong>: Deliver konten inti</p>
+<ul>
+<li>Unboxing konten: Show produk, packaging, build quality, first impressions</li>
+<li>Demo konten: Show product in use, explain features, demonstrate benefits</li>
+<li>Review konten: Discuss pros &#x26; cons, compare if applicable, explain value proposition</li>
+<li>Tips konten: Share useful tips/hacks untuk maximize product</li>
+<li>Testimonial konten: User share pengalaman mereka</li>
+</ul>
+</li>
+<li>
+<p><strong>CTA (45-60 detik)</strong>: Clear call-to-action</p>
+<ul>
+<li>"Link di bio untuk beli"</li>
+<li>"Interested? DM kami atau klik link di bio"</li>
+<li>"Stok terbatas, order sekarang!"</li>
+<li>"Tag teman yang butuh ini"</li>
+<li>"Klik link di bio untuk lihat lengkapnya"</li>
+</ul>
+</li>
+<li>
+<p><strong>Tone &#x26; Language Guidelines</strong>:</p>
+<ul>
+<li>Casual, conversational (bukan robotic atau too formal)</li>
+<li>Authentic (bukan over-acting atau fake enthusiasm)</li>
+<li>Clear pronunciation of product names, technical terms</li>
+<li>Bahasa Indonesia yang mudah dimengerti, bukan slang overdone</li>
+<li>Positive tone, tapi honest (jangan fake perfection)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Storyboard Creation</strong> (untuk Video)</p>
+<ul>
+<li>Buat visual storyboard atau shot list yang ddetail untuk production.</li>
+<li>Untuk setiap scene/shot, dokumentasikan:
+<ul>
+<li>What happens (action, positioning, product angle)</li>
+<li>Where to show (close-up, wide, detail shot)</li>
+<li>Voiceover atau on-camera talent?</li>
+<li>Any graphics, overlay, atau text to add?</li>
+<li>Lighting/setup needed?</li>
+</ul>
+</li>
+<li>Format: Simple sketches atau detailed description, tidak harus fancy art. Functional saja.</li>
+</ul>
+</li>
+<li>
+<p><strong>Visual Concept</strong> (untuk Carousel atau Feed Post)</p>
+<ul>
+<li>Buat wireframe atau rough layout untuk setiap slide (carousel) atau image (feed post).</li>
+<li>Dokumentasikan:
+<ul>
+<li>Main visual (product photo, lifestyle image, custom graphic)</li>
+<li>Text hierarchy (headline, body, CTA)</li>
+<li>Color scheme (align dengan brand guidelines)</li>
+<li>Any diagrams, comparison matrix, atau graphics needed</li>
+</ul>
+</li>
+<li>Reference: Gather 2-3 inspiration images dari Instagram untuk visual direction.</li>
+</ul>
+</li>
+<li>
+<p><strong>Approval Before Production</strong></p>
+<ul>
+<li>Submit script &#x26; storyboard/concept ke Social Media Manager atau Dept. Head untuk review sebelum masuk tahap produksi.</li>
+<li>Tujuan: Ensure alignment dengan creative brief, no major revisions yang akan cause production delays.</li>
+<li>Timeline: Approval dalam max 1-2 hari kerja.</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-4-tahap-produksi-visual-video">5.4 Tahap Produksi Visual &#x26; Video</h3>
+<p><strong>Tujuan</strong>: Mengeksekusi konsep yang sudah disetujui menjadi aset berkualitas tinggi.</p>
+<p><strong>Alur Kerja untuk Video Production:</strong></p>
+<ol>
+<li>
+<p><strong>Pre-Production Checklist</strong></p>
+<ul>
+<li>✓ Script finalized dan disetujui</li>
+<li>✓ Storyboard/shot list siap</li>
+<li>✓ Semua props/produk available dan dalam kondisi baik</li>
+<li>✓ Talent (jika ada) sudah briefed dan available</li>
+<li>✓ Location scouted (jika needed)</li>
+<li>✓ Equipment (camera, tripod, lighting, mic) siap dan tested</li>
+<li>✓ Backup plan jika ada technical issue</li>
+</ul>
+</li>
+<li>
+<p><strong>Shooting Tips for Product Videos</strong></p>
+<ul>
+<li><strong>Product Lighting</strong>:
+<ul>
+<li>Product harus well-lit dengan minimal shadows untuk highlight details.</li>
+<li>Use softbox atau ring light untuk even lighting.</li>
+<li>Avoid harsh shadows yang bisa hide product features.</li>
+</ul>
+</li>
+<li><strong>Stability</strong>:
+<ul>
+<li>Use tripod atau gimbal untuk stable footage. Avoid shaky handheld unless intentional style.</li>
+<li>Exception: For lifestyle/real-use context, some handheld movement okay untuk authenticity.</li>
+</ul>
+</li>
+<li><strong>Audio</strong>:
+<ul>
+<li>Use microphone (clip-on atau shotgun) untuk clear voice-over.</li>
+<li>Minimize background noise (ambient sound, air con, traffic).</li>
+<li>Do sound check before main recording.</li>
+</ul>
+</li>
+<li><strong>Multiple Takes</strong>:
+<ul>
+<li>Take min 2-3 takes untuk setiap scene.</li>
+<li>Different angles atau variations untuk give flexibility saat editing.</li>
+</ul>
+</li>
+<li><strong>B-roll</strong>:
+<ul>
+<li>Capture extra footage dari different angles, close-ups, movement untuk editing flexibility.</li>
+<li>B-roll akan help cover any imperfection dalam main shots.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Post-Shooting Workflow</strong></p>
+<ul>
+<li>Immediately backup file ke external drive dan cloud storage.</li>
+<li>Organize files by project/product dengan clear naming.</li>
+<li>Check footage quality before leaving location (resolution, audio, lighting acceptable?).</li>
+</ul>
+</li>
+</ol>
+<p><strong>Alur Kerja untuk Graphic/Carousel Production:</strong></p>
+<ol>
+<li>
+<p><strong>Design Process</strong></p>
+<ul>
+<li>Use Canva for Teams (required untuk consistency dengan brand kit) atau Adobe if high-customization needed.</li>
+<li>Follow brand guidelines untuk color, font, logo placement.</li>
+<li>Ensure readability: Large font sizes, sufficient contrast, clean layout.</li>
+<li>For carousel: Konsisten layout across slides, cohesive visual design.</li>
+</ul>
+</li>
+<li>
+<p><strong>Quality Checks</strong></p>
+<ul>
+<li>✓ Color correct dan consistent across slides</li>
+<li>✓ Text readable di mobile screen</li>
+<li>✓ Graphics sharp, tidak blurry atau pixelated</li>
+<li>✓ Layout balanced, not overcrowded</li>
+<li>✓ All information accurate dan no typo</li>
+</ul>
+</li>
+<li>
+<p><strong>Export</strong></p>
+<ul>
+<li>Export dalam format JPG (high quality) atau PNG (with transparent bg jika needed).</li>
+<li>Resolution: Min 1080x1080px untuk square (feed post), 1080x1350px untuk portrait (carousel).</li>
+<li>Double-check file size (should compress jika too large).</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-5-tahap-quality-control-sebelum-upload">5.5 Tahap Quality Control Sebelum Upload</h3>
+<p><strong>Tujuan</strong>: Memastikan semua konten memenuhi standar kualitas MEDTOOLS sebelum dipublikasikan.</p>
+<p><strong>QC Checklist (Mandatory untuk semua konten):</strong></p>
+<p><strong>Video Content (Reels, YouTube, Stories Video):</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Requirement</th>
+<th>Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Audio Quality</strong></td>
+<td>No background noise, voiceover clear dan jelas, volume consistent</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Visual Quality</strong></td>
+<td>Not blurry, good color grading, lighting adequate, no weird artifacts</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Stability</strong></td>
+<td>No excessive shaking, smooth transitions</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Duration</strong></td>
+<td>Sesuai target (Reels 15-60s, YouTube 3-10min, Stories 1-15s)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Resolution</strong></td>
+<td>Min 1080x1920px untuk vertical (Reels/Stories), 1920x1080px untuk horizontal</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Product Visibility</strong></td>
+<td>Product clearly visible dan good angles shown, details dapat dilihat</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Text/Overlay</strong></td>
+<td>If present, readable, on-brand font, correct spelling, good positioning</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Transitions</strong></td>
+<td>Smooth, not jarring, appropriate pacing</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Content Accuracy</strong></td>
+<td>Claims terverifikasi, product specs correct, no misleading statement</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Brand Compliance</strong></td>
+<td>Logo visible (if applicable), brand colors/style consistent, no competitor logo</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Platform Optimization</strong></td>
+<td>Tested viewing di actual Instagram app untuk QA before approval</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Graphic/Image Content (Carousel, Feed Post, Stories Image):</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Requirement</th>
+<th>Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Visual Quality</strong></td>
+<td>Sharp, no pixelation, good color, properly lit</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Text Readability</strong></td>
+<td>All text readable di mobile, sufficient contrast, correct font size</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Brand Guideline Compliance</strong></td>
+<td>Using on-brand colors, fonts, logo, visual elements</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Layout</strong></td>
+<td>Balanced composition, not overcrowded, good white space</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Product Visibility</strong></td>
+<td>Product clearly featured dengan good angles, details visible</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Information Accuracy</strong></td>
+<td>No typo, all data/claims correct, pricing accurate if shown</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Spec Compliance</strong></td>
+<td>1080x1080px (square), 1080x1350px (portrait), atau per platform spec</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Copy/Caption Quality:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Requirement</th>
+<th>Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Spelling &#x26; Grammar</strong></td>
+<td>No typo, grammar correct, easy to read</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Hook Quality</strong></td>
+<td>First sentence engaging, creates curiosity atau interest</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Clarity</strong></td>
+<td>Message clear, benefit obvious, tidak confusing</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Tone</strong></td>
+<td>Align dengan brand voice, authentic, tidak overly salesy</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>CTA</strong></td>
+<td>Clear call-to-action present, actionable, compelling</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Link Accuracy</strong></td>
+<td>Jika ada link, tested bahwa working dan direct ke correct product page</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>QC Process:</strong></p>
+<ol>
+<li>
+<p><strong>Self-Review by Creator</strong> (First pass)</p>
+<ul>
+<li>Creator melakukan self-check menggunakan checklist di atas.</li>
+<li>Creator fix any issues sebelum submit.</li>
+</ul>
+</li>
+<li>
+<p><strong>Social Media Manager Review</strong> (Second pass)</p>
+<ul>
+<li>Social Media Manager melakukan review untuk ensure quality dan brand alignment.</li>
+<li>Jika ada issues, provide feedback untuk revision.</li>
+<li>Timeline: Review dalam 1 hari kerja.</li>
+</ul>
+</li>
+<li>
+<p><strong>Final Approval</strong></p>
+<ul>
+<li>Setelah perbaikan, konten di-mark sebagai <strong>"APPROVED FOR PUBLISH"</strong> oleh Social Media Manager.</li>
+<li>Konten siap untuk tahap publikasi.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="6-sop-upload-publishing">6. SOP UPLOAD &#x26; PUBLISHING</h2>
+<h3 id="6-1-alur-upload-konten">6.1 Alur Upload Konten</h3>
+<p><strong>Step 1: Organize File di Google Drive</strong></p>
+<ul>
+<li>Semua konten yang sudah approved harus di-organize di folder Google Drive dengan struktur:
+<pre><code>MEDTOOLS_STORE/[TAHUN]/[BULAN]/04_FINAL_UNTUK_PUBLISH/
+├── VIDEO_REELS_DAN_YOUTUBE/
+│   ├── 20260113_REELS_StetoskopDemo_V_FINAL.mp4
+│   ├── 20260113_REELS_StetoskopDemo_CAPTION.txt
+│   └── 20260113_YOUTUBE_StetoskopReview_FINAL.mp4
+├── GRAPHICS_DAN_CAROUSEL/
+│   ├── 20260113_IG-Carousel_ProdukBaru_SLIDE1.jpg
+│   ├── 20260113_IG-Carousel_ProdukBaru_SLIDE2.jpg
+│   └── 20260113_IG-Carousel_ProdukBaru_CAPTION.txt
+└── STORIES/
+    ├── 20260113_IGStories_FlashSale_V1.jpg
+    └── 20260113_IGStories_FlashSale_CAPTION.txt
+</code></pre>
+</li>
+</ul>
+<p><strong>Step 2: Prepare Metadata &#x26; Caption File</strong></p>
+<ul>
+<li>Untuk setiap konten, siapkan file terpisah (TXT atau DOCS) yang berisi:
+<ul>
+<li><strong>Caption</strong>: Final caption yang akan dipublikasikan</li>
+<li><strong>Hashtags</strong>: List hashtag yang relevant (15-30 hashtags)</li>
+<li><strong>Tags (@mention)</strong>: Akun yang akan di-tag</li>
+<li><strong>Link</strong>: URL ke product page, Desty, atau CTA link lainnya</li>
+<li><strong>Posting Time (optional)</strong>: Recommended posting time based on audience insights</li>
+<li><strong>Platform</strong>: Instagram (which account) / YouTube / TikTok / etc</li>
+</ul>
+</li>
+</ul>
+<p><strong>Example Caption File Format:</strong></p>
+<pre><code>PRODUK: Stetoskop Digital Premium
+PLATFORM: Instagram @medtools.store
+TANGGAL POSTING: 15 Januari 2026
+WAKTU POSTING: 11:00 WIB
+
+CAPTION:
+---
+Stetoskop digital yang bisa mendengar detak jantung bahkan di ruang yang rame 🩺
+
+Kami udah nyoba ini di IGD, dan honestly... game-changer banget. Audio crystal clear, design ergonomis, dan yang paling penting—harganya reasonable untuk kualitas yang lo dapat.
+
+Buat mahasiswa kedokteran yang mau invest di alat berkualitas, atau dokter yang pengen upgrade dari stetoskop biasa—ini rekomendasi kami.
+
+Link di bio untuk lihat lengkapnya atau order sekarang! ⬅️
+
+#MedtoolsStore #StetoskopDigital #AlatMedisKualitas #MahasiswaKedokteran #ProduktivitasMedis #ToolsForDoctors #MedicalEquipment
+---
+
+HASHTAGS:
+#MedtoolsStore #StetoskopDigital #AlatMedisKualitas #MahasiswaKedokteran #ProduktivitasMedis #ToolsForDoctors #MedicalEquipment #DokterMuda #HealthcareProfessional #MedicalStudents #BisnisKesehatan #KualitasTerbaik #HargaTerjangkau
+
+TAGS:
+@medtools.id (main account)
+@medtools.academy (related to student education)
+
+LINK:
+https://medtools.store/product/stetoskop-digital-premium
+(TEST LINK DAHULU SEBELUM PUBLISH!)
+
+POSTING TIME RECOMMENDATION:
+11:00 WIB atau 19:00 WIB (based on audience engagement data dari Instagram Insights)
+</code></pre>
+<p><strong>Step 3: Create Content Scheduling Sheet</strong></p>
+<ul>
+<li>Setiap minggu atau sebelum posting, Social Media Manager membuat scheduling sheet untuk minggu tersebut yang berisi:
+<ul>
+<li>Konten apa yang akan diupload</li>
+<li>Tanggal &#x26; waktu posting</li>
+<li>Platform</li>
+<li>Link ke caption file di Google Drive</li>
+<li>Status approval</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-2-proses-approval-sebelum-publish">6.2 Proses Approval Sebelum Publish</h3>
+<p><strong>Mandatory Final Check:</strong></p>
+<p>Sebelum konten benar-benar go live, Social Media Manager atau Dept. Head melakukan <strong>final approval check</strong>, fokus pada:</p>
+<ol>
+<li>
+<p><strong>Caption Quality</strong></p>
+<ul>
+<li>✓ No typo atau grammar error</li>
+<li>✓ Hook strong dan engaging</li>
+<li>✓ CTA clear dan compelling</li>
+<li>✓ Tone sesuai brand voice</li>
+</ul>
+</li>
+<li>
+<p><strong>Technical Accuracy</strong></p>
+<ul>
+<li>✓ All links tested dan working</li>
+<li>✓ Link mengarah ke correct product page</li>
+<li>✓ Hashtags relevant dan tidak spam</li>
+<li>✓ Tags (@mention) appropriate</li>
+</ul>
+</li>
+<li>
+<p><strong>Timing &#x26; Strategy</strong></p>
+<ul>
+<li>✓ Posting time align dengan audience insights</li>
+<li>✓ Tidak conflict dengan konten lain yang sedang running</li>
+<li>✓ Fit dengan content calendar strategy</li>
+</ul>
+</li>
+<li>
+<p><strong>Product &#x26; Branding</strong></p>
+<ul>
+<li>✓ Product info akurat, no misleading claims</li>
+<li>✓ Brand consistency maintained</li>
+<li>✓ Product visibility good dalam konten</li>
+</ul>
+</li>
+</ol>
+<p><strong>Approval Timeline:</strong></p>
+<ul>
+<li>Ideal: Approve konten <strong>24 jam sebelum scheduled posting</strong>, ini memberikan buffer untuk perbaikan emergency.</li>
+</ul>
+<h3 id="6-3-aturan-caption">6.3 Aturan Caption</h3>
+<p><strong>Caption Structure untuk @medtools.store:</strong></p>
+<pre><code>[HOOK - Kalimat pertama yang engaging, curiosity atau benefit focused]
+[BREAK LINE]
+
+[BODY - Konten inti, bisa 2-4 paragraph, keep short &#x26; scannable]
+[BREAK LINE]
+
+[VALUE PROPOSITION - Why they should buy, unique benefit]
+[BREAK LINE]
+
+[CTA - Clear call-to-action, compelling]
+
+[BREAK LINE]
+
+[HASHTAGS - 15-30 relevant hashtags]
+</code></pre>
+<p><strong>Example Good Caption:</strong></p>
+<pre><code>Produk yang bisa ubah cara lo praktik 🔥
+
+Stetoskop ini punya frequency modulation yang bikin lo bisa dengar sound minimal bahkan di environment yang rame. Build quality-nya pun solid, durability tested ribuan jam.
+
+Buat mahasiswa yang pengen serious dengan alat medis berkualitas—ini investasi yang worth it. Harga segini dengan spec seperti ini, honestly jarang.
+
+Stok terbatas, order sekarang via link di bio! ⬇️
+
+#MedtoolsStore #StetoskopPremium #AlatMedis #MahasiswaKedokteran #DokterMuda #QualityMatters #MedicalTools #InvestasiMedis #ProduktivitasKerja #HealthcareProfessional
+</code></pre>
+<p><strong>Caption Best Practices:</strong></p>
+<p>✓ <strong>Hook First</strong>: Make people stop scrolling with interesting first sentence
+✓ <strong>Benefit-Focused</strong>: Focus on "why should I care" bukan just features
+✓ <strong>Authentic Tone</strong>: Conversational, bukan robotic atau corporate-speak
+✓ <strong>Clear Structure</strong>: Use line breaks untuk readability
+✓ <strong>CTA Prominent</strong>: Make it crystal clear apa action yang diinginkan
+✓ <strong>Short &#x26; Scannable</strong>: People read on mobile, keep it concise
+✓ <strong>No Typo</strong>: Proofread minimum 2x
+✓ <strong>Link Clear</strong>: "Link di bio" atau "Klik link di bio" explicit mention</p>
+<h3 id="6-4-aturan-hashtag">6.4 Aturan Hashtag</h3>
+<p><strong>Hashtag Strategy untuk @medtools.store:</strong></p>
+<p><strong>Mix Hashtag Types:</strong></p>
+<ol>
+<li>
+<p><strong>Brand Hashtag</strong> (Required)</p>
+<ul>
+<li>#MedtoolsStore (branded hashtag, consistency across all posts)</li>
+<li>#MedtoolsFamily atau #MedtoolsCommunity (community building)</li>
+</ul>
+</li>
+<li>
+<p><strong>Niche Hashtag</strong> (High Relevance)</p>
+<ul>
+<li>#StetoskopDigital, #AlatMedis, #MahasiswaKedokteran (specific to product/audience)</li>
+<li>Reach: 10K-100K posts</li>
+<li>High relevance, moderate reach</li>
+</ul>
+</li>
+<li>
+<p><strong>Mid-Tier Hashtag</strong> (Balanced Reach &#x26; Relevance)</p>
+<ul>
+<li>#MedicalStudents, #HealthcareProfessional, #ProduktivitasMedis</li>
+<li>Reach: 50K-500K posts</li>
+<li>Good balance between visibility dan targeted reach</li>
+</ul>
+</li>
+<li>
+<p><strong>Popular Hashtag</strong> (High Reach)</p>
+<ul>
+<li>#Indonesia, #OnlineShop, #Shopping, #HealthCare</li>
+<li>Reach: 1M+ posts</li>
+<li>High visibility tapi lower relevance (harder to rank)</li>
+</ul>
+</li>
+</ol>
+<p><strong>Hashtag Count:</strong></p>
+<ul>
+<li>Use <strong>15-30 hashtags</strong> per post (Instagram allows up to 30).</li>
+<li>More ≠ better. Quality > quantity. 20-25 well-chosen hashtags > 30 random ones.</li>
+</ul>
+<p><strong>Hashtag Placement:</strong></p>
+<ul>
+<li>Option 1: Include dalam caption (if space allows and looks clean)</li>
+<li>Option 2: Separate comment (jika caption crowded, post hashtags di first comment)</li>
+</ul>
+<p><strong>Hashtag Research Tips:</strong></p>
+<ul>
+<li>Before posting, search hashtag di Instagram to see recent posts volume and relevance.</li>
+<li>Avoid hashtags yang contaminated dengan spam atau irrelevant content.</li>
+<li>Rotate hashtags occasionally to test new ones dan maintain freshness.</li>
+</ul>
+<p><strong>Example Hashtag Set untuk Stetoskop Product:</strong></p>
+<pre><code>#MedtoolsStore #StetoskopDigital #AlatMedis #MahasiswaKedokteran #DokterMuda #MedicalStudents #HealthcareProfessional #ProduktivitasMedis #QualityTools #InvestasiMedis #MedicalEquipment #BisnisKesehatan #DukunganMedis #PilihKualitas #OnlineShop #Indonesia #ToolsForSuccess #MedtoolsCommunity #KesehatanTerjaga
+</code></pre>
+<h3 id="6-5-ketentuan-teknis-platform-instagram-youtube-">6.5 Ketentuan Teknis Platform (Instagram &#x26; YouTube)</h3>
+<p><strong>Format &#x26; Resolusi untuk Instagram:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Konten Type</th>
+<th>Format</th>
+<th>Resolusi Optimal</th>
+<th>Aspect Ratio</th>
+<th>Max File Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feed Post (Square)</td>
+<td>JPG/PNG</td>
+<td>1080 x 1080px</td>
+<td>1:1</td>
+<td>8 MB</td>
+</tr>
+<tr>
+<td>Feed Post (Portrait)</td>
+<td>JPG/PNG</td>
+<td>1080 x 1350px</td>
+<td>4:5</td>
+<td>8 MB</td>
+</tr>
+<tr>
+<td>Stories</td>
+<td>JPG/PNG</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>8 MB</td>
+</tr>
+<tr>
+<td>Reels</td>
+<td>MP4/MOV</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>100 MB</td>
+</tr>
+<tr>
+<td>Carousel</td>
+<td>JPG/PNG (per slide)</td>
+<td>1080 x 1350px</td>
+<td>4:5</td>
+<td>8 MB per slide</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Format &#x26; Resolusi untuk YouTube:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Content Type</th>
+<th>Format</th>
+<th>Resolusi</th>
+<th>Aspect Ratio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Video</td>
+<td>MP4</td>
+<td>1920 x 1080px (Full HD) min, 4K optional</td>
+<td>16:9</td>
+</tr>
+<tr>
+<td>Thumbnail</td>
+<td>JPG/PNG</td>
+<td>1280 x 720px</td>
+<td>16:9</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Upload Best Practices:</strong></p>
+<p>✓ Export dari original file (jangan re-compress multiple times)<br>
+✓ Use appropriate video codec (H.264 recommended)<br>
+✓ Test upload di different connections (wifi &#x26; mobile) untuk ensure quality<br>
+✓ Check video plays smoothly sebelum publish<br>
+✓ For Reels, optimal duration 15-30 detik untuk higher engagement<br>
+✓ For YouTube, keep videos concise (3-10 min) untuk maintain watch time<br>
+✓ Always include captions/subtitle di video untuk accessibility &#x26; retention</p>
+<hr>
+<h2 id="7-kuota-frekuensi-konten">7. KUOTA &#x26; FREKUENSI KONTEN</h2>
+<h3 id="7-1-target-output-konten-per-platform">7.1 Target Output Konten per Platform</h3>
+<p>Berdasarkan strategi dan best practices untuk product-focused social media:</p>
+<p><strong>Instagram @medtools.store:</strong></p>
+<ul>
+<li><strong>Target Minimum</strong>: 24-28 konten/bulan (<strong>Green Target</strong>)</li>
+<li><strong>Breakdown</strong>:
+<ul>
+<li>Video Reels: 4-6 per minggu (16-24 per bulan) = <strong>PRIMARY FORMAT</strong></li>
+<li>Feed Post (Carousel + Single): 2-3 per minggu (8-12 per bulan)</li>
+<li>Stories: Daily (3-5 per hari, minimal 50 per bulan)</li>
+</ul>
+</li>
+<li><strong>Consistency</strong>: Posting harus regular dan consistent, tidak bursty</li>
+<li><strong>Recommendation</strong>: 3-4 posts per hari secara aggregate (Reels + Feed + Stories) spread throughout day</li>
+</ul>
+<p><strong>YouTube (@medtools channel or dedicated product channel):</strong></p>
+<ul>
+<li><strong>Target</strong>: 1-2 video per minggu (4-8 per bulan)</li>
+<li><strong>Format</strong>: Detailed product review, tutorial, comparison, unboxing, behind-the-scenes</li>
+<li><strong>Duration</strong>: 3-10 menit per video</li>
+<li><strong>KPI Focus</strong>: Watch time, Audience retention, Click-through rate to product page</li>
+</ul>
+<h3 id="7-2-optimal-posting-schedule">7.2 Optimal Posting Schedule</h3>
+<p>Optimal posting times adalah ketika target audiens most likely to see dan engage dengan konten. Berdasarkan Instagram Insights untuk mahasiswa kedokteran &#x26; profesional medis:</p>
+<p><strong>Weekday (Senin-Jumat):</strong></p>
+<ul>
+<li><strong>Primary Window 1</strong>: 11:00-13:00 WIB (lunch break, high scroll time)</li>
+<li><strong>Primary Window 2</strong>: 19:00-21:00 WIB (evening, people winding down from work/study)</li>
+<li><strong>Secondary Window</strong>: 08:00-09:00 WIB (morning commute/before work)</li>
+</ul>
+<p><strong>Weekend (Sabtu-Minggu):</strong></p>
+<ul>
+<li><strong>Primary Window 1</strong>: 10:00-12:00 WIB (morning leisure time)</li>
+<li><strong>Primary Window 2</strong>: 20:00-22:00 WIB (evening)</li>
+<li><strong>Lower engagement generally</strong>, jadi focus posting frequency pada weekday</li>
+</ul>
+<p><strong>Stories Posting Strategy:</strong></p>
+<ul>
+<li>Spread throughout the day untuk maintain consistent visibility</li>
+<li>Morning (08:00-09:00), Mid-day (12:00-13:00), Afternoon (15:00-16:00), Evening (19:00-20:00), Night (21:00-22:00)</li>
+<li>Jangan all-at-once, spread untuk maintain top-of-mind presence</li>
+</ul>
+<p><strong>Promo/Flash Sale Posts:</strong></p>
+<ul>
+<li>Post immediately when promo goes live (jangan wait untuk optimal time)</li>
+<li>Maximize visibility dengan pinned post atau highlight di Stories</li>
+<li>Use countdown timer dan scarcity language untuk create urgency</li>
+</ul>
+<p><strong>Note</strong>:
+Optimal time dapat vary based on your specific audience. <strong>Selalu check Instagram Insights weekly untuk "Best Time to Post"</strong> dan adjust accordingly. Data actual > assumptions.</p>
+<h3 id="7-3-frekuensi-publikasi-consistency">7.3 Frekuensi Publikasi &#x26; Consistency</h3>
+<ul>
+<li>
+<p><strong>WAJIB hit monthly target</strong>: Target 24-28 konten per bulan HARUS tercapai. Tidak bisa carry over ke bulan depan.</p>
+</li>
+<li>
+<p><strong>Consistency lebih penting dari quantity</strong>: Better to post 4x per minggu consistently than 8x in one week then nothing for 2 weeks.</p>
+</li>
+<li>
+<p><strong>No skipping without notice</strong>: Jika ada hambatan produksi (misal: equipment rusak, talent unavailable, dll.), <strong>escalate ke Dept. Head 1-2 minggu sebelumnya</strong> sehingga bisa adjust timeline atau use backup content.</p>
+</li>
+<li>
+<p><strong>Maintain buffer stock</strong>: Selalu ada 2-3 evergreen (tidak time-sensitive) konten di backup untuk emergency use (jika ada sudden block atau technical issue).</p>
+</li>
+<li>
+<p><strong>Consistency score tracking</strong>: Track persentase dari scheduled posts yang actually published on time. Target: >85% consistency score.</p>
+</li>
+</ul>
+<hr>
+<h2 id="8-tone-of-voice-branding">8. TONE OF VOICE &#x26; BRANDING</h2>
+<h3 id="8-1-tone-of-voice-untuk-medtools-store">8.1 Tone of Voice untuk @medtools.store</h3>
+<p>@medtools.store memiliki karakter voice yang lebih <strong>product-centric dan conversion-focused</strong> dibanding @medtools.id, tapi tetap maintain brand personality yang friendly dan authentic.</p>
+<p><strong>Karakteristik Brand Voice:</strong></p>
+<ol>
+<li>
+<p><strong>Professional Yet Approachable</strong> (Bukan cold/corporate)</p>
+<ul>
+<li>✓ Use proper grammar (tapi tidak overly formal).</li>
+<li>✓ Explain product benefits dengan cara yang relatable (bukan technical jargon dump).</li>
+<li>✓ Sound like trusted advisor, bukan pushy salesman.</li>
+<li>Contoh: "Stetoskop ini bisa dengar suara yang biasanya missed. Terus, built quality-nya solid, jadi tahan penggunaan sehari-hari." (bukan: "Advanced acoustic filtration technology with medical-grade components")</li>
+</ul>
+</li>
+<li>
+<p><strong>Honest &#x26; Transparent</strong> (Build trust)</p>
+<ul>
+<li>✓ Acknowledge product strengths AND limitations.</li>
+<li>✓ Be realistic tentang benefit (jangan overpromise).</li>
+<li>✓ Jika ada tradeoff (misal: price vs durability), explain trade-off clearly.</li>
+<li>Contoh: "Harganya lebih tinggi dari kompetitor, tapi durability-nya way better. Jadi kalau lo calculate cost-per-year, ini lebih murah di jangka panjang."</li>
+</ul>
+</li>
+<li>
+<p><strong>Value-Focused</strong> (Not Cheap-Focused)</p>
+<ul>
+<li>✓ Emphasize quality, durability, long-term value (bukan just discounted price).</li>
+<li>✓ Position products sebagai investasi, bukan impulsive purchase.</li>
+<li>✓ Compare price-to-quality ratio, bukan just raw price.</li>
+<li>Contoh: "Mungkin lo bisa dapat yang lebih murah, tapi lo akan bayar berkali-kali untuk replace-nya. Ini better investment."</li>
+</ul>
+</li>
+<li>
+<p><strong>Problem-Solution Oriented</strong> (User-centric)</p>
+<ul>
+<li>✓ Start dari pain point atau challenge yang audience have.</li>
+<li>✓ Explain bagaimana product solve that problem.</li>
+<li>✓ Focus on benefit to user, bukan feature.</li>
+<li>Contoh (pain point): "Saat praktik di IGD yang rame, sering gak bisa denger hasil auskultasi..." (solution): "Nah, stetoskop ini punya noise cancellation yang beneran work. Lo bisa fokus ke pasien, bukan distracted dengan background noise."</li>
+</ul>
+</li>
+<li>
+<p><strong>Expert But Relatable</strong> (Show credibility without condescension)</p>
+<ul>
+<li>✓ Show you know product &#x26; category (expert positioning).</li>
+<li>✓ Tapi speak in way yang accessible ke audiens (tidak elitist).</li>
+<li>✓ Share personal experience atau testing (build authenticity).</li>
+<li>Contoh: "Kami pernah test ini di IGD during shift malam. Honestly, ini gamechanger untuk detect subtle murmur yang sering kecepatan di environment rame."</li>
+</ul>
+</li>
+</ol>
+<h3 id="8-2-karakteristik-konten-yang-harus-konsisten">8.2 Karakteristik Konten yang Harus Konsisten</h3>
+<p><strong>Visual Identity:</strong></p>
+<ul>
+<li><strong>Color Palette</strong>: Gunakan palet warna MEDTOOLS yang sudah ditetapkan di Brand Guideline. Consistency dalam color = recognizable brand.</li>
+<li><strong>Font &#x26; Typography</strong>: Use only fonts yg approved dalam brand guideline. Consistency dalam typography across all konten.</li>
+<li><strong>Logo Placement</strong>: Jika konten include logo, placement dan sizing should standardized (lihat brand guideline untuk exact placement).</li>
+<li><strong>Editing Style</strong>: Video editing style harus konsisten (use consistent color grading, transition style, font dalam overlay, etc.). Audiens should recognize "oh ini konten Medtools Store" dari editing style alone.</li>
+<li><strong>Product Photography Style</strong>: Lighting, background, angle style dalam product shots harus konsisten across konten untuk build visual cohesion.</li>
+</ul>
+<p><strong>Messaging &#x26; Values:</strong></p>
+<ul>
+<li><strong>Credibility Always</strong>: Setiap claim harus backed by evidence. Cite source jika technical. Show genuine testing/experience.</li>
+<li><strong>Quality-First Positioning</strong>: Never compete on price alone. Position Medtools Store sebagai quality-focused seller.</li>
+<li><strong>User-Centric Mindset</strong>: Konten should always centered pada user benefit, bukan product feature.</li>
+<li><strong>Transparency &#x26; Honesty</strong>: Acknowledge both strength dan limitation produk. This build long-term trust lebih dari fake perfection.</li>
+<li><strong>Community &#x26; Inclusion</strong>: Respect keberagaman audiens (dari mahasiswa maba sampai dokter spesialis). Content should inclusive dan relevant untuk semua segments.</li>
+</ul>
+<h3 id="8-3-voice-guidelines-untuk-specific-situations">8.3 Voice Guidelines untuk Specific Situations</h3>
+<p><strong>Saat Balas Komentar/DM Terkait Produk:</strong></p>
+<ul>
+<li>✓ <strong>Response Time</strong>: Max 24 jam (ideal: &#x3C;12 jam untuk working hours).</li>
+<li>✓ <strong>Tone</strong>: Helpful, friendly, expert-level (bukan dismissive atau robotic).</li>
+<li>✓ <strong>Emoji</strong>: Okay untuk digunakan dalam moderation untuk maintain personable touch.</li>
+<li>✓ <strong>Accuracy</strong>: Provide correct product info. Jika tidak yakin, check dengan product team sebelum jawab.</li>
+<li>✓ Contoh good response: "Good question! Stetoskop ini cocok untuk indoor dan outdoor use. Waterproof rating-nya IPX5, so it can handle some splash. Untuk submerge, not recommended. Anything else?"</li>
+</ul>
+<p><strong>Saat Ada Negative Feedback atau Product Complaint:</strong></p>
+<ul>
+<li>✓ <strong>Acknowledge &#x26; Empathize</strong>: "Thanks for feedback, we appreciate it. Sorry to hear about the issue."</li>
+<li>✓ <strong>Don't Defend if Invalid</strong>: Jika customer ada valid complaint, acknowledge dan offer solution. Don't argue.</li>
+<li>✓ <strong>Offer Resolution</strong>: Propose next steps (refund, replacement, troubleshooting, etc.).</li>
+<li>✓ <strong>Take to DM</strong>: Jika issue sensitive atau complex, invite customer to DM untuk discuss in private.</li>
+<li>✓ <strong>Don't Delete Negative Comments</strong>: Deleting valid complaints looks bad. Address them publicly to show you care about customer satisfaction.</li>
+</ul>
+<p><strong>Saat Promo atau Flash Sale:</strong></p>
+<ul>
+<li>✓ <strong>Create Urgency</strong>: "Stok terbatas, hanya hari ini!" atau "Diskon 50% berakhir jam 5 sore!"</li>
+<li>✓ <strong>Clear Value</strong>: Show discount amount clearly (misal: dari Rp500K menjadi Rp250K).</li>
+<li>✓ <strong>Easy CTA</strong>: "Beli sekarang via link di bio" atau "Tap link di sini untuk order langsung."</li>
+<li>✓ <strong>Use Countdown</strong>: Stories countdown sticker atau "24 jam lagi!" untuk emphasize urgency.</li>
+<li>✓ <strong>Don't Mislead</strong>: Promo harus genuine. Jangan fake discount atau misleading pricing.</li>
+</ul>
+<p><strong>Saat Introducing New Product:</strong></p>
+<ul>
+<li>✓ <strong>Create Anticipation</strong>: Tease new product sebelum launch dengan behind-the-scenes content.</li>
+<li>✓ <strong>Explain Innovation</strong>: Highlight what's new atau improved dari product ini versus existing option.</li>
+<li>✓ <strong>Limited Launch Angle</strong>: Jika applicable, create excitement dengan "limited edition" atau "first batch" positioning.</li>
+<li>✓ <strong>CTA Clear</strong>: "Pre-order sekarang" atau "Order bulan depan via link di bio."</li>
+</ul>
+<hr>
+<h2 id="9-do-s-don-ts-creator-medtools-store">9. DO'S &#x26; DON'TS CREATOR @MEDTOOLS.STORE</h2>
+<h3 id="9-1-wajib-dilakukan-do-s-">9.1 WAJIB DILAKUKAN (Do's)</h3>
+<p>✅ <strong>Quality &#x26; Credibility Above All</strong></p>
+<ul>
+<li>Pastikan semua konten memiliki production quality tinggi (good lighting, clear audio, smooth editing).</li>
+<li>Verify semua product claim sebelum publish. Jangan klaim yang tidak bisa dibuktikan.</li>
+<li>Highlight both strengths DAN limitations dari produk (build trust dengan honesty).</li>
+</ul>
+<p>✅ <strong>Product Knowledge &#x26; Preparation</strong></p>
+<ul>
+<li>Sebelum membuat konten tentang produk, fully understand produk tersebut (test if possible, read spec, understand competitor context).</li>
+<li>Prepare detailed script atau visual concept sebelum production. Tidak improvisational jika konten about product details.</li>
+<li>Always have backup option jika original product unavailable (untuk shoot rescheduling).</li>
+</ul>
+<p>✅ <strong>Consistency &#x26; Reliability</strong></p>
+<ul>
+<li>Hit monthly content targets. Tidak ada excuse untuk miss quotas tanpa proper escalation.</li>
+<li>Post consistently on schedule. Followers mengandalkan konten dari Anda.</li>
+<li>Maintain consistent editing style, color grading, voice tone across semua konten.</li>
+</ul>
+<p>✅ <strong>Optimization for Conversion</strong></p>
+<ul>
+<li>Every video harus end dengan CLEAR call-to-action. Jangan ambiguous. "Link di bio!" bukan cukup jelas.</li>
+<li>Ensure link dalam konten tested dan working sebelum publish.</li>
+<li>Track click-through rate dan conversion dari konten. Monitor mana yang perform terbaik.</li>
+</ul>
+<p>✅ <strong>Customer Service Excellence</strong></p>
+<ul>
+<li>Respond to product questions in comments/DM dengan cepat dan helpful.</li>
+<li>Address any product issue atau complaint dengan empathy dan solution-orientation.</li>
+<li>Use comment/DM feedback untuk improve future konten atau identify product issues.</li>
+</ul>
+<p>✅ <strong>Authentic Engagement</strong></p>
+<ul>
+<li>Feature real customer testimonials dan user-generated content (dengan credit).</li>
+<li>Share genuine personal experience dengan produk jika possible.</li>
+<li>Engage dengan follower di meaningful way (bukan just generic comments).</li>
+</ul>
+<p>✅ <strong>Continuous Improvement</strong></p>
+<ul>
+<li>Review analytics setiap minggu. Understand which content perform best dan why.</li>
+<li>Stay updated dengan product inventory, pricing, promo changes.</li>
+<li>Ask for feedback dari team dan implement suggestions untuk improve konten.</li>
+</ul>
+<p>✅ <strong>Respect Data &#x26; Privacy</strong></p>
+<ul>
+<li>Jangan share customer personal information (name, phone, address) tanpa permission.</li>
+<li>Jika feature customer, get explicit permission untuk use their info/image in konten.</li>
+<li>Keep internal strategy, pricing, margin information confidential.</li>
+</ul>
+<h3 id="9-2-dilarang-dilakukan-don-ts-">9.2 DILARANG DILAKUKAN (Don'ts)</h3>
+<p>❌ <strong>Misleading atau Inaccurate Content</strong></p>
+<ul>
+<li>❌ Jangan claim product feature yang tidak ada atau over-exaggerate benefit ("guaranteed to solve all your problems").</li>
+<li>❌ Jangan hide or minimize known product limitation atau defects.</li>
+<li>❌ Jangan compare product unfairly dengan kompetitor (black-mouth atau distort competitor info).</li>
+<li>❌ Jangan use fake testimonial atau paid actors (if use, disclose bahwa itu reenactment).</li>
+</ul>
+<p>❌ <strong>Poor Quality Production</strong></p>
+<ul>
+<li>❌ Jangan publish video dengan bad audio (too loud, too soft, background noise, unintelligible speech).</li>
+<li>❌ Jangan publish blur, pixelated, atau poorly lit video. Audiens akan think product quality juga rendah.</li>
+<li>❌ Jangan use stock footage jika context doesn't match product atau use case.</li>
+<li>❌ Jangan editing dengan jarring transitions atau excessive effects yang distract dari product.</li>
+</ul>
+<p>❌ <strong>Aggressive atau Pushy Selling</strong></p>
+<ul>
+<li>❌ Jangan hard-sell dengan aggressive tone ("BUY NOW OR REGRET!"). This turn off educated audience.</li>
+<li>❌ Jangan use fake urgency ("LAST STOCK!" when you actually have plenty in warehouse).</li>
+<li>❌ Jangan spam CTA. One clear CTA per post sufficient.</li>
+<li>❌ Jangan use manipulative tactics (fake countdown, artificial scarcity, false urgency).</li>
+</ul>
+<p>❌ <strong>Brand &#x26; Product Safety Issues</strong></p>
+<ul>
+<li>❌ Jangan show product di unsafe way (misal: demonstrating medical device on actual patient without proper disclaimers).</li>
+<li>❌ Jangan associate product dengan competitor brand atau competitor logos dalam konten.</li>
+<li>❌ Jangan publish product information yang contradicts official spec sheet atau company statement.</li>
+<li>❌ Jangan mix personal opinion sebagai fact ("This is THE BEST stetoskop" is opinion, "This stetoskop has frequency modulation of X dB" is fact).</li>
+</ul>
+<p>❌ <strong>Professionalism &#x26; Responsiveness Issues</strong></p>
+<ul>
+<li>❌ Jangan miss posting deadline tanpa proper notice/escalation.</li>
+<li>❌ Jangan ignore customer questions atau complaints dalam comments/DM.</li>
+<li>❌ Jangan argue dengan customer di public comment. If conflict, take to DM atau escalate.</li>
+<li>❌ Jangan post when emotional, angry, or intoxicated. Always cool down dan proofread.</li>
+</ul>
+<p>❌ <strong>Data &#x26; Confidentiality Breach</strong></p>
+<ul>
+<li>❌ Jangan screenshot atau share internal analytics/strategy/pricing info to external parties.</li>
+<li>❌ Jangan publish customer personal info without consent.</li>
+<li>❌ Jangan share brand account password atau credentials dengan unauthorized people.</li>
+<li>❌ Jangan use company account untuk personal agenda atau self-promotion.</li>
+</ul>
+<hr>
+<h2 id="10-kpi-index-scorecard-creator-medtools-store">10. KPI INDEX / SCORECARD CREATOR @MEDTOOLS.STORE</h2>
+<h3 id="10-1-kerangka-kpi-untuk-platform-medtools-store">10.1 Kerangka KPI untuk Platform @medtools.store</h3>
+<p>KPI @medtools.store berfokus pada <strong>DESIRE dan ACTION stages dalam marketing funnel</strong>, dengan emphasis pada:</p>
+<ul>
+<li><strong>Product Showcase Output</strong> (content implementation)</li>
+<li><strong>Audience Growth</strong> (followers as asset)</li>
+<li><strong>Conversion &#x26; Sales Impact</strong> (direct business outcome)</li>
+<li><strong>Engagement Quality</strong> (indicator of content resonance)</li>
+</ul>
+<p>Setiap KPI terhubung langsung ke objective: Increase product sales melalui effective social media marketing.</p>
+<h3 id="10-2-scorecard-kpi-lengkap-untuk-medtools-store">10.2 Scorecard KPI Lengkap untuk @medtools.store</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Kategori KPI</th>
+<th>Metric</th>
+<th>Merah (Perlu Perbaikan)</th>
+<th>Kuning (Cukup)</th>
+<th>Hijau (Target)</th>
+<th>Catatan Evaluasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IMPLEMENTASI KONTEN</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medtools.store</td>
+<td>Post/Bulan</td>
+<td>&#x3C;24</td>
+<td>24-28</td>
+<td>>28</td>
+<td>Maintain consistent content flow untuk keep followers engaged</td>
+</tr>
+<tr>
+<td></td>
+<td>Reels/Bulan</td>
+<td>&#x3C;16</td>
+<td>16-20</td>
+<td>>20</td>
+<td>Reels adalah format priority (video > image untuk social media algorithm)</td>
+</tr>
+<tr>
+<td></td>
+<td>Stories/Bulan</td>
+<td>&#x3C;50</td>
+<td>50-80</td>
+<td>>80</td>
+<td>Daily stories (3-5 per hari kerja). Stories keep account visible at top of follower feed</td>
+</tr>
+<tr>
+<td></td>
+<td>Consistency Score</td>
+<td>&#x3C;70%</td>
+<td>70-85%</td>
+<td>>85%</td>
+<td>% of scheduled posts published on time (70% = 1 miss per 10 scheduled)</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Video/Bulan</td>
+<td>&#x3C;4</td>
+<td>4-6</td>
+<td>>6</td>
+<td>Detailed product content on YouTube build authority &#x26; longer-form engagement</td>
+</tr>
+<tr>
+<td><strong>PERTUMBUHAN AUDIENS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medtools.store</td>
+<td>Follower Growth/Bulan</td>
+<td>&#x3C;300</td>
+<td>300-1000</td>
+<td>>1000</td>
+<td>Followers = asset untuk future promotion &#x26; sales</td>
+</tr>
+<tr>
+<td></td>
+<td>Follower Growth YoY</td>
+<td>&#x3C;3.6K/tahun</td>
+<td>3.6K-12K/tahun</td>
+<td>>12K/tahun</td>
+<td>Long-term sustainable growth</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Subscriber Growth/Bulan</td>
+<td>&#x3C;200</td>
+<td>200-500</td>
+<td>>500</td>
+<td>YouTube subscriber adalah loyal audiens, typically higher conversion intent</td>
+</tr>
+<tr>
+<td><strong>ENGAGEMENT QUALITY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medtools.store</td>
+<td>Avg Engagement Rate (%)</td>
+<td>&#x3C;2%</td>
+<td>2-4%</td>
+<td>>4%</td>
+<td>(Likes + Comments + Shares) / Reach × 100. High ER = content resonance</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Save Rate (%)</td>
+<td>&#x3C;0.5%</td>
+<td>0.5-1.5%</td>
+<td>>1.5%</td>
+<td>Saves = high-intent engagement (save untuk future reference/purchase)</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Share Rate (%)</td>
+<td>&#x3C;0.3%</td>
+<td>0.3-0.8%</td>
+<td>>0.8%</td>
+<td>Shares = recommendation to others, highest form of social proof</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Comment Rate</td>
+<td>&#x3C;0.5%</td>
+<td>0.5-2%</td>
+<td>>2%</td>
+<td>Comments = discussion &#x26; question (indicate interest, bisa drive sales)</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Avg View Duration (%)</td>
+<td>&#x3C;30%</td>
+<td>30-50%</td>
+<td>>50%</td>
+<td>How much of video watched (higher = better content quality)</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Engagement Rate</td>
+<td>&#x3C;2%</td>
+<td>2-5%</td>
+<td>>5%</td>
+<td>(Likes + Comments) / Views</td>
+</tr>
+<tr>
+<td><strong>CONVERSION FUNNEL</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram</td>
+<td>Klik ke Product Page/Bulan</td>
+<td>&#x3C;500</td>
+<td>500-1500</td>
+<td>>1500</td>
+<td>Direct click dari IG konten ke product page (IG Bio Link atau Desty)</td>
+</tr>
+<tr>
+<td></td>
+<td>Click-Through Rate (%)</td>
+<td>&#x3C;5%</td>
+<td>5-15%</td>
+<td>>15%</td>
+<td>% dari profile visitors yang click link bio (high = compelling CTAs)</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Klik ke Product Page/Bulan</td>
+<td>&#x3C;300</td>
+<td>300-800</td>
+<td>>800</td>
+<td>Links dalam video description or overlay, track clicks to product</td>
+</tr>
+<tr>
+<td></td>
+<td>Click-Through Rate (%)</td>
+<td>&#x3C;3%</td>
+<td>3-8%</td>
+<td>>8%</td>
+<td>% dari video viewers yang click product link</td>
+</tr>
+<tr>
+<td><strong>PERFORMA PENJUALAN</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E-commerce (Tokopedia/Shopee)</td>
+<td>Store Visits from Social/Bulan</td>
+<td>&#x3C;500</td>
+<td>500-2000</td>
+<td>>2000</td>
+<td>Traffic driven from social media to marketplace store (use UTM tracking)</td>
+</tr>
+<tr>
+<td></td>
+<td>Orders from Social/Bulan</td>
+<td>&#x3C;100</td>
+<td>100-300</td>
+<td>>300</td>
+<td>Actual orders attributed to social media channel (use promo code atau UTM tracking)</td>
+</tr>
+<tr>
+<td></td>
+<td>Revenue from Social/Bulan</td>
+<td>&#x3C;5M</td>
+<td>5M-15M</td>
+<td>>15M</td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong> (need to setup proper tracking)</td>
+</tr>
+<tr>
+<td></td>
+<td>Conversion Rate (%)</td>
+<td>&#x3C;2%</td>
+<td>2-5%</td>
+<td>>5%</td>
+<td>Orders / Store Visits from social. Measure efficiency dari traffic → sales</td>
+</tr>
+<tr>
+<td><strong>CONTENT QUALITY METRICS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Video Content</td>
+<td>Avg Video Completion Rate (%)</td>
+<td>&#x3C;50%</td>
+<td>50-70%</td>
+<td>>70%</td>
+<td>% viewers who watch video to end (measure content quality)</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Watch Time per View (sec)</td>
+<td>&#x3C;20</td>
+<td>20-45</td>
+<td>>45</td>
+<td>Absolute watch time (longer = better content holding attention)</td>
+</tr>
+<tr>
+<td>Image/Carousel</td>
+<td>Avg Save Count per Post</td>
+<td>&#x3C;10</td>
+<td>10-30</td>
+<td>>30</td>
+<td>Saves indicate high-value, referenceable content (typical for product comparison carousel)</td>
+</tr>
+<tr>
+<td><strong>ROI &#x26; EFFICIENCY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Content Production</td>
+<td>Cost per Content (Rp)</td>
+<td>>500K</td>
+<td>300K-500K</td>
+<td>&#x3C;300K</td>
+<td>Production cost efficiency (lower = more output for same budget)</td>
+</tr>
+<tr>
+<td></td>
+<td>Production Time per Content (hours)</td>
+<td>>8</td>
+<td>5-8</td>
+<td>&#x3C;5</td>
+<td>Workflow efficiency improvement</td>
+</tr>
+<tr>
+<td>Overall Channel</td>
+<td>Social Media ROI (Rp)</td>
+<td>&#x3C;1:5</td>
+<td>1:5 to 1:8</td>
+<td>>1:8</td>
+<td>Revenue / Total social media production cost &#x26; advertising spend</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-3-metrik-tambahan-untuk-monitoring-supporting-metrics-">10.3 Metrik Tambahan untuk Monitoring (Supporting Metrics)</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Deskripsi</th>
+<th>Frekuensi Check</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Reach (Unique Accounts)</strong></td>
+<td>Unique accounts yang melihat konten</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Impressions</strong></td>
+<td>Total times konten ditampilkan</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Story Completion Rate</strong></td>
+<td>% followers yang nonton story hingga akhir</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Audience Growth Trajectory</strong></td>
+<td>Day-over-day follower growth rate</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Most Performing Content</strong></td>
+<td>Which content formats/products perform best</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Comment Sentiment</strong></td>
+<td>Are comments positive, neutral, negative?</td>
+<td>Bi-weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Product Mentions</strong></td>
+<td>Brand mentions di comments atau other platforms</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Link Performance</strong></td>
+<td>Which links get most clicks (A/B test different links)</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Traffic Source</strong></td>
+<td>Where does store traffic come from (organic search vs social vs ads)</td>
+<td>Weekly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Customer Acquisition Cost (CAC)</strong></td>
+<td>Cost per customer acquired via social channel</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Product-Level Performance</strong></td>
+<td>Which products get most views, clicks, orders</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Audience Demographics</strong></td>
+<td>Age, location, gender breakdown dari followers</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Competitor Benchmark</strong></td>
+<td>How do we perform vs competitor social accounts</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-4-frekuensi-review-reporting-kpi">10.4 Frekuensi Review &#x26; Reporting KPI</h3>
+<p><strong>Weekly Check-in</strong> (Setiap Senin Pagi):</p>
+<ul>
+<li>Social Media Manager spot-check key metrics (followers, engagement, clicks).</li>
+<li>Jika ada anomali atau significant drop → alert ke Dept. Head.</li>
+<li>Adjust strategy/posting timing based on performance dari minggu sebelumnya.</li>
+</ul>
+<p><strong>Monthly Deep Dive</strong> (Week 1 of Month):</p>
+<ul>
+<li>Comprehensive review terhadap semua KPI items di tabel di atas.</li>
+<li>Assign status: Merah/Kuning/Hijau untuk each metric.</li>
+<li>Root cause analysis jika ada metric yang Merah.</li>
+<li>Create Monthly Report dengan findings dan recommendations.</li>
+<li>Plan strategy adjustment untuk bulan depan.</li>
+</ul>
+<p><strong>Quarterly Business Review</strong> (Every 3 Months):</p>
+<ul>
+<li>High-level analysis dari trend across 3 months.</li>
+<li>Evaluate campaign effectiveness.</li>
+<li>Benchmark performance vs previous quarters dan vs kompetitor.</li>
+<li>Strategic planning untuk quarter depan.</li>
+</ul>
+<p><strong>Annual Review</strong> (Year-End):</p>
+<ul>
+<li>Comprehensive assessment dari full-year performance.</li>
+<li>Learning &#x26; insights dari successful campaigns.</li>
+<li>Content strategy refinement untuk next year.</li>
+</ul>
+<h3 id="10-5-scoring-individual-performance-evaluation">10.5 Scoring &#x26; Individual Performance Evaluation</h3>
+<p>Selain channel KPI, performa individual Creator juga dievaluasi:</p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Aspek</th>
+<th>Kriteria</th>
+<th>Score Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Output Reliability</strong></td>
+<td>Deliver konten sesuai jadwal, hit monthly quota, no missed deadlines</td>
+<td>25%</td>
+</tr>
+<tr>
+<td><strong>Content Quality</strong></td>
+<td>Visual/audio quality, storytelling effectiveness, product presentation quality</td>
+<td>25%</td>
+</tr>
+<tr>
+<td><strong>Creativity &#x26; Innovation</strong></td>
+<td>Fresh ideas, engaging hooks, unique product angles, follows trends while staying on-brand</td>
+<td>25%</td>
+</tr>
+<tr>
+<td><strong>Conversion Orientation</strong></td>
+<td>Konten effectively drive clicks/conversion, strong CTAs, understand funnel, optimize for action</td>
+<td>15%</td>
+</tr>
+<tr>
+<td><strong>Collaboration &#x26; Professionalism</strong></td>
+<td>Teamwork, responsiveness, communication, ownership attitude, continuous improvement mindset</td>
+<td>10%</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Scoring Range:</strong></p>
+<ul>
+<li><strong>80-100%</strong>: Excellent / Exceed Expectation</li>
+<li><strong>70-79%</strong>: Good / Meet Expectation</li>
+<li><strong>60-69%</strong>: Satisfactory / Meet Minimum Expectation</li>
+<li><strong>&#x3C;60%</strong>: Needs Improvement / Below Standard</li>
+</ul>
+<hr>
+<h2 id="11-informasi-pending-catatan-tambahan">11. INFORMASI PENDING &#x26; CATATAN TAMBAHAN</h2>
+<h3 id="11-1-informasi-yang-belum-tersedia-atau-belum-lengkap">11.1 Informasi yang Belum Tersedia atau Belum Lengkap</h3>
+<p>Berikut adalah aspek dari SOP @medtools.store yang perlu klarifikasi atau belum ditetapkan dari sumber:</p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Aspek</th>
+<th>Status</th>
+<th>Catatan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Specific Product List untuk Featured di @medtools.store</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Dokumen tidak spesifikkan produk mana saja yang akan menjadi focus konten @medtools.store. Perlu clarity dari Product/E-commerce team tentang product prioritization strategy.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Content Guidelines dari Product/E-commerce Team</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak ada detail tentang bagaimana Product/E-commerce team ingin produk di-position atau di-showcase. Perlu alignment meeting dengan team tersebut.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Pricing &#x26; Promo Strategy untuk Social Media</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak clear bagaimana harga di-display di social media, bagaimana handle promo, apakah ada exclusive social media pricing. Need to discuss dengan Pricing/Marketing team.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Relationship dengan Tokopedia/Shopee Accounts</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak clear bagaimana @medtools.store Instagram relate dengan Tokopedia/Shopee marketplace accounts. Cross-promotion strategy needed.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Investment/Budget untuk Production</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak ada info tentang budget untuk video production, photography, talent, atau paid promotion. Need clarity untuk planning.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Talent/Influencer Strategy untuk @medtools.store</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak clear apakah akan use paid talent/influencer untuk product endorsement atau rely on authentic user testimonial saja. Decision needed.</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Target Revenue/Sales dari Social Media Channel</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>No specific revenue target set untuk social media channel. Should establish: "X% dari monthly revenue should come from social media driven sales"</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Customer Service SLA untuk Comment/DM Response</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Guideline says max 24 hours, tapi tidak clear apakah ada escalation path atau dedicated customer service team untuk @medtools.store.</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Analytics Tool &#x26; UTM Tracking Setup</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Not specified bagaimana track click dari IG ke product page atau how to attribute sales to social media. Need proper UTM parameters &#x26; analytics setup.</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>Return/Refund Policy Communication di Social Media</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>No guideline tentang bagaimana address return/refund question di social media atau jika product issue terjadi. Need clear policy &#x26; communication template.</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>Seasonal Campaign Planning</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>No mention tentang how seasonal campaign (back-to-school, holiday sale, etc.) akan planned dan executed pada @medtools.store social media.</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>Integration dengan Email Marketing / WhatsApp</strong></td>
+<td><strong>INFORMASI BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Not clear bagaimana social media strategy integrate dengan email atau WhatsApp channel (jika ada). Cross-channel strategy needed.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="11-2-rekomendasi-tindak-lanjut-action-items-">11.2 Rekomendasi Tindak Lanjut (Action Items)</h3>
+<ol>
+<li>
+<p><strong>Schedule Workshop dengan Product &#x26; E-commerce Team</strong> (URGENT)</p>
+<ul>
+<li>Tujuan: Align tentang product strategy, content guidelines, pricing approach, promo calendar.</li>
+<li>Output: Clear product prioritization list, content calendar template, pricing/promo guidelines.</li>
+</ul>
+</li>
+<li>
+<p><strong>Setup Analytics &#x26; Tracking Infrastructure</strong> (HIGH PRIORITY)</p>
+<ul>
+<li>Implement UTM parameters untuk all social media links.</li>
+<li>Setup Google Analytics goal tracking untuk product page visits &#x26; purchases.</li>
+<li>Create dashboard untuk monitor revenue attribution to social media.</li>
+<li>Output: Real-time conversion tracking dari IG → product sale.</li>
+</ul>
+</li>
+<li>
+<p><strong>Develop Influencer/Talent Strategy</strong> (MEDIUM PRIORITY)</p>
+<ul>
+<li>Decision: Will use paid talent vs authentic user testimonial?</li>
+<li>If paid talent: Define criteria, budget, contract terms, disclosure requirements.</li>
+<li>Output: Clear policy &#x26; execution guideline.</li>
+</ul>
+</li>
+<li>
+<p><strong>Establish Customer Service Framework</strong> (MEDIUM PRIORITY)</p>
+<ul>
+<li>Define response time SLA (currently "max 24 hours", but be more specific: e.g., "respond during business hours within 4 hours, after-hours within 12 hours").</li>
+<li>Create FAQ &#x26; response templates untuk common questions.</li>
+<li>Clarify escalation path untuk product issues atau complaints.</li>
+<li>Output: Customer service playbook for social media channel.</li>
+</ul>
+</li>
+<li>
+<p><strong>Set Revenue Targets</strong> (HIGH PRIORITY)</p>
+<ul>
+<li>Define: What % of Medtools Store monthly revenue should come from social media driven sales?</li>
+<li>Set specific monthly revenue target (e.g., "Rp 100M per month from social media by Q4 2026").</li>
+<li>Tie this to individual Creator KPIs (misal: Creator X responsible untuk 30% of target).</li>
+<li>Output: Clear revenue accountability &#x26; incentive structure.</li>
+</ul>
+</li>
+<li>
+<p><strong>Create Monthly Content Planning Calendar</strong> (IMMEDIATE)</p>
+<ul>
+<li>Based on product prioritization list, create template untuk monthly calendar.</li>
+<li>Coordinate dengan E-commerce team untuk promo/sale dates to align social content.</li>
+<li>Output: Standardized content calendar template, monthly planning process.</li>
+</ul>
+</li>
+<li>
+<p><strong>Develop Crisis Management &#x26; Complaint Protocol</strong> (MEDIUM PRIORITY)</p>
+<ul>
+<li>What to do jika ada product quality complaint di social media?</li>
+<li>How to handle negative review atau bad feedback?</li>
+<li>Who is responsible untuk escalation dan resolution?</li>
+<li>Output: Crisis playbook &#x26; decision tree.</li>
+</ul>
+</li>
+<li>
+<p><strong>Brand Asset &#x26; Product Photography Library</strong> (HIGH PRIORITY)</p>
+<ul>
+<li>Create or curate high-quality product photos untuk use di social media.</li>
+<li>Ensure consistency dalam photography style, lighting, background.</li>
+<li>Create product photo guidelines para Creator.</li>
+<li>Output: Bank of product assets ready untuk immediate use dalam content creation.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="12-penutup">12. PENUTUP</h2>
+<p>Dokumen SOP Panduan Creator untuk Platform @medtools.store ini dirancang sebagai <strong>komprehensif yet actionable guide</strong> untuk production dan management konten product-focused di Instagram dan YouTube.</p>
+<p>Platform @medtools.store memiliki purpose yang lebih specific dibanding @medtools.id: <strong>Drive product sales melalui effective social media marketing</strong>. Setiap konten harus strategic, high-quality, dan ultimately contribute ke conversion &#x26; revenue objective.</p>
+<p><strong>Kesuksesan @medtools.store Social Media Channel tergantung pada:</strong></p>
+<ol>
+<li>
+<p><strong>Konsistensi &#x26; Reliability</strong>: Hit targets, deliver quality konten on schedule, maintain brand standards.</p>
+</li>
+<li>
+<p><strong>Strategic Thinking</strong>: Understand yang setiap konten ada purpose dalam funnel AIDA. Not just publish untuk publish sake.</p>
+</li>
+<li>
+<p><strong>Conversion Focus</strong>: Measure success bukan hanya dari vanity metrics (followers), tapi dari actual sales attributed ke social media.</p>
+</li>
+<li>
+<p><strong>Quality Over Quantity</strong>: Better to publish 2 excellent product videos per week than 5 mediocre carousel posts.</p>
+</li>
+<li>
+<p><strong>Continuous Improvement</strong>: Review analytics weekly, test new format/angle, iterate based on data.</p>
+</li>
+<li>
+<p><strong>Customer Obsession</strong>: Focus pada solving customer problems, answering their questions, building trust through authentic engagement.</p>
+</li>
+</ol>
+<p><strong>Key Success Factors untuk Creator @medtools.store:</strong></p>
+<p>✅ <strong>Product Knowledge</strong>: Be expert tentang produk yang di-showcase<br>
+✅ <strong>Production Quality</strong>: Maintain high production standard (lighting, audio, editing)<br>
+✅ <strong>Authentic Voice</strong>: Sound genuine, bukan pushy salesman<br>
+✅ <strong>Data-Driven</strong>: Make decision based on analytics, not guessing<br>
+✅ <strong>Collaboration</strong>: Work tightly dengan Product/E-commerce/Marketing teams<br>
+✅ <strong>Adaptability</strong>: Agile dalam adjusting strategy based pada performance &#x26; market feedback</p>
+<p>Mari bersama-sama membangun @medtools.store sebagai <strong>leading product-focused social media channel</strong> untuk mahasiswa kedokteran dan profesional medis Indonesia.</p>
+<hr>
+<p><strong>Dokumen ini berlaku efektif sejak: Januari 2026</strong><br>
+<strong>Last Updated: 13 Januari 2026</strong><br>
+<strong>Next Review: Maret 2026</strong></p>
+<p><strong>Dibuat oleh:</strong> Tim Creator MEDTOOLS.ID<br>
+<strong>Disetujui oleh:</strong> Gilang Ramadhan, Head of Creator Team</p>
+<hr>
+<h3 id="lampiran-a-content-brief-template-untuk-medtools-store">LAMPIRAN A: Content Brief Template untuk @medtools.store</h3>
+<pre><code>KONTEN BRIEF – @MEDTOOLS.STORE
+
+Produk: [Nama Produk &#x26; Kode SKU]
+Format: [Reels / YouTube / Carousel / Feed Post / Stories / Live]
+Tema Konten: [Demo / Review / Unboxing / Tips / Comparison / Testimonial / Educational / Behind-Scenes]
+Funnel Stage Target: [DESIRE / ACTION / (INTEREST)]
+Tanggal Publikasi Target: [YYYY-MM-DD]
+Creator: [NAMA]
+Editor: [NAMA]
+
+---
+
+OBJECTIVE:
+[e.g., "Showcase product X features dan drive 100+ clicks to product page within 48 hours of posting"]
+
+CONTENT ANGLE:
+[e.g., "Unboxing + first impressions + how it solves the 'X problem' for medical students"]
+
+TARGET AUDIENCE SUB-SEGMENT:
+[e.g., "Medical students tahun 3-4 yang sudah doing rotations dan need quality tools"]
+
+KEY MESSAGE:
+[Core benefit atau unique selling point, e.g., "Stetoskop ini bisa dengar subtle murmur bahkan di noisy environment, something yang missing di kompetitor"]
+
+SCRIPT OUTLINE (untuk video):
+[0:00-0:03 Hook: "...]
+[0:03-0:20 Main content: ...]
+[0:20-0:30 Benefit highlight: ...]
+[0:30-0:35 CTA: "...]
+
+VISUAL DIRECTION:
+[e.g., "Clean product shots dengan white/neutral background, lifestyle shot showing use in medical setting, close-ups untuk highlight build quality, smooth cuts with subtle transitions"]
+
+PRODUCTION REQUIREMENTS:
+- Location: [Indoor studio / In-situ / Mix]
+- Talent Needed: [Yes/No, jika yes describe]
+- Props: [List produk atau other props needed]
+- Equipment: [Camera type, lighting setup needed]
+- Estimated Production Time: [X hours]
+
+CALL-TO-ACTION:
+[Exact CTA text, e.g., "Link di bio untuk lihat detail lengkap atau order sekarang!"]
+
+HASHTAG SUGGESTIONS (draft 15-30):
+[#MedtoolsStore #StetoskopDigital #...]
+
+APPROVAL STATUS:
+[☐ PENDING REVIEW] [☐ APPROVED WITH REVISION] [☐ APPROVED]
+
+Feedback/Notes:
+_________________________________________
+</code></pre>
+<h3 id="lampiran-b-monthly-content-performance-template">LAMPIRAN B: Monthly Content Performance Template</h3>
+<pre><code>MONTHLY CONTENT PERFORMANCE REPORT – @MEDTOOLS.STORE
+[BULAN/TAHUN]
+
+OVERVIEW:
+Total Posts: ____ Target: 24-28 ✓/✗
+Total Followers Gained: ____ Target: >1000 ✓/✗
+Avg Engagement Rate: ____% Target: >4% ✓/✗
+
+TOP PERFORMING CONTENT:
+1. [Content Title]: _____ impressions, ____% ER, ____ clicks
+2. [Content Title]: _____ impressions, ____% ER, ____ clicks
+3. [Content Title]: _____ impressions, ____% ER, ____ clicks
+
+LOWEST PERFORMING CONTENT:
+1. [Content Title]: _____ impressions, ____% ER, ____ clicks
+
+INSIGHTS &#x26; LEARNINGS:
+- Format yang perform best bulan ini: [Video / Carousel / Testimonial / etc]
+- Produk yang paling di-engage: [Product A / Product B]
+- Best posting time: [Jam tertentu]
+- Common comments/questions: [Tema]
+
+RECOMMENDATIONS UNTUK NEXT MONTH:
+- More focus pada [format/product] karena high performance
+- Reduce atau improve [underperforming element]
+- Test [new idea/angle] untuk diversify content
+
+KPI STATUS:
+☐ GREEN (Target exceeded or on track)
+☐ YELLOW (Some metrics below target, needs adjustment)
+☐ RED (Significant underperformance, need urgent action)
+
+[Creator Name] ________________  [Date] _______________
+[Dept. Head Review] ________________  [Date] _______________
+</code></pre>
+<h3 id="lampiran-c-useful-resources-external-links">LAMPIRAN C: Useful Resources &#x26; External Links</h3>
+<p><strong>Internal Resources (Google Drive):</strong></p>
+<ul>
+<li>Brand Guideline MEDTOOLS: <code>[TBD - Link Needed]</code></li>
+<li>Product Specification Sheet &#x26; Catalog: <code>[TBD - Link Needed]</code></li>
+<li>High-Res Product Photos Bank: <code>[TBD - Link Needed]</code></li>
+<li>Template Canva untuk @medtools.store: <code>[TBD - Link Needed]</code></li>
+<li>Analytics Dashboard: <code>[TBD - Link Needed]</code></li>
+</ul>
+<p><strong>External Tools (Recommended):</strong></p>
+<ul>
+<li><strong>Design</strong>: Canva for Teams, Adobe Creative Suite</li>
+<li><strong>Video Editing</strong>: CapCut, Adobe Premiere Pro</li>
+<li><strong>Scheduling</strong>: Meta Business Suite, Later, Buffer, Hootsuite</li>
+<li><strong>Analytics</strong>: Instagram Insights, YouTube Analytics, Google Analytics</li>
+<li><strong>Product Management</strong>: Asana, Monday.com, Notion</li>
+</ul>
+<hr>
+<p><strong>END OF DOCUMENT</strong></p>
+5:["$","section",null,{"className":"bg-white rounded-[32px] p-8 md:p-16 shadow-xl border border-slate-100 relative overflow-hidden transition-all hover:shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 right-0 p-8 opacity-[0.03] select-none pointer-events-none","children":["$","span",null,{"className":"text-9xl font-black text-blue-900 rotate-12 block","children":"SOP"}]}],["$","div",null,{"className":"flex items-center space-x-4 mb-20 print:mb-10","children":[["$","h2",null,{"className":"text-xs uppercase tracking-[0.4em] font-black text-blue-500 whitespace-nowrap","children":"Dokumen Panduan Lengkap"}],["$","div",null,{"className":"h-[1px] flex-1 bg-blue-50"}]]}],["$","article",null,{"className":"$f","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}]]}]
+6:["$","section",null,{"className":"mt-32 print:hidden","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Lampiran: Contoh Konten Live"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","$L11",null,{"embeds":[{"type":"instagram","url":"https://www.instagram.com/medtools.store/"},{"type":"instagram","url":"https://www.instagram.com/reel/DCYt8HKx0Tu/"}]}]]}]
+7:["$","$L12",null,{}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/3e9c63e23d3b9851.js","async":true}]
+9:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-red-50 text-red-500 border-red-100","children":"High"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Reels/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">20"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">20"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 11.763558609178641 L40 9.815327778483631 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]
+b:["$","div","2",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Stories/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">80"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">80"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 11.484564957406002 L40 17.468990019186894 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+c:["$","div","3",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Consistency Score"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">85%"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">85%"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 14.211459872834066 L40 10.803935276793801 L60 5 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+d:["$","div","4",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Video/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">6"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">6"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 14.337674862883333 L40 8.902024579836329 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+e:["$","div","5",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Follower Growth/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">1000"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">1000"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 17.015063306438073 L40 12.808222391004577 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+15:null

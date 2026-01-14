@@ -1,0 +1,1904 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],""]
+3:I[55132,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+11:I[32065,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+12:I[95590,["/_next/static/chunks/f078614a43c0914a.js","/_next/static/chunks/ae47f0a9b2838196.js","/_next/static/chunks/3e9c63e23d3b9851.js"],"default"]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+0:{"buildId":"l85EMLBGOhaR8j66pI5nu","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-[#F8FAFC] text-slate-800 relative overflow-hidden","children":[["$","div",null,{"className":"absolute top-[5%] right-[-10%] w-[800px] h-[800px] bg-blue-100/20 rounded-full blur-[120px] -z-10 pointer-events-none"}],["$","div",null,{"className":"absolute bottom-[10%] left-[-15%] w-[600px] h-[600px] bg-blue-50/40 rounded-full blur-[100px] -z-10 pointer-events-none"}],["$","div",null,{"className":"max-w-5xl mx-auto px-6 pt-32 pb-24 relative z-10","children":[["$","div",null,{"className":"flex justify-between items-center mb-12 print:hidden","children":[["$","$L2",null,{"href":"/","className":"inline-flex items-center text-sm font-bold text-blue-500 hover:text-blue-600 transition-all group","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left mr-2 group-hover:-translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Kembali ke Dashboard"]}],["$","div",null,{"className":"hidden sm:flex items-center space-x-2","children":[["$","span",null,{"className":"text-[10px] font-bold text-slate-400 uppercase tracking-widest","children":"Status:"}],["$","span",null,{"className":"px-2 py-0.5 bg-emerald-100 text-emerald-600 text-[10px] font-bold uppercase rounded-md border border-emerald-200","children":"Terverifikasi"}]]}]]}],["$","header",null,{"className":"mb-20 print:mb-12","children":[["$","div",null,{"className":"flex items-center space-x-3 mb-6","children":[["$","span",null,{"className":"flex items-center px-3 py-1 bg-blue-500 text-white text-[10px] font-bold uppercase tracking-[0.2em] rounded-md shadow-sm","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-circle-check-big mr-1.5","aria-hidden":"true","children":[["$","path","yps3ct",{"d":"M21.801 10A10 10 0 1 1 17 3.335"}],["$","path","1pflzl",{"d":"m9 11 3 3L22 4"}],"$undefined"]}]," SOP Utama"]}],["$","div",null,{"className":"h-[1px] w-12 bg-blue-200"}],["$","span",null,{"className":"text-slate-400 font-bold text-xs uppercase tracking-widest","children":"@medimpact.co"}]]}],["$","h1",null,{"className":"text-4xl md:text-6xl font-black text-slate-900 mb-8 tracking-tight leading-[1.1]","children":"Platform @medimpact.co"}],["$","p",null,{"className":"text-xl md:text-2xl text-slate-500 max-w-3xl leading-relaxed font-medium","children":"Panduan konten media, komunitas, dan corporate communication Medimpact."}]]}],["$","$L3",null,{"items":[{"level":1,"text":"SOP PANDUAN CREATOR – PLATFORM @MEDIMPACT.CO","id":"sop-panduan-creator-platform-medimpact-co"},{"level":2,"text":"RINGKASAN EKSEKUTIF","id":"ringkasan-eksekutif"},{"level":2,"text":"1. PENDAHULUAN","id":"1-pendahuluan"},{"level":3,"text":"1.1 Fungsi Platform @medimpact.co dalam Ekosistem MEDTOOLS","id":"1-1-fungsi-platform-medimpact-co-dalam-ekosistem-medtools"},{"level":3,"text":"1.2 Peran Creator terhadap Platform @medimpact.co","id":"1-2-peran-creator-terhadap-platform-medimpact-co"},{"level":2,"text":"2. TUJUAN PLATFORM @MEDIMPACT.CO","id":"2-tujuan-platform-medimpact-co"},{"level":3,"text":"2.1 Tujuan dari Sisi Brand","id":"2-1-tujuan-dari-sisi-brand"},{"level":3,"text":"2.2 Tujuan dari Sisi Edukasi/Value","id":"2-2-tujuan-dari-sisi-edukasi-value"},{"level":3,"text":"2.3 Tujuan dari Sisi Bisnis & Konversi","id":"2-3-tujuan-dari-sisi-bisnis-konversi"},{"level":2,"text":"3. TARGET AUDIENS","id":"3-target-audiens"},{"level":3,"text":"3.1 Segmentasi Audiens Utama","id":"3-1-segmentasi-audiens-utama"},{"level":3,"text":"3.2 Level Pengetahuan Audiens","id":"3-2-level-pengetahuan-audiens"},{"level":3,"text":"3.3 Karakter Audiens yang Relevan dengan Konten","id":"3-3-karakter-audiens-yang-relevan-dengan-konten"},{"level":2,"text":"4. JENIS & FORMAT KONTEN","id":"4-jenis-format-konten"},{"level":3,"text":"4.1 Tema Konten yang Diperbolehkan & Dianjurkan","id":"4-1-tema-konten-yang-diperbolehkan-dianjurkan"},{"level":3,"text":"4.2 Format Konten yang Diutamakan untuk @medimpact.co","id":"4-2-format-konten-yang-diutamakan-untuk-medimpact-co"},{"level":3,"text":"4.3 Batasan Konten (Do's & Don'ts Khusus @medimpact.co)","id":"4-3-batasan-konten-do-s-don-ts-khusus-medimpact-co-"},{"level":2,"text":"5. SOP PEMBUATAN KONTEN","id":"5-sop-pembuatan-konten"},{"level":3,"text":"5.1 Tahap Ideasi Konten","id":"5-1-tahap-ideasi-konten"},{"level":3,"text":"5.2 Tahap Riset & Validasi Materi","id":"5-2-tahap-riset-validasi-materi"},{"level":3,"text":"5.3 Tahap Script & Concept Development","id":"5-3-tahap-script-concept-development"},{"level":3,"text":"5.4 Tahap Produksi Visual & Video","id":"5-4-tahap-produksi-visual-video"},{"level":3,"text":"5.5 Tahap Quality Control Sebelum Upload","id":"5-5-tahap-quality-control-sebelum-upload"},{"level":2,"text":"6. SOP UPLOAD & PUBLISHING","id":"6-sop-upload-publishing"},{"level":3,"text":"6.1 Alur Upload Konten","id":"6-1-alur-upload-konten"},{"level":3,"text":"6.2 Proses Approval Sebelum Publish","id":"6-2-proses-approval-sebelum-publish"},{"level":3,"text":"6.3 Aturan Caption","id":"6-3-aturan-caption"},{"level":3,"text":"6.4 Aturan Hashtag","id":"6-4-aturan-hashtag"},{"level":3,"text":"6.5 Ketentuan Teknis Platform","id":"6-5-ketentuan-teknis-platform"},{"level":2,"text":"7. KUOTA & FREKUENSI KONTEN","id":"7-kuota-frekuensi-konten"},{"level":3,"text":"7.1 Target Output Konten per Platform","id":"7-1-target-output-konten-per-platform"},{"level":3,"text":"7.2 Optimal Posting Schedule","id":"7-2-optimal-posting-schedule"},{"level":3,"text":"7.3 Consistency & Reliability","id":"7-3-consistency-reliability"},{"level":2,"text":"8. TONE OF VOICE & BRANDING","id":"8-tone-of-voice-branding"},{"level":3,"text":"8.1 Tone of Voice untuk @medimpact.co","id":"8-1-tone-of-voice-untuk-medimpact-co"},{"level":3,"text":"8.2 Karakteristik Konten yang Harus Konsisten","id":"8-2-karakteristik-konten-yang-harus-konsisten"},{"level":3,"text":"8.3 Voice Guidelines untuk Specific Situations","id":"8-3-voice-guidelines-untuk-specific-situations"},{"level":2,"text":"9. DO'S & DON'TS CREATOR @MEDIMPACT.CO","id":"9-do-s-don-ts-creator-medimpact-co"},{"level":3,"text":"9.1 WAJIB DILAKUKAN (Do's)","id":"9-1-wajib-dilakukan-do-s-"},{"level":3,"text":"9.2 DILARANG DILAKUKAN (Don'ts)","id":"9-2-dilarang-dilakukan-don-ts-"},{"level":2,"text":"10. KPI INDEX / SCORECARD CREATOR @MEDIMPACT.CO","id":"10-kpi-index-scorecard-creator-medimpact-co"},{"level":3,"text":"10.1 Kerangka KPI untuk Platform @medimpact.co","id":"10-1-kerangka-kpi-untuk-platform-medimpact-co"},{"level":3,"text":"10.2 Scorecard KPI Lengkap","id":"10-2-scorecard-kpi-lengkap"},{"level":3,"text":"10.3 Metrik Tambahan untuk Monitoring","id":"10-3-metrik-tambahan-untuk-monitoring"},{"level":3,"text":"10.4 Frekuensi Review & Reporting","id":"10-4-frekuensi-review-reporting"},{"level":2,"text":"11. INFORMASI PENDING & CATATAN TAMBAHAN","id":"11-informasi-pending-catatan-tambahan"},{"level":3,"text":"11.1 Informasi yang Belum Tersedia atau Belum Jelas","id":"11-1-informasi-yang-belum-tersedia-atau-belum-jelas"},{"level":3,"text":"11.2 Rekomendasi Tindak Lanjut (Priority Action Items)","id":"11-2-rekomendasi-tindak-lanjut-priority-action-items-"},{"level":2,"text":"12. PENUTUP","id":"12-penutup"},{"level":3,"text":"LAMPIRAN A: Member Story Interview Brief Template","id":"lampiran-a-member-story-interview-brief-template"},{"level":3,"text":"LAMPIRAN B: Community Health Report Template","id":"lampiran-b-community-health-report-template"},{"level":3,"text":"LAMPIRAN C: Community Content Quality Checklist","id":"lampiran-c-community-content-quality-checklist"}]}],"$L4","$L5","$L6"]}],"$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+4:["$","section",null,{"className":"mb-24 print:hidden","id":"quick-kpi","children":[["$","div",null,{"className":"flex items-center justify-between mb-8","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Target Performa Utama"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","div",null,{"className":"my-16 border-t border-slate-200 pt-12","children":[["$","h3",null,{"className":"text-2xl font-bold text-slate-800 mb-8 flex items-center justify-between","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up mr-3 text-blue-500","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]," Performance Targets"]}],["$","span",null,{"className":"text-xs uppercase tracking-widest text-slate-400 font-medium","children":"Monthly Goals"}]]}],["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","div","0",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-red-50 text-red-500 border-red-100","children":"High"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Post/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">24"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">24"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 15.655776561408405 L40 17.634533250533114 L60 15 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}],["$","div","1",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],"$La"]}],"$Lb","$Lc","$Ld","$Le"]}]]}]]}]
+f:T586,prose prose-slate prose-lg max-w-none  prose-headings:text-slate-900 prose-headings:font-black prose-headings:tracking-tight prose-h1:text-4xl md:text-5xl prose-h1:mb-12 prose-h2:text-2xl md:text-3xl prose-h2:mt-20 prose-h2:mb-8 prose-h2:pb-6 prose-h2:border-b-2 prose-h2:border-blue-50/50 prose-h3:text-xl prose-h3:text-blue-600 prose-h3:mt-12 prose-h3:font-bold  prose-p:text-slate-700 prose-p:leading-[1.8] prose-p:mb-6 prose-ul:my-6 prose-ul:list-disc prose-ul:pl-6 prose-ol:my-6 prose-ol:list-decimal prose-ol:pl-6 prose-li:text-slate-700 prose-li:mb-2 prose-li:leading-relaxed  prose-table:w-full prose-table:border-collapse prose-table:bg-white prose-table:rounded-2xl prose-table:shadow-sm prose-table:border prose-table:border-slate-200 prose-thead:bg-slate-50 prose-thead:text-slate-900 prose-th:p-4 prose-th:text-xs prose-th:uppercase prose-th:tracking-widest prose-th:font-black prose-th:border-b prose-th:border-slate-200 prose-td:p-4 prose-td:text-slate-700 prose-td:border-b prose-td:border-slate-100 prose-td:text-sm md:text-base prose-td:leading-relaxed  prose-strong:text-slate-900 prose-strong:font-bold prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/30 prose-blockquote:py-2 prose-blockquote:px-6 prose-blockquote:rounded-r-xl prose-blockquote:italic  prose-img:rounded-2xl prose-img:shadow-xl prose-img:my-12  prose-hr:my-16 prose-hr:border-slate-100 10:T11cde,<h1 id="sop-panduan-creator-platform-medimpact-co">SOP PANDUAN CREATOR – PLATFORM @MEDIMPACT.CO</h1>
+<p><strong>Dokumen Internal Resmi – Konfidensial</strong><br>
+Departemen Creator Team, MEDTOOLS.ID<br>
+Versi: 1.0<br>
+Tanggal Berlaku: Januari 2026</p>
+<hr>
+<h2 id="ringkasan-eksekutif">RINGKASAN EKSEKUTIF</h2>
+<p>Dokumen ini adalah <strong>Standar Operasional Prosedur (SOP) resmi</strong> yang dirancang khusus untuk <strong>Creator yang memproduksi konten di platform @medimpact.co</strong>. SOP ini mengatur seluruh aspek: dari perencanaan konten, pembuatan, publikasi, hingga pengukuran performa sesuai dengan visi dan misi ekosistem MEDTOOLS.ID.</p>
+<p>Platform @medimpact.co adalah <strong>pilar keempat dalam ekosistem MEDTOOLS</strong> dengan tagline <strong>"Connect, Collaborate, Grow!"</strong>. Berdasarkan informasi dari dokumen sumber, @medimpact.co difokuskan pada konten yang mendorong <strong>AWARENESS</strong> dalam marketing funnel AIDA, dengan emphasis pada <strong>networking, kolaborasi, dan community building</strong> di antara profesional medis (dokter, mahasiswa, healthcare worker) di Indonesia. Platform ini berfungsi sebagai <strong>connector dan enabler</strong> untuk community medis Indonesia untuk saling terhubung, berbagi knowledge, berkolaborasi, dan tumbuh bersama.</p>
+<hr>
+<h2 id="1-pendahuluan">1. PENDAHULUAN</h2>
+<h3 id="1-1-fungsi-platform-medimpact-co-dalam-ekosistem-medtools">1.1 Fungsi Platform @medimpact.co dalam Ekosistem MEDTOOLS</h3>
+<p><strong>@medimpact.co</strong> adalah <strong>pilar keempat dari ekosistem MEDTOOLS</strong> yang berfungsi sebagai:</p>
+<ul>
+<li>
+<p><strong>Community &#x26; Networking Platform (Platform Komunitas &#x26; Networking)</strong>: Platform utama untuk memfasilitasi koneksi, kolaborasi, dan networking di antara profesional medis di Indonesia. @medimpact.co adalah space untuk medical professional meet, connect, collaborate, dan grow together.</p>
+</li>
+<li>
+<p><strong>Awareness &#x26; Reach Driver (Pendorong Awareness &#x26; Reach)</strong>: Sebagai pilar AWARENESS dalam marketing funnel, @medimpact.co berfokus pada menjangkau audiens medis yang luas melalui konten yang compelling, shareable, dan relevant dengan medical community di Indonesia.</p>
+</li>
+<li>
+<p><strong>Collaboration &#x26; Knowledge Sharing Hub (Hub Kolaborasi &#x26; Knowledge Sharing)</strong>: Platform untuk facilitate collaboration antara medical professional, encourage knowledge sharing, dan create opportunities untuk mutual growth dan support dalam medical community.</p>
+</li>
+<li>
+<p><strong>Brand Positioning &#x26; Differentiation (Positioning Brand Unik)</strong>: Memposisikan MEDTOOLS bukan hanya sebagai educational atau commercial platform, tapi sebagai <strong>advocate for medical community</strong> yang truly understand their need dan provide platform untuk connect &#x26; grow.</p>
+</li>
+<li>
+<p><strong>Gateway untuk Deeper Engagement</strong>: Followers @medimpact.co yang tertarik dengan community-building message akan naturally interested dengan deeper offering di ecosystem lain (Academy untuk learning, Store untuk tools, etc).</p>
+</li>
+</ul>
+<h3 id="1-2-peran-creator-terhadap-platform-medimpact-co">1.2 Peran Creator terhadap Platform @medimpact.co</h3>
+<p>Sebagai Creator yang bertugas di @medimpact.co, tanggung jawab Anda meliputi:</p>
+<ul>
+<li>
+<p><strong>Produksi konten networking &#x26; collaboration</strong> yang mendorong medical professional untuk connect, share, dan grow bersama dalam community MEDTOOLS.</p>
+</li>
+<li>
+<p><strong>Facilitate community stories &#x26; sharing</strong> – highlighting real story dari medical student/doctor tentang collaboration, mentorship, mutual support, professional growth.</p>
+</li>
+<li>
+<p><strong>Create compelling narrative tentang importance dari networking, collaboration, dan community</strong> dalam medical profession journey.</p>
+</li>
+<li>
+<p><strong>Ideasi konten yang showcase value dari community, connection, dan professional development</strong> dalam medical field.</p>
+</li>
+<li>
+<p><strong>Eksekusi end-to-end</strong> dari perencanaan konten, riset, produksi, hingga publikasi dengan focus pada community value &#x26; engagement.</p>
+</li>
+<li>
+<p><strong>Community engagement &#x26; relationship building</strong> – respond to community, facilitate discussion, celebrate member success, build belonging.</p>
+</li>
+<li>
+<p><strong>Support cross-platform ecosystem synergy</strong> dengan subtle mention &#x26; reference ke other MEDTOOLS brand ketika relevant.</p>
+</li>
+</ul>
+<hr>
+<h2 id="2-tujuan-platform-medimpact-co">2. TUJUAN PLATFORM @MEDIMPACT.CO</h2>
+<h3 id="2-1-tujuan-dari-sisi-brand">2.1 Tujuan dari Sisi Brand</h3>
+<ul>
+<li>
+<p><strong>Position MEDTOOLS sebagai advocate dan enabler untuk medical community</strong> – bukan hanya sebagai educational atau commercial entity, tapi as genuine supporter dari medical professional growth, collaboration, dan community.</p>
+</li>
+<li>
+<p><strong>Build brand affinity melalui community value</strong> – followers feel bahwa MEDTOOLS truly understand medical profession, value community, dan invest dalam community building (bukan hanya profit-driven).</p>
+</li>
+<li>
+<p><strong>Establish @medimpact.co sebagai go-to platform untuk medical professional networking &#x26; collaboration</strong> di Indonesia – place where medical student/doctor go to connect, share, grow, find opportunities.</p>
+</li>
+<li>
+<p><strong>Create ecosystem ecosystem moat</strong> – strong community loyalty &#x26; network effect make it harder untuk kompetitor. Network effects scale exponentially.</p>
+</li>
+<li>
+<p><strong>Support business goal dari MEDTOOLS</strong> melalui community-driven growth &#x26; organic reach dari word-of-mouth dalam medical community.</p>
+</li>
+</ul>
+<h3 id="2-2-tujuan-dari-sisi-edukasi-value">2.2 Tujuan dari Sisi Edukasi/Value</h3>
+<ul>
+<li>
+<p><strong>Provide value melalui community &#x26; networking</strong> – facilitate connection, knowledge sharing, mentorship, mutual support, opportunity discovery dalam medical community.</p>
+</li>
+<li>
+<p><strong>Celebrate professional growth &#x26; development</strong> – showcase story dari medical professional yang grow melalui collaboration, mentorship, community support.</p>
+</li>
+<li>
+<p><strong>Promote culture dari mutual support &#x26; knowledge sharing</strong> – encourage medical student/doctor untuk learn dari each other, share experience, mentor junior, support peer.</p>
+</li>
+<li>
+<p><strong>Normalize importance dari professional network &#x26; collaboration</strong> dalam medical career – network is not transactional, tapi essential untuk growth, learning, support.</p>
+</li>
+<li>
+<p><strong>Create safe space untuk medical community</strong> – place where medical professional dapat authentic share, ask for advice, find support, celebrate achievement, learn from peer.</p>
+</li>
+</ul>
+<h3 id="2-3-tujuan-dari-sisi-bisnis-konversi">2.3 Tujuan dari Sisi Bisnis &#x26; Konversi</h3>
+<ul>
+<li>
+<p><strong>Build community asset &#x26; network effect</strong> – large, engaged medical professional community adalah valuable asset untuk MEDTOOLS long-term.</p>
+</li>
+<li>
+<p><strong>Drive awareness &#x26; consideration</strong> untuk brand MEDTOOLS ecosystem melalui positive brand positioning &#x26; word-of-mouth dari engaged community.</p>
+</li>
+<li>
+<p><strong>Increase follower growth</strong> dari medical professional segment – secondary metric after engagement.</p>
+</li>
+<li>
+<p><strong>Facilitate organic cross-promotion</strong> dalam ecosystem – satisfied member di @medimpact.co naturally interested explore Academy, Store, Medimpact offering.</p>
+</li>
+<li>
+<p><strong>Support recruitment &#x26; partnership opportunity</strong> – strong medical community make it easier untuk recruit talent, find partner, grow business.</p>
+</li>
+</ul>
+<hr>
+<h2 id="3-target-audiens">3. TARGET AUDIENS</h2>
+<h3 id="3-1-segmentasi-audiens-utama">3.1 Segmentasi Audiens Utama</h3>
+<p><strong>Primary Audience #1: Medical Professional (Doctor &#x26; Medical Student)</strong></p>
+<ul>
+<li><strong>Demografi</strong>: Usia 18-40 tahun, mahasiswa kedokteran/dokter di berbagai stage of career (student, fresh grad, resident, specialist, established practitioner).</li>
+<li><strong>Psychografi</strong>: Career-minded, value professional development &#x26; networking, seek mentorship/collaboration opportunity, want sense of community &#x26; belonging dalam profession.</li>
+<li><strong>Professional Interest</strong>:
+<ul>
+<li>Career development &#x26; advancement</li>
+<li>Skill development &#x26; continuous learning</li>
+<li>Networking &#x26; collaboration opportunity</li>
+<li>Mentorship (both seeking &#x26; providing)</li>
+<li>Professional challenges &#x26; support</li>
+<li>Industry insight &#x26; trend</li>
+<li>Opportunity discovery (job, research, project)</li>
+</ul>
+</li>
+<li><strong>Pain Point</strong>:
+<ul>
+<li>Isolation atau loneliness dalam medical career</li>
+<li>Limited access to mentorship atau guidance</li>
+<li>Difficulty finding collaboration opportunity</li>
+<li>Lack of professional network</li>
+<li>Career direction uncertainty</li>
+<li>Limited exposure to different specialization atau career path</li>
+</ul>
+</li>
+</ul>
+<p><strong>Secondary Audience: Healthcare Professional lainnya</strong></p>
+<ul>
+<li>Nurse, technician, health staff yang value professional development &#x26; community.</li>
+</ul>
+<p><strong>Indirect Audience: Family &#x26; Support Network</strong></p>
+<ul>
+<li>Family member dari medical professional yang interested learn tentang medical profession &#x26; support.</li>
+</ul>
+<h3 id="3-2-level-pengetahuan-audiens">3.2 Level Pengetahuan Audiens</h3>
+<ul>
+<li>
+<p><strong>Audiens adalah professional atau dalam professional training</strong> – understand medical terminology, professional context, industry challenges.</p>
+</li>
+<li>
+<p><strong>Diverse knowledge level</strong> – dari junior mahasiswa to senior specialist, from clinical to non-clinical healthcare professional.</p>
+</li>
+<li>
+<p><strong>Konten tidak perlu explain basic medical concept</strong> – assume professional medical background or in training.</p>
+</li>
+<li>
+<p><strong>Content harus be accessible ke diverse stage of career</strong> – relatable untuk both junior &#x26; senior, clinical &#x26; non-clinical.</p>
+</li>
+</ul>
+<h3 id="3-3-karakter-audiens-yang-relevan-dengan-konten">3.3 Karakter Audiens yang Relevan dengan Konten</h3>
+<ul>
+<li>
+<p><strong>Mereka value authentic story &#x26; real experience</strong> – appreciate genuine narrative tentang professional journey, struggle, growth (not corporate-speak).</p>
+</li>
+<li>
+<p><strong>Mereka appreciate mentorship &#x26; guidance</strong> – seeking wisdom dari more experienced professional, also want opportunity to mentor junior.</p>
+</li>
+<li>
+<p><strong>Mereka value community &#x26; belonging</strong> – seek connection dengan peer yang understand professional challenge, celebrate mutual success, support each other.</p>
+</li>
+<li>
+<p><strong>Mereka are knowledge sharers</strong> – willing to share knowledge, experience, insight dengan community (both formal teaching &#x26; casual advice).</p>
+</li>
+<li>
+<p><strong>Mereka are opportunity seekers</strong> – looking untuk collaboration, research project, job opportunity, learning opportunity, mentorship.</p>
+</li>
+<li>
+<p><strong>Mereka are professional &#x26; aspirational</strong> – value career growth, professional development, continuous learning.</p>
+</li>
+<li>
+<p><strong>Mereka appreciate meaningful conversation</strong> – prefer substantive discussion over surface-level content.</p>
+</li>
+</ul>
+<hr>
+<h2 id="4-jenis-format-konten">4. JENIS &#x26; FORMAT KONTEN</h2>
+<h3 id="4-1-tema-konten-yang-diperbolehkan-dianjurkan">4.1 Tema Konten yang Diperbolehkan &#x26; Dianjurkan</h3>
+<h4 id="tema-1-professional-success-story-career-journey-kisah-sukses-perjalanan-karir-"><strong>Tema 1: Professional Success Story &#x26; Career Journey (Kisah Sukses &#x26; Perjalanan Karir)</strong></h4>
+<p>Konten yang showcase real story dari medical professional tentang career journey, achievement, lesson learned, growth path.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Long-form video (YouTube), Carousel, Reels, Stories</li>
+<li><strong>Durasi</strong>: 1-5 menit (YouTube), 5-10 slide (Carousel), 15-45 detik (Reels)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"From medical student to specialist – journey &#x26; lesson learned"</li>
+<li>"How I found my niche dalam medical field"</li>
+<li>"Overcoming burnout: one doctor's story"</li>
+<li>"Building research career in resource-limited setting"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-2-mentorship-guidance-mentorship-panduan-"><strong>Tema 2: Mentorship &#x26; Guidance (Mentorship &#x26; Panduan)</strong></h4>
+<p>Konten tentang mentorship – wisdom dari senior doctor, guidance untuk junior, mentorship opportunity, how to find mentor.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Video, Carousel, Live Q&#x26;A</li>
+<li><strong>Durasi</strong>: 1-3 menit (video), 5-8 slide (carousel)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Advice for junior doctor dari senior specialist"</li>
+<li>"How to find good mentor in medical field"</li>
+<li>"Mentorship opportunity: join our program"</li>
+<li>"What I wish I knew as young doctor"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-3-collaboration-teamwork-kolaborasi-kerja-tim-"><strong>Tema 3: Collaboration &#x26; Teamwork (Kolaborasi &#x26; Kerja Tim)</strong></h4>
+<p>Konten tentang importance dari collaboration, teamwork, interdisciplinary work dalam medical practice.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Video, Carousel, Reels, Stories</li>
+<li><strong>Durasi</strong>: 15-45 detik (Reels), 1-2 menit (video), 5-8 slide (carousel)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Power of interdisciplinary team dalam medical practice"</li>
+<li>"How collaboration improve patient outcome"</li>
+<li>"Join our collaborative research project"</li>
+<li>"Teamwork make dream work: success story"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-4-knowledge-sharing-learning-community-berbagi-pengetahuan-komunitas-belajar-"><strong>Tema 4: Knowledge Sharing &#x26; Learning Community (Berbagi Pengetahuan &#x26; Komunitas Belajar)</strong></h4>
+<p>Konten yang facilitate knowledge sharing, peer learning, community discussion tentang medical topic, best practice.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Live session, Video, Carousel, Q&#x26;A Stories</li>
+<li><strong>Durasi</strong>: 30-60 menit (live), 1-3 menit (video)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Live case discussion dengan expert doctor"</li>
+<li>"Best practice sharing dari successful medical program"</li>
+<li>"Community learning: discuss challenging case"</li>
+<li>"Research insight sharing session"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-5-professional-development-skill-building-pengembangan-profesional-skill-"><strong>Tema 5: Professional Development &#x26; Skill Building (Pengembangan Profesional &#x26; Skill)</strong></h4>
+<p>Konten tentang skill development, continuous learning, professional growth strategy, training opportunity.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST, ACTION</li>
+<li><strong>Format</strong>: Video, Carousel, Reels, Live workshop</li>
+<li><strong>Durasi</strong>: 15-45 detik (teaser), 1-5 menit (full video)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Essential skill every doctor should develop"</li>
+<li>"Leadership training untuk medical professional"</li>
+<li>"Research skill development workshop"</li>
+<li>"Communication skill untuk better patient outcome"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-6-community-challenge-initiative-inisiatif-challenge-komunitas-"><strong>Tema 6: Community Challenge &#x26; Initiative (Inisiatif &#x26; Challenge Komunitas)</strong></h4>
+<p>Konten tentang community project, challenge, initiative yang encourage participation &#x26; contribution dari medical professional.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: INTEREST, DESIRE, ACTION</li>
+<li><strong>Format</strong>: Reels, Video, Stories, Call-to-action post</li>
+<li><strong>Durasi</strong>: 15-45 detik (teaser), 1-3 menit (full info)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"30-day medical challenge: commit to growth"</li>
+<li>"Research challenge: submit your study"</li>
+<li>"Community service initiative: join us"</li>
+<li>"Skill-sharing challenge: teach your skill"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-7-professional-network-opportunity-networking-peluang-profesional-"><strong>Tema 7: Professional Network &#x26; Opportunity (Networking &#x26; Peluang Profesional)</strong></h4>
+<p>Konten tentang networking opportunity, job opening, research position, collaboration opportunity, event untuk medical professional.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: INTEREST, ACTION</li>
+<li><strong>Format</strong>: Carousel, Reels, Stories, Dedicated post</li>
+<li><strong>Durasi</strong>: Single post atau series</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Open research position: join our team"</li>
+<li>"Collaboration opportunity: seeking partner"</li>
+<li>"Medical conference: register now"</li>
+<li>"Networking event untuk medical professional"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-8-celebration-recognition-perayaan-pengakuan-"><strong>Tema 8: Celebration &#x26; Recognition (Perayaan &#x26; Pengakuan)</strong></h4>
+<p>Konten yang celebrate member achievement, recognize contribution, highlight success story dalam community.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: INTEREST (community building)</li>
+<li><strong>Format</strong>: Carousel, Reels, Stories, Dedicated post</li>
+<li><strong>Durasi</strong>: Variable</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Member spotlight: highlight successful doctor"</li>
+<li>"Celebrate achievement: recognize community member contribution"</li>
+<li>"Success story dari community member"</li>
+<li>"Graduation celebration untuk medical student"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-9-community-value-impact-nilai-impact-komunitas-"><strong>Tema 9: Community Value &#x26; Impact (Nilai &#x26; Impact Komunitas)</strong></h4>
+<p>Konten tentang value dari community, impact yang dicreate oleh collaborative effort, why professional networking matter.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: AWARENESS, INTEREST</li>
+<li><strong>Format</strong>: Video, Carousel, Reels, Stories</li>
+<li><strong>Durasi</strong>: 15-60 detik (short), 1-3 menit (long)</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Why professional network crucial untuk career"</li>
+<li>"Impact dari collaborative research dalam medical community"</li>
+<li>"How community support improve doctor wellbeing"</li>
+<li>"Community power: together we're stronger"</li>
+</ul>
+</li>
+</ul>
+<h4 id="tema-10-ecosystem-integration-cross-promotion-integrasi-ecosystem-cross-promo-"><strong>Tema 10: Ecosystem Integration &#x26; Cross-Promotion (Integrasi Ecosystem &#x26; Cross-Promo)</strong></h4>
+<p>Konten yang subtle mention &#x26; reference Academy, Store, atau Medtools offering ketika relevant untuk community member.</p>
+<ul>
+<li><strong>Tujuan Funnel</strong>: ACTION</li>
+<li><strong>Format</strong>: Stories, Carousel, Dedicated post</li>
+<li><strong>Contoh Topik</strong>:
+<ul>
+<li>"Academy course untuk professional development"</li>
+<li>"Store product rekomendasi dari community member"</li>
+<li>"Join ecosystem untuk access more benefit"</li>
+</ul>
+</li>
+</ul>
+<h3 id="4-2-format-konten-yang-diutamakan-untuk-medimpact-co">4.2 Format Konten yang Diutamakan untuk @medimpact.co</h3>
+<p><strong>Format Priority Ranking:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Format</th>
+<th>Tujuan</th>
+<th>Frekuensi Target</th>
+<th>Durasi/Spec</th>
+<th>Alasan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Carousel (Story &#x26; Sharing)</strong></td>
+<td>AWARENESS, INTEREST</td>
+<td>1-2 per minggu</td>
+<td>5-10 slides</td>
+<td>Best untuk depth &#x26; storytelling, professional audience prefer substance</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Long-form Video (YouTube)</strong></td>
+<td>AWARENESS, INTEREST</td>
+<td>1-2 per bulan</td>
+<td>5-15 menit</td>
+<td>Build authority, deep narrative, professional content</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Reels (Teaser &#x26; Highlight)</strong></td>
+<td>AWARENESS</td>
+<td>1-2 per minggu</td>
+<td>15-45 detik</td>
+<td>Algorithm-favored, teaser untuk longer content</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Stories (Daily Updates)</strong></td>
+<td>INTEREST</td>
+<td>Daily (3-5 per hari)</td>
+<td>5-15 detik per story</td>
+<td>Keep community engaged, behind-the-scenes, poll/Q&#x26;A</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Live Video (Q&#x26;A/Session)</strong></td>
+<td>INTEREST, DESIRE</td>
+<td>1-2 per bulan</td>
+<td>45-90 menit</td>
+<td>Direct interaction, real-time discussion, expert guest</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Feed Post (Single/Important)</strong></td>
+<td>AWARENESS</td>
+<td>1-2 per minggu</td>
+<td>1 image + caption</td>
+<td>Important announcement, opportunity, community call</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="4-3-batasan-konten-do-s-don-ts-khusus-medimpact-co-">4.3 Batasan Konten (Do's &#x26; Don'ts Khusus @medimpact.co)</h3>
+<p><strong>❌ KONTEN YANG WAJIB DIHINDARI:</strong></p>
+<ul>
+<li>
+<p>❌ <strong>Inaccurate atau unverified medical information</strong>: Even dalam sharing context, accuracy harus maintained.</p>
+</li>
+<li>
+<p>❌ <strong>Overly promotional atau sales-focused content</strong>: @medimpact.co adalah community platform, not sales channel. Subtle mention OK, aggressive sell NO.</p>
+</li>
+<li>
+<p>❌ <strong>Exclusive atau discriminatory content</strong>: Community should feel inclusive &#x26; welcoming untuk semua level, specialty, background medis.</p>
+</li>
+<li>
+<p>❌ <strong>Corporate speak atau inauthentic narrative</strong>: Medical professional appreciate authenticity. Avoid sounding too corporate atau marketing-like.</p>
+</li>
+<li>
+<p>❌ <strong>Competitive or divisive messaging</strong>: Don't create content yang pit doctor terhadap nurse, specialist vs general practitioner, etc. Community adalah unified.</p>
+</li>
+<li>
+<p>❌ <strong>Disrespectful terhadap member atau profession</strong>: Even dalam humor, maintain respect untuk medical profession &#x26; community member.</p>
+</li>
+<li>
+<p>❌ <strong>Low quality production</strong>: Professional audience expect professional production quality.</p>
+</li>
+<li>
+<p>❌ <strong>Content yang undermine patient care atau ethics</strong>: Don't normalize unethical behavior atau patient negligence (even dalam joke).</p>
+</li>
+<li>
+<p>❌ <strong>Copied atau plagiarized story</strong>: Always credit source, get permission, respect intellectual property dari member.</p>
+</li>
+<li>
+<p>❌ <strong>Content without clear community value</strong>: Every content should have clear benefit untuk community atau member.</p>
+</li>
+</ul>
+<p><strong>✅ KONTEN YANG DIANJURKAN:</strong></p>
+<ul>
+<li>
+<p>✅ <strong>Authentic &#x26; genuine story</strong>: Real narrative dari real person tentang real experience.</p>
+</li>
+<li>
+<p>✅ <strong>Community-focused &#x26; member-centric</strong>: Content created FOR community member, not AT community.</p>
+</li>
+<li>
+<p>✅ <strong>Value-driven &#x26; helpful</strong>: Content provide value, insight, opportunity, atau support untuk member.</p>
+</li>
+<li>
+<p>✅ <strong>Inclusive &#x26; celebratory</strong>: Celebrate diversity, highlight various path &#x26; specialty, include various perspective.</p>
+</li>
+<li>
+<p>✅ <strong>Facilitate connection &#x26; collaboration</strong>: Content yang spark discussion, encourage connection, facilitate collaboration.</p>
+</li>
+<li>
+<p>✅ <strong>Professional &#x26; respectful tone</strong>: Maintain professional standard while being approachable &#x26; warm.</p>
+</li>
+<li>
+<p>✅ <strong>High production quality</strong>: Good audio, visual, editing – professional standard.</p>
+</li>
+<li>
+<p>✅ <strong>Member-spotlight &#x26; recognition</strong>: Feature member story, celebrate achievement, give platform untuk member voice.</p>
+</li>
+<li>
+<p>✅ <strong>Interactive &#x26; engaging</strong>: Encourage comment, discussion, participation dalam content.</p>
+</li>
+<li>
+<p>✅ <strong>Timely &#x26; relevant</strong>: Address current issue, opportunity, trend dalam medical community.</p>
+</li>
+</ul>
+<hr>
+<h2 id="5-sop-pembuatan-konten">5. SOP PEMBUATAN KONTEN</h2>
+<h3 id="5-1-tahap-ideasi-konten">5.1 Tahap Ideasi Konten</h3>
+<p><strong>Tujuan</strong>: Menghasilkan ide konten networking &#x26; collaboration yang valuable untuk medical professional community.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Community Insight Gathering</strong> (Ongoing)</p>
+<ul>
+<li>Regularly engage dengan community untuk understand:
+<ul>
+<li>What question they ask</li>
+<li>What struggle they face</li>
+<li>What opportunity they seek</li>
+<li>What inspiration mereka need</li>
+</ul>
+</li>
+<li>Listen di comment, DM, discussion</li>
+<li>Monitor medical industry trend &#x26; opportunity</li>
+<li>Identify member success story worth highlighting</li>
+</ul>
+</li>
+<li>
+<p><strong>Monthly Content Planning</strong> (Early bulan)</p>
+<ul>
+<li><strong>Peserta</strong>: Dept. Head + Social Media Manager + potentially community representative.</li>
+<li><strong>Agenda</strong>:
+<ul>
+<li>Review community pulse &#x26; member feedback dari bulan sebelumnya</li>
+<li>Identify trending topic atau opportunity dalam medical community</li>
+<li>Plan member spotlight atau success story untuk bulan</li>
+<li>Identify collaboration atau partnership opportunity</li>
+<li>Set content pillar untuk bulan (e.g., 40% success story, 30% knowledge sharing, 20% opportunity, 10% celebration)</li>
+</ul>
+</li>
+<li><strong>Output</strong>: Monthly content strategy &#x26; key story to feature</li>
+</ul>
+</li>
+<li>
+<p><strong>Weekly Ideation Session</strong> (Setiap minggu)</p>
+<ul>
+<li><strong>Peserta</strong>: Social Media Manager + Editor + community member (rotating)</li>
+<li><strong>Format</strong>: Brainstorming, 60-90 menit</li>
+<li><strong>Process</strong>:
+<ul>
+<li>Discuss community insight &#x26; feedback dari minggu sebelumnya</li>
+<li>Brainstorm konten idea untuk minggu ini</li>
+<li>Evaluate idea berdasarkan criteria:
+<ul>
+<li>Community value (is this valuable untuk member?)</li>
+<li>Relevance (is this timely &#x26; relevant?)</li>
+<li>Opportunity for connection (will this spark discussion &#x26; collaboration?)</li>
+<li>Feasibility (can we produce this?)</li>
+</ul>
+</li>
+<li>Finalize content idea dengan assigned creator</li>
+</ul>
+</li>
+<li><strong>Output</strong>: Weekly content list dengan assigned creator</li>
+</ul>
+</li>
+<li>
+<p><strong>Member Story Sourcing</strong></p>
+<ul>
+<li>Actively reach out to potential story subject (doctor, student, healthcare worker) dengan compelling journey</li>
+<li>Pitch story opportunity di community DM atau direct message</li>
+<li>Develop relationship dengan potential storyteller</li>
+<li>Create submission process untuk member yang want to share story</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-2-tahap-riset-validasi-materi">5.2 Tahap Riset &#x26; Validasi Materi</h3>
+<p><strong>Tujuan</strong>: Ensure konten adalah accurate, authentic, appropriate, dan valuable untuk community.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Fact &#x26; Information Validation</strong></p>
+<ul>
+<li>If konten contain medical reference atau data, verify accuracy</li>
+<li>Cross-check dengan credible source</li>
+<li>Ask expert jika unsure</li>
+</ul>
+</li>
+<li>
+<p><strong>Story Authenticity Check</strong></p>
+<ul>
+<li>For member story, verify authenticity dengan storyteller</li>
+<li>Confirm permission untuk publish &#x26; use story</li>
+<li>Ensure story reflect member's genuine experience (not exaggerated)</li>
+<li>Get consent untuk mention name, institution (or keep anonymous if prefer)</li>
+</ul>
+</li>
+<li>
+<p><strong>Community Value Assessment</strong></p>
+<ul>
+<li>Ask: "Will community member find this valuable?"</li>
+<li>"Will this spark meaningful discussion atau connection?"</li>
+<li>"Does this align dengan community value &#x26; inclusive spirit?"</li>
+</ul>
+</li>
+<li>
+<p><strong>Appropriateness &#x26; Sensitivity Review</strong></p>
+<ul>
+<li>Ensure content respectful terhadap profession &#x26; community</li>
+<li>Not divisive atau exclusive</li>
+<li>Culturally &#x26; professionally appropriate</li>
+<li>If mention specific institution/person, get permission</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-3-tahap-script-concept-development">5.3 Tahap Script &#x26; Concept Development</h3>
+<p><strong>Tujuan</strong>: Transform idea jadi concrete narrative atau visual concept yang siap di-produce.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Story Structure Development</strong> (untuk narrative-heavy content)</p>
+<ul>
+<li><strong>Story Arc</strong>:
+<pre><code>BEGINNING: Introduce character/situation, set context
+MIDDLE: Journey, challenge, key moment, learning
+END: Resolution, impact, lesson, call-to-action
+</code></pre>
+</li>
+<li><strong>Key Elements</strong>:
+<ul>
+<li>Authentic detail yang make story relatable</li>
+<li>Emotional beat yang connect dengan audience</li>
+<li>Clear message atau lesson</li>
+<li>Opportunity untuk community to engage (question, discussion prompt)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Script Writing</strong> (untuk video content)</p>
+<ul>
+<li><strong>Structure</strong>:
+<pre><code>[Intro] Hook &#x26; context (first 10 second crucial)
+[Main] Story atau idea, detail, example
+[Takeaway] Key message, insight, learning
+[CTA] How to engage, join, learn more
+</code></pre>
+</li>
+<li><strong>Tone</strong>: Professional but warm, authentic, conversational (not corporate)</li>
+</ul>
+</li>
+<li>
+<p><strong>Carousel Content Planning</strong> (untuk story/information carousel)</p>
+<ul>
+<li>Determine number of slide (usually 6-10 slide)</li>
+<li>Plan narrative flow across slide</li>
+<li>Visual concept untuk each slide</li>
+<li>Ensure compelling hook di slide 1 &#x26; strong payoff di akhir</li>
+</ul>
+</li>
+<li>
+<p><strong>Concept Approval Before Production</strong></p>
+<ul>
+<li>Submit script atau concept ke Social Media Manager atau Dept. Head</li>
+<li>Approval focus on: Story authenticity, community value, professional appropriateness, production feasibility</li>
+<li>Timeline: Approve dalam max 1-2 hari kerja</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-4-tahap-produksi-visual-video">5.4 Tahap Produksi Visual &#x26; Video</h3>
+<p><strong>Tujuan</strong>: Execute approved concept jadi professional-quality community content.</p>
+<p><strong>Alur Kerja:</strong></p>
+<ol>
+<li>
+<p><strong>Pre-Production Checklist</strong></p>
+<ul>
+<li>✓ Script/story approved</li>
+<li>✓ Subject confirmed (for interview/story) &#x26; consent obtained</li>
+<li>✓ Location/setting determined</li>
+<li>✓ Equipment tested &#x26; ready</li>
+<li>✓ Interview question prepared (if applicable)</li>
+</ul>
+</li>
+<li>
+<p><strong>Video Production Best Practice untuk Community Content</strong></p>
+<ul>
+<li><strong>Authentic Performance</strong>: Real, genuine expression > polished acting. Community value authenticity.</li>
+<li><strong>Good Audio</strong>: Clear dialogue, minimal background noise. Audio quality crucial untuk professional audience.</li>
+<li><strong>Professional Lighting</strong>: Clean, professional visual quality. Avoid dim atau unprofessional appearance.</li>
+<li><strong>Stable Footage</strong>: Use tripod atau gimbal untuk stable shot.</li>
+<li><strong>Maintain Focus</strong>: Keep story focus central. Minimize distraction atau tangent.</li>
+</ul>
+</li>
+<li>
+<p><strong>Interview Tips</strong> (for member story/expert discussion)</p>
+<ul>
+<li><strong>Preparation</strong>: Brief subject tentang topic, flow, key point</li>
+<li><strong>Comfort Level</strong>: Make subject comfortable, create safe space untuk authentic answer</li>
+<li><strong>Follow-up Question</strong>: Ask follow-up untuk depth &#x26; detail</li>
+<li><strong>Get good B-roll</strong>: Capture additional footage untuk use dalam editing</li>
+</ul>
+</li>
+</ol>
+<h3 id="5-5-tahap-quality-control-sebelum-upload">5.5 Tahap Quality Control Sebelum Upload</h3>
+<p><strong>Tujuan</strong>: Ensure konten adalah professional-quality &#x26; community-appropriate sebelum publish.</p>
+<p><strong>QC Checklist untuk Community Content:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Requirement</th>
+<th>Check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Community Value</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Story/Information Quality</td>
+<td>Content valuable, insightful, or inspiring untuk community</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Authenticity</td>
+<td>Content feel genuine &#x26; authentic (not corporate/fake)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Community Alignment</td>
+<td>Align dengan @medimpact.co mission of connect &#x26; collaborate</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Member Perspective</td>
+<td>Include member voice/perspective (not one-sided)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Production Quality</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Audio Quality</td>
+<td>Clear dialogue, good volume, minimal noise</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Visual Quality</td>
+<td>Sharp, professional lighting, good composition</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Editing</td>
+<td>Smooth transition, good pacing, professional</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Duration</td>
+<td>Optimized untuk format</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Professional Standards</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Accuracy</td>
+<td>Fact/information accurate (if applicable)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Appropriateness</td>
+<td>Professional &#x26; respectful tone</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Permissions</td>
+<td>Consent obtained dari subject/source</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>No Misinformation</td>
+<td>Content contain no inaccurate medical info</td>
+<td>☐</td>
+</tr>
+<tr>
+<td><strong>Engagement Setup</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CTA Clear</td>
+<td>Call-to-action clear (comment, discuss, join)</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Discussion Prompt</td>
+<td>Include question/prompt untuk spark discussion</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Caption Quality</td>
+<td>Engaging caption, no typo, proper grammar</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>QC Process:</strong></p>
+<ol>
+<li>
+<p><strong>Self-Review by Creator</strong></p>
+<ul>
+<li>Creator review content using checklist</li>
+<li>Ensure quality &#x26; appropriateness</li>
+</ul>
+</li>
+<li>
+<p><strong>Community Manager Review</strong></p>
+<ul>
+<li>Social Media Manager review untuk community fit &#x26; engagement potential</li>
+<li>Provide feedback jika needed</li>
+<li>Timeline: Max 1 hari kerja</li>
+</ul>
+</li>
+<li>
+<p><strong>Final Approval</strong></p>
+<ul>
+<li>Content marked "APPROVED FOR PUBLISH"</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="6-sop-upload-publishing">6. SOP UPLOAD &#x26; PUBLISHING</h2>
+<h3 id="6-1-alur-upload-konten">6.1 Alur Upload Konten</h3>
+<p><strong>Step 1: Organize File di Google Drive</strong></p>
+<pre><code>MEDIMPACT_CO/[TAHUN]/[BULAN]/04_FINAL_UNTUK_PUBLISH/
+├── STORY_VIDEO/
+│   ├── 20260115_MEDIMPACT_CareerStory_V_FINAL.mp4
+│   └── 20260115_MEDIMPACT_CareerStory_CAPTION.txt
+├── CAROUSEL/
+│   ├── 20260115_MEDIMPACT_Mentorship_SLIDE1.jpg
+│   ├── 20260115_MEDIMPACT_Mentorship_SLIDE2.jpg
+│   └── 20260115_MEDIMPACT_Mentorship_CAPTION.txt
+├── REELS/
+│   ├── 20260115_MEDIMPACT_Teaser_V_FINAL.mp4
+│   └── 20260115_MEDIMPACT_Teaser_CAPTION.txt
+├── YOUTUBE/
+│   ├── 20260115_YOUTUBE_InterviewDoctor_V_FINAL.mp4
+│   └── 20260115_YOUTUBE_InterviewDoctor_CAPTION.txt
+└── LIVE_SESSION/
+    └── 20260115_LIVE_CaseDiscussion_SPEC.txt
+</code></pre>
+<p><strong>Step 2: Prepare Metadata &#x26; Caption</strong></p>
+<ul>
+<li>Caption (final text)</li>
+<li>Hashtags (15-25 relevant)</li>
+<li>Tags (account yang di-tag)</li>
+<li>Discussion prompt (untuk encourage comment)</li>
+<li>Posting time recommendation</li>
+</ul>
+<p><strong>Step 3: Create Weekly Publishing Schedule</strong></p>
+<ul>
+<li>Include all content untuk minggu dengan date, time, format, caption</li>
+</ul>
+<h3 id="6-2-proses-approval-sebelum-publish">6.2 Proses Approval Sebelum Publish</h3>
+<p><strong>Final Check Before Publishing:</strong></p>
+<ol>
+<li>✓ Caption final &#x26; engaging</li>
+<li>✓ Hashtag relevant &#x26; appropriate</li>
+<li>✓ Links tested &#x26; working</li>
+<li>✓ Timing optimal</li>
+<li>✓ Community value clear</li>
+<li>✓ Professional quality assured</li>
+<li>✓ Permission &#x26; consent obtained (for story/interview)</li>
+</ol>
+<p><strong>Timeline</strong>: Approve 24 jam sebelum scheduled posting</p>
+<h3 id="6-3-aturan-caption">6.3 Aturan Caption</h3>
+<p><strong>Caption Structure untuk @medimpact.co:</strong></p>
+<pre><code>[COMPELLING HOOK atau QUESTION – grab attention]
+[BREAK]
+
+[MAIN NARRATIVE – context, story, key point]
+[Optional: Quote atau highlight dari content]
+[BREAK]
+
+[DISCUSSION PROMPT atau CTA – encourage engagement]
+[Optional: Tag community member atau mention ecosystem]
+[BREAK]
+
+[HASHTAGS – 18-25 relevant hashtags]
+</code></pre>
+<p><strong>Example Good Caption:</strong></p>
+<pre><code>"From struggling medical student to successful researcher – here's how mentorship changed everything for Dr. Siti.
+
+In this story, Dr. Siti share how finding right mentor di early career make all difference. From guidance dalam research, to support through difficult time, mentorship provide both practical skill &#x26; emotional support.
+
+Her achievement now inspire junior doctor dalam her network. The power of community &#x26; mentorship – this is what we believe at MEDIMPACT.
+
+What role did mentorship play dalam YOUR career? Share your story di comment 👇
+
+#MedImpact #Mentorship #MedicalCommunity #CommunityPower #ProfessionalGrowth #DokterIndonesia #MedicalStudent
+</code></pre>
+<p><strong>Caption Best Practice:</strong></p>
+<p>✓ Compelling hook atau question<br>
+✓ Brief context atau story summary<br>
+✓ Community value atau key insight<br>
+✓ Discussion prompt untuk spark engagement<br>
+✓ Conversational but professional tone<br>
+✓ Minimal emoji (1-2)<br>
+✓ Include relevant hashtag</p>
+<h3 id="6-4-aturan-hashtag">6.4 Aturan Hashtag</h3>
+<p><strong>Hashtag Strategy untuk @medimpact.co:</strong></p>
+<p><strong>Mix Hashtag Types:</strong></p>
+<ol>
+<li>
+<p><strong>Brand Hashtag</strong> (Required)</p>
+<ul>
+<li>#MedImpact (branded)</li>
+<li>#MedtoolsCommunity (ecosystem)</li>
+</ul>
+</li>
+<li>
+<p><strong>Community &#x26; Professional Hashtag</strong></p>
+<ul>
+<li>#MedicalCommunity, #ProfessionalGrowth, #Mentorship</li>
+<li>#MedicalStudent, #DokterIndonesia, #CommunityPower</li>
+<li>#Collaboration, #Knowledge Sharing</li>
+</ul>
+</li>
+<li>
+<p><strong>Niche Professional Hashtag</strong></p>
+<ul>
+<li>Related to topic (e.g., #Research, #Leadership, #Specialization)</li>
+</ul>
+</li>
+<li>
+<p><strong>Broad Reach Hashtag</strong></p>
+<ul>
+<li>#Indonesia, #Professional, #Community</li>
+<li>Reach: 1M+</li>
+</ul>
+</li>
+</ol>
+<p><strong>Hashtag Count</strong>: 20-25 well-chosen hashtags</p>
+<p><strong>Hashtag Placement</strong>: Include dalam caption atau first comment</p>
+<h3 id="6-5-ketentuan-teknis-platform">6.5 Ketentuan Teknis Platform</h3>
+<p><strong>Format &#x26; Resolusi untuk Instagram:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Konten Type</th>
+<th>Resolusi</th>
+<th>Aspect Ratio</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feed Post (Carousel)</td>
+<td>1080 x 1350px per slide</td>
+<td>4:5</td>
+<td>JPG/PNG</td>
+</tr>
+<tr>
+<td>Reels</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>MP4</td>
+</tr>
+<tr>
+<td>Stories</td>
+<td>1080 x 1920px</td>
+<td>9:16</td>
+<td>JPG/PNG/MP4</td>
+</tr>
+<tr>
+<td>Feed Post (Single)</td>
+<td>1080 x 1080px</td>
+<td>1:1</td>
+<td>JPG/PNG</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Format &#x26; Resolusi untuk YouTube:</strong></p>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Content</th>
+<th>Resolusi</th>
+<th>Aspect Ratio</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Video</td>
+<td>1920 x 1080px (Full HD)</td>
+<td>16:9</td>
+<td>MP4</td>
+</tr>
+<tr>
+<td>Thumbnail</td>
+<td>1280 x 720px</td>
+<td>16:9</td>
+<td>JPG</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Upload Best Practice:</strong></p>
+<p>✓ Test upload untuk ensure quality<br>
+✓ Verify video play correctly<br>
+✓ Include caption/subtitle (accessibility)<br>
+✓ Thumbnail compelling (for YouTube)</p>
+<hr>
+<h2 id="7-kuota-frekuensi-konten">7. KUOTA &#x26; FREKUENSI KONTEN</h2>
+<h3 id="7-1-target-output-konten-per-platform">7.1 Target Output Konten per Platform</h3>
+<p>Berdasarkan community-building focus:</p>
+<p><strong>Instagram @medimpact.co:</strong></p>
+<ul>
+<li><strong>Target Minimum</strong>: 20-24 konten/bulan (<strong>Green Target</strong>)</li>
+<li><strong>Breakdown</strong>:
+<ul>
+<li>Carousel (Story &#x26; Sharing): 1-2 per minggu (4-8 per bulan) = <strong>PRIMARY</strong></li>
+<li>Reels (Teaser &#x26; Highlight): 1-2 per minggu (4-8 per bulan)</li>
+<li>Feed Post (Opportunity &#x26; Announcement): 1-2 per minggu (4-8 per bulan)</li>
+<li>Stories: Daily (3-5 per hari, min 60+ per bulan)</li>
+</ul>
+</li>
+</ul>
+<p><strong>YouTube @medimpact.co:</strong></p>
+<ul>
+<li><strong>Target</strong>: 1-2 video per bulan</li>
+<li><strong>Format</strong>: Long-form community content, expert interview, deep discussion</li>
+<li><strong>Duration</strong>: 10-25 menit</li>
+</ul>
+<h3 id="7-2-optimal-posting-schedule">7.2 Optimal Posting Schedule</h3>
+<p><strong>Weekday (Senin-Jumat):</strong></p>
+<ul>
+<li><strong>Primary Window 1</strong>: 11:00-13:00 WIB (lunch break)</li>
+<li><strong>Primary Window 2</strong>: 19:00-21:00 WIB (evening, professional wind-down)</li>
+<li><strong>Secondary</strong>: 08:00-09:00 WIB (morning)</li>
+</ul>
+<p><strong>Weekend (Sabtu-Minggu):</strong></p>
+<ul>
+<li><strong>Primary</strong>: 10:00-12:00 WIB (morning leisure)</li>
+<li><strong>Secondary</strong>: 19:00-21:00 WIB (evening)</li>
+</ul>
+<p><strong>Stories Posting:</strong></p>
+<ul>
+<li>Spread throughout day</li>
+<li>Morning (professional update), afternoon (discussion), evening (reflection)</li>
+<li>Aim untuk 3-5 stories daily</li>
+</ul>
+<p><strong>Note</strong>: Always verify dengan Instagram Insights untuk optimal timing &#x26; adjust monthly.</p>
+<h3 id="7-3-consistency-reliability">7.3 Consistency &#x26; Reliability</h3>
+<ul>
+<li>
+<p><strong>Hit monthly quota</strong>: 20-24 konten/bulan adalah minimum untuk maintain presence &#x26; engagement.</p>
+</li>
+<li>
+<p><strong>Consistency crucial</strong>: Regular posting every week > sporadic burst. Community expect reliability.</p>
+</li>
+<li>
+<p><strong>Daily stories important</strong>: Stories are primary engagement tool untuk community interaction.</p>
+</li>
+<li>
+<p><strong>Buffer evergreen content</strong>: Maintain 3-5 evergreen content dalam draft untuk emergency.</p>
+</li>
+<li>
+<p><strong>Respond quickly to opportunity</strong>: If member story atau collaboration opportunity arise, be agile untuk capitalize.</p>
+</li>
+</ul>
+<hr>
+<h2 id="8-tone-of-voice-branding">8. TONE OF VOICE &#x26; BRANDING</h2>
+<h3 id="8-1-tone-of-voice-untuk-medimpact-co">8.1 Tone of Voice untuk @medimpact.co</h3>
+<p>@medimpact.co voice adalah <strong>professional yet warm, community-focused, empowering, dan authentic</strong>. Brand personality adalah like a <strong>thoughtful community leader</strong> who genuinely care about member wellbeing, growth, dan success.</p>
+<p><strong>Karakteristik Brand Voice:</strong></p>
+<ol>
+<li>
+<p><strong>Professional yet Approachable</strong> (Profesional namun Ramah)</p>
+<ul>
+<li>✓ Maintain professional standard &#x26; credibility</li>
+<li>✓ But communicate dalam warm, friendly manner</li>
+<li>✓ Not corporate atau stiff, but genuine &#x26; personable</li>
+<li>Contoh: "As medical professional, we understand the challenge. Here's how community can help."</li>
+</ul>
+</li>
+<li>
+<p><strong>Community-Focused &#x26; Member-Centric</strong> (Fokus Komunitas)</p>
+<ul>
+<li>✓ Everything about member benefit &#x26; value</li>
+<li>✓ Celebrate member achievement &#x26; voice member perspective</li>
+<li>✓ Create inclusive &#x26; welcoming space untuk all</li>
+<li>Contoh: "Your story matter. Share how you grow through community support."</li>
+</ul>
+</li>
+<li>
+<p><strong>Empowering &#x26; Inspiring</strong> (Memberdayakan &#x26; Menginspirasi)</p>
+<ul>
+<li>✓ Inspire member untuk connect, collaborate, grow</li>
+<li>✓ Show what possible melalui community &#x26; collaboration</li>
+<li>✓ Celebrate resilience &#x26; mutual support</li>
+<li>Contoh: "Together, we achieve more. See how our community member transform their career."</li>
+</ul>
+</li>
+<li>
+<p><strong>Authentic &#x26; Genuine</strong> (Authentic &#x26; Genuine)</p>
+<ul>
+<li>✓ Share real story, real struggle, real success</li>
+<li>✓ Acknowledge challenge &#x26; difficulty (not all rosy)</li>
+<li>✓ Celebrate authentic human moment</li>
+<li>Contoh: "Being doctor is tough. But together, we're stronger."</li>
+</ul>
+</li>
+<li>
+<p><strong>Knowledge-Focused &#x26; Growth-Oriented</strong> (Fokus Knowledge &#x26; Growth)</p>
+<ul>
+<li>✓ Share wisdom, insight, learning dari community</li>
+<li>✓ Facilitate knowledge sharing &#x26; peer learning</li>
+<li>✓ Promote continuous professional development</li>
+<li>Contoh: "What we learn dari each other make us better doctor."</li>
+</ul>
+</li>
+</ol>
+<h3 id="8-2-karakteristik-konten-yang-harus-konsisten">8.2 Karakteristik Konten yang Harus Konsisten</h3>
+<p><strong>Professional Quality:</strong></p>
+<ul>
+<li>High production value (video, audio, visual)</li>
+<li>Professional editing &#x26; presentation</li>
+<li>Grammatically correct &#x26; well-written</li>
+</ul>
+<p><strong>Community Spirit:</strong></p>
+<ul>
+<li>Inclusive &#x26; welcoming tone</li>
+<li>Celebrate diversity of specialty &#x26; background</li>
+<li>Feature various perspective &#x26; voice</li>
+</ul>
+<p><strong>Authenticity:</strong></p>
+<ul>
+<li>Real story &#x26; real voice (not corporate speak)</li>
+<li>Genuine narrative &#x26; emotional honesty</li>
+<li>Member-driven perspective</li>
+</ul>
+<p><strong>Engagement-Focused:</strong></p>
+<ul>
+<li>Every content encourage discussion atau participation</li>
+<li>Ask question, invite perspective, create conversation</li>
+<li>Respond actively di comment</li>
+</ul>
+<h3 id="8-3-voice-guidelines-untuk-specific-situations">8.3 Voice Guidelines untuk Specific Situations</h3>
+<p><strong>Saat Balas Komentar/DM:</strong></p>
+<ul>
+<li>✓ <strong>Response Time</strong>: Max 24 jam (ideal: &#x3C;12 jam)</li>
+<li>✓ <strong>Tone</strong>: Professional, warm, genuinely interested</li>
+<li>✓ <strong>Depth</strong>: Thoughtful response, not generic</li>
+<li>Contoh: "Great point! This resonate dengan many member. How did you navigate this?"</li>
+</ul>
+<p><strong>Saat Feature Member Story:</strong></p>
+<ul>
+<li>✓ Show genuine appreciation</li>
+<li>✓ Celebrate member vulnerability &#x26; sharing</li>
+<li>✓ Invite community to engage dengan story</li>
+<li>Contoh: "We're honored to share Dr. Adi's story. His journey from struggle to success inspire many."</li>
+</ul>
+<p><strong>Saat Announce Opportunity atau Challenge:</strong></p>
+<ul>
+<li>✓ Clear &#x26; enthusiastic about opportunity</li>
+<li>✓ Make benefit obvious</li>
+<li>✓ Make participation easy &#x26; inviting</li>
+<li>Contoh: "Join our mentorship program! Whether junior atau senior, there's role for you."</li>
+</ul>
+<p><strong>Saat Handle Negative Comment atau Disagreement:</strong></p>
+<ul>
+<li>✓ Respond professionally &#x26; respectfully</li>
+<li>✓ Don't get defensive</li>
+<li>✓ Invite constructive dialogue</li>
+<li>Contoh: "Thanks for perspective. We value diverse view. Let's discuss further di DM."</li>
+</ul>
+<hr>
+<h2 id="9-do-s-don-ts-creator-medimpact-co">9. DO'S &#x26; DON'TS CREATOR @MEDIMPACT.CO</h2>
+<h3 id="9-1-wajib-dilakukan-do-s-">9.1 WAJIB DILAKUKAN (Do's)</h3>
+<p>✅ <strong>Celebrate &#x26; Uplift Community Member</strong></p>
+<ul>
+<li>Feature member story, achievement, contribution</li>
+<li>Give platform untuk member voice</li>
+<li>Recognize success &#x26; effort</li>
+</ul>
+<p>✅ <strong>Facilitate Genuine Connection &#x26; Collaboration</strong></p>
+<ul>
+<li>Create content yang spark meaningful discussion</li>
+<li>Introduce member to each other</li>
+<li>Facilitate collaboration opportunity</li>
+</ul>
+<p>✅ <strong>Maintain Authenticity &#x26; Genuine Value</strong></p>
+<ul>
+<li>Share real story, not corporate marketing</li>
+<li>Focus on member benefit, not brand promotion</li>
+<li>Provide substantive, meaningful content</li>
+</ul>
+<p>✅ <strong>Listen to Community &#x26; Respond to Need</strong></p>
+<ul>
+<li>Actively listen untuk community need &#x26; feedback</li>
+<li>Create content yang address actual member question/struggle</li>
+<li>Stay responsive dalam comment &#x26; DM</li>
+</ul>
+<p>✅ <strong>Maintain Professional Quality</strong></p>
+<ul>
+<li>High production value</li>
+<li>Grammatically correct &#x26; well-written</li>
+<li>Professional standard dalam all aspect</li>
+</ul>
+<p>✅ <strong>Be Inclusive &#x26; Welcoming</strong></p>
+<ul>
+<li>Welcome all specialty, background, level of experience</li>
+<li>Feature diverse perspective &#x26; voice</li>
+<li>Create space where all feel belong</li>
+</ul>
+<p>✅ <strong>Support Ecosystem Vision</strong></p>
+<ul>
+<li>While community-focused, subtle support untuk ecosystem goal</li>
+<li>Natural mention dari Academy, Store, Medimpact benefit</li>
+<li>Help member see how ecosystem support their growth</li>
+</ul>
+<h3 id="9-2-dilarang-dilakukan-don-ts-">9.2 DILARANG DILAKUKAN (Don'ts)</h3>
+<p>❌ <strong>Aggressive Promotion atau Sales-Focused Content</strong></p>
+<ul>
+<li>❌ Don't make content primarily about selling product/service</li>
+<li>❌ Don't overpromote ecosystem brand</li>
+<li>❌ Don't use community platform as sales channel</li>
+</ul>
+<p>❌ <strong>Inaccurate atau Unverified Information</strong></p>
+<ul>
+<li>❌ Don't spread medical misinformation</li>
+<li>❌ Don't make unverified claim tentang professional opportunity</li>
+<li>❌ Don't present opinion as fact</li>
+</ul>
+<p>❌ <strong>Exclusive atau Discriminatory Content</strong></p>
+<ul>
+<li>❌ Don't create hierarchy atau division dalam community (specialist vs general, etc)</li>
+<li>❌ Don't exclude group atau voice</li>
+<li>❌ Don't discriminate based on background, specialty, level</li>
+</ul>
+<p>❌ <strong>Inauthentic atau Corporate-Sounding</strong></p>
+<ul>
+<li>❌ Don't use corporate speak atau marketing language</li>
+<li>❌ Don't present fake story atau exaggerate narrative</li>
+<li>❌ Don't sound overly promotional</li>
+</ul>
+<p>❌ <strong>Disrespectful Terhadap Profession atau Member</strong></p>
+<ul>
+<li>❌ Don't demean atau diminish medical profession</li>
+<li>❌ Don't dismiss member struggle</li>
+<li>❌ Don't mock atau belittle any specialty atau background</li>
+</ul>
+<p>❌ <strong>Low Quality Production</strong></p>
+<ul>
+<li>❌ Don't publish blurry video, bad audio, poor editing</li>
+<li>❌ Don't post typo atau grammar error</li>
+<li>❌ Professional audience expect professional quality</li>
+</ul>
+<p>❌ <strong>Plagiarism atau Copied Content</strong></p>
+<ul>
+<li>❌ Don't use member story without permission</li>
+<li>❌ Don't copy content dari other creator</li>
+<li>❌ Always credit source &#x26; get permission</li>
+</ul>
+<p>❌ <strong>Divisive atau Negative Messaging</strong></p>
+<ul>
+<li>❌ Don't create content yang divide atau pit community member against each other</li>
+<li>❌ Don't focus on negative atau complaint (focus on solution &#x26; support)</li>
+<li>❌ Don't promote unhealthy behavior atau burnout mentality</li>
+</ul>
+<p>❌ <strong>Ignore Community Feedback atau Engagement</strong></p>
+<ul>
+<li>❌ Don't dismiss comment atau member perspective</li>
+<li>❌ Don't create content dalam vacuum without considering member input</li>
+<li>❌ Don't post-and-ghost – engage actively dengan community</li>
+</ul>
+<hr>
+<h2 id="10-kpi-index-scorecard-creator-medimpact-co">10. KPI INDEX / SCORECARD CREATOR @MEDIMPACT.CO</h2>
+<h3 id="10-1-kerangka-kpi-untuk-platform-medimpact-co">10.1 Kerangka KPI untuk Platform @medimpact.co</h3>
+<p>KPI @medimpact.co adalah COMMUNITY-FOCUSED dengan emphasis pada:</p>
+<ul>
+<li><strong>Engagement Quality</strong> (Meaningful interaction &#x26; discussion dalam community)</li>
+<li><strong>Follower Growth</strong> (Secondary – build community size)</li>
+<li><strong>Content Implementation</strong> (Consistency &#x26; volume)</li>
+<li><strong>Community Health</strong> (Sentiment, participation rate, member loyalty)</li>
+</ul>
+<h3 id="10-2-scorecard-kpi-lengkap">10.2 Scorecard KPI Lengkap</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Kategori KPI</th>
+<th>Metric</th>
+<th>Merah (Perlu Perbaikan)</th>
+<th>Kuning (Cukup)</th>
+<th>Hijau (Target)</th>
+<th>Catatan Evaluasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IMPLEMENTASI KONTEN</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medimpact.co</td>
+<td>Post/Bulan</td>
+<td>&#x3C;20</td>
+<td>20-22</td>
+<td>>24</td>
+<td>Community content consistency</td>
+</tr>
+<tr>
+<td></td>
+<td>Carousel/Bulan</td>
+<td>&#x3C;4</td>
+<td>4-6</td>
+<td>>8</td>
+<td>Depth-focused format untuk community storytelling</td>
+</tr>
+<tr>
+<td></td>
+<td>Stories/Bulan</td>
+<td>&#x3C;50</td>
+<td>50-80</td>
+<td>>100</td>
+<td>Daily engagement tool</td>
+</tr>
+<tr>
+<td>YouTube @medimpact.co</td>
+<td>Video/Bulan</td>
+<td>&#x3C;1</td>
+<td>1</td>
+<td>>2</td>
+<td>Long-form deep content untuk community</td>
+</tr>
+<tr>
+<td><strong>PERTUMBUHAN AUDIENS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medimpact.co</td>
+<td>Follower Growth/Bulan</td>
+<td>&#x3C;100</td>
+<td>100-300</td>
+<td>>500</td>
+<td>Secondary metric – quality over quantity</td>
+</tr>
+<tr>
+<td></td>
+<td>Follower Growth YoY</td>
+<td>&#x3C;1.2K</td>
+<td>1.2K-3K</td>
+<td>>3K</td>
+<td>Sustainable community growth</td>
+</tr>
+<tr>
+<td><strong>ENGAGEMENT QUALITY</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medimpact.co</td>
+<td>Avg Engagement Rate (%)</td>
+<td>&#x3C;2%</td>
+<td>2-4%</td>
+<td>>5%</td>
+<td>Community interaction &#x26; discussion</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Comment Rate (%)</td>
+<td>&#x3C;1%</td>
+<td>1-2%</td>
+<td>>3%</td>
+<td>Comments = discussion (primary metric)</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Like Rate (%)</td>
+<td>&#x3C;1%</td>
+<td>1-2%</td>
+<td>>2.5%</td>
+<td>Baseline engagement</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Save Rate (%)</td>
+<td>&#x3C;0.3%</td>
+<td>0.3-0.8%</td>
+<td>>1%</td>
+<td>Save = member want to reference/share</td>
+</tr>
+<tr>
+<td></td>
+<td>Comment Quality Score</td>
+<td>&#x3C;6/10</td>
+<td>6-7.5/10</td>
+<td>>8/10</td>
+<td>Are comment substantive &#x26; meaningful?</td>
+</tr>
+<tr>
+<td>YouTube @medimpact.co</td>
+<td>Avg Watch Time per View (min)</td>
+<td>&#x3C;2</td>
+<td>2-5</td>
+<td>>8</td>
+<td>Long-form content should have high watch time</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Comments per Video</td>
+<td>&#x3C;5</td>
+<td>5-15</td>
+<td>>25</td>
+<td>Discussion dalam comment</td>
+</tr>
+<tr>
+<td><strong>COMMUNITY HEALTH</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Community Metrics</td>
+<td>Comment Sentiment (% positive)</td>
+<td>&#x3C;70%</td>
+<td>70-85%</td>
+<td>>90%</td>
+<td>Are interaction positive &#x26; supportive?</td>
+</tr>
+<tr>
+<td></td>
+<td>Member Participation Rate (%)</td>
+<td>&#x3C;20%</td>
+<td>20-40%</td>
+<td>>50%</td>
+<td>% follower yang actively engage</td>
+</tr>
+<tr>
+<td></td>
+<td>Follower Return Rate (%)</td>
+<td>&#x3C;30%</td>
+<td>30-50%</td>
+<td>>70%</td>
+<td>Do follower come back regularly?</td>
+</tr>
+<tr>
+<td></td>
+<td>Community Belonging Score</td>
+<td>&#x3C;6/10</td>
+<td>6-7.5/10</td>
+<td>>8.5/10</td>
+<td>Do member feel part of community?</td>
+</tr>
+<tr>
+<td></td>
+<td>Member-Spotlight Feature/Bulan</td>
+<td>&#x3C;2</td>
+<td>2-3</td>
+<td>>4</td>
+<td>Celebrate member &#x26; give them platform</td>
+</tr>
+<tr>
+<td><strong>REACH &#x26; AWARENESS</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Instagram @medimpact.co</td>
+<td>Avg Reach per Post</td>
+<td>&#x3C;20K</td>
+<td>20K-50K</td>
+<td>>75K</td>
+<td>Community-driven reach</td>
+</tr>
+<tr>
+<td></td>
+<td>Avg Impression per Post</td>
+<td>&#x3C;30K</td>
+<td>30K-75K</td>
+<td>>100K</td>
+<td>Total visibility</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-3-metrik-tambahan-untuk-monitoring">10.3 Metrik Tambahan untuk Monitoring</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Deskripsi</th>
+<th>Frekuensi Check</th>
+<th>Owner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Topic Performance</strong></td>
+<td>Which topic/theme drive most engagement &#x26; discussion</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Content Type Performance</strong></td>
+<td>Carousel vs Reels vs YouTube – which format perform best</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Member Feedback</strong></td>
+<td>What member asking for, what topic they want</td>
+<td>Weekly</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Community Initiative Participation</strong></td>
+<td>How many member join challenge atau participate dalam community initiative</td>
+<td>Per initiative</td>
+<td>Social Media Manager</td>
+</tr>
+<tr>
+<td><strong>Cross-Platform Synergy</strong></td>
+<td>How mention dari other ecosystem platform perform</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Collaboration Success</strong></td>
+<td>Any collaboration atau partnership result from @medimpact.co content</td>
+<td>Monthly</td>
+<td>Dept. Head</td>
+</tr>
+<tr>
+<td><strong>Member Story Pipeline</strong></td>
+<td>How many story prospect identified &#x26; in development</td>
+<td>Monthly</td>
+<td>Social Media Manager</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="10-4-frekuensi-review-reporting">10.4 Frekuensi Review &#x26; Reporting</h3>
+<p><strong>Daily Engagement Check</strong>:</p>
+<ul>
+<li>Monitor comment &#x26; DM</li>
+<li>Respond to discussion</li>
+<li>Alert jika ada member story opportunity</li>
+</ul>
+<p><strong>Weekly Review</strong> (Setiap Senin):</p>
+<ul>
+<li>Engagement &#x26; sentiment dari minggu lalu</li>
+<li>Top performing topic</li>
+<li>Member feedback &#x26; request</li>
+<li>Content adjustment untuk minggu depan</li>
+</ul>
+<p><strong>Monthly Deep Dive</strong> (Week 1 of Month):</p>
+<ul>
+<li>Comprehensive review semua community health metric</li>
+<li>Member feedback &#x26; trend analysis</li>
+<li>Story pipeline status</li>
+<li>Strategic planning untuk month ahead</li>
+</ul>
+<p><strong>Quarterly Assessment</strong> (Every 3 Months):</p>
+<ul>
+<li>Overall community health trend</li>
+<li>Member loyalty &#x26; participation assessment</li>
+<li>Collaboration &#x26; opportunity result</li>
+<li>Strategic direction untuk quarter ahead</li>
+</ul>
+<hr>
+<h2 id="11-informasi-pending-catatan-tambahan">11. INFORMASI PENDING &#x26; CATATAN TAMBAHAN</h2>
+<h3 id="11-1-informasi-yang-belum-tersedia-atau-belum-jelas">11.1 Informasi yang Belum Tersedia atau Belum Jelas</h3>
+<div class="table-container"><table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Aspek</th>
+<th>Status</th>
+<th>Catatan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Medimpact.co Platform Features &#x26; Functionality</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Tidak detail tentang actual Medimpact.co platform (website? app? features?). Is social media only front atau is there separate platform? Need clarification tentang ecosystem structure.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Partnership &#x26; Collaboration Strategy dengan Medical Institution</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How do we identify &#x26; approach medical institution untuk collaboration? Budget? Process? Expected benefit untuk both party?</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Member Story Sourcing Process</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Detailed process untuk identify, approach, interview member untuk story. Template untuk story brief? Compensation? Rights?</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Community Initiative &#x26; Challenge Strategy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>What kind of initiative atau challenge akan we run? Frequency? Reward? How to facilitate participation?</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Live Session &#x26; Expert Guest Strategy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Who will be expert guest? How to approach? What topic? How often? Moderation process?</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Analytics &#x26; Measurement Framework</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How to measure community health beyond basic Instagram metric? Sentiment analysis tool? Member survey?</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Moderation &#x26; Community Management Policy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How to moderate negative comment atau conflict dalam community? Escalation process? Community guideline untuk member?</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Budget &#x26; Resource Allocation</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Production budget? Expert guest honorarium? Incentive untuk member story? Event/initiative budget?</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>Cross-Ecosystem Integration Strategy</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>How @medimpact.co integrate dengan other ecosystem brand? Cross-promotion strategy? Referral process?</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>Long-term Community Vision</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>What is 1-year, 3-year vision untuk @medimpact.co community? Scale? Impact goal? How measure success beyond metric?</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>Member Retention &#x26; Loyalty Program</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Strategy untuk keep member engaged long-term? Recognition program? Exclusive benefit? Member tier?</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>Diversity &#x26; Inclusion Target</strong></td>
+<td><strong>BELUM TERSEDIA / MASIH PENDING</strong></td>
+<td>Specific goal untuk represent diverse specialty, background, geography dalam community? How ensure inclusive space?</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="11-2-rekomendasi-tindak-lanjut-priority-action-items-">11.2 Rekomendasi Tindak Lanjut (Priority Action Items)</h3>
+<ol>
+<li>
+<p><strong>URGENT: Define Medimpact.co Platform Role &#x26; Integration</strong></p>
+<ul>
+<li>Clarify relationship antara @medimpact.co social media account dengan Medimpact.co website/app (if exist)</li>
+<li>How does social channel integrate dengan platform?</li>
+<li>What is unique value dari social vs platform?</li>
+<li>Output: Platform integration map &#x26; content distribution strategy</li>
+</ul>
+</li>
+<li>
+<p><strong>HIGH PRIORITY: Develop Member Story Sourcing Process</strong></p>
+<ul>
+<li>Create system untuk identify potential story subject</li>
+<li>Develop template untuk story pitch, interview, consent</li>
+<li>Create story approval &#x26; publication process</li>
+<li>Define member rights &#x26; compensation (if any)</li>
+<li>Output: Story sourcing SOP &#x26; template</li>
+</ul>
+</li>
+<li>
+<p><strong>HIGH PRIORITY: Define Community Initiative Strategy</strong></p>
+<ul>
+<li>Decide what type of initiative/challenge yang make sense untuk medical community</li>
+<li>Create initiative planning template</li>
+<li>Define facilitation process &#x26; member participation mechanism</li>
+<li>Create calendar untuk planned initiative</li>
+<li>Output: Community initiative framework &#x26; calendar</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Establish Expert Guest &#x26; Live Session Process</strong></p>
+<ul>
+<li>Create criteria untuk expert selection</li>
+<li>Develop outreach &#x26; negotiation template</li>
+<li>Create session planning &#x26; moderation guideline</li>
+<li>Build calendar untuk planned session</li>
+<li>Output: Expert guest selection &#x26; live session SOP</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Create Community Health Measurement Framework</strong></p>
+<ul>
+<li>Define KPI beyond basic Instagram metric</li>
+<li>Identify sentiment analysis tool (automated atau manual)</li>
+<li>Create member survey untuk assess community health &#x26; satisfaction</li>
+<li>Create monthly community health report</li>
+<li>Output: Community health measurement framework &#x26; dashboard</li>
+</ul>
+</li>
+<li>
+<p><strong>MEDIUM PRIORITY: Develop Community Moderation &#x26; Guideline</strong></p>
+<ul>
+<li>Create community guideline untuk member</li>
+<li>Define moderation policy untuk negative comment atau conflict</li>
+<li>Create escalation process untuk sensitive issue</li>
+<li>Train team dalam community management best practice</li>
+<li>Output: Community guideline &#x26; moderation policy</li>
+</ul>
+</li>
+<li>
+<p><strong>LOW PRIORITY: Create Long-term Community Vision &#x26; Strategy</strong></p>
+<ul>
+<li>Define 1-year, 3-year vision untuk @medimpact.co community</li>
+<li>Set ambitious but realistic growth target</li>
+<li>Define success metric beyond follower number</li>
+<li>Create strategy untuk achieve vision</li>
+<li>Output: Community vision document &#x26; strategic plan</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="12-penutup">12. PENUTUP</h2>
+<p>Dokumen SOP Panduan Creator untuk Platform @medimpact.co ini dirancang sebagai comprehensive guide untuk production dan management konten community-building berkualitas tinggi.</p>
+<p>Platform @medimpact.co memiliki purpose yang sangat specific: <strong>Be the genuine advocate dan enabler for medical community di Indonesia – connecting professional, facilitating collaboration, celebrating growth, dan creating sense of belonging dalam profession.</strong></p>
+<p>Kesuksesan @medimpact.co tergantung pada:</p>
+<ol>
+<li>
+<p><strong>Authentic Community Focus</strong>: Content harus FOR community, not AT community. Member feel valued &#x26; heard.</p>
+</li>
+<li>
+<p><strong>High-Quality Storytelling</strong>: Professional production quality, authentic narrative, meaningful story yang resonate dengan audience.</p>
+</li>
+<li>
+<p><strong>Facilitation of Real Connection</strong>: Content yang spark genuine discussion, introduce member to each other, enable collaboration.</p>
+</li>
+<li>
+<p><strong>Consistent Engagement</strong>: Responsive terhadap community, actively engage dalam discussion, celebrate member contribution.</p>
+</li>
+<li>
+<p><strong>Professional Excellence</strong>: Maintain professional standard dalam production, tone, content.</p>
+</li>
+<li>
+<p><strong>Inclusive &#x26; Welcoming Spirit</strong>: Welcome all specialty, background, level. Create space where all feel belong.</p>
+</li>
+<li>
+<p><strong>Alignment dengan Ecosystem Vision</strong>: While community-focused, subtly support ecosystem goal &#x26; integration.</p>
+</li>
+</ol>
+<p>Dengan focus pada these principle, @medimpact.co akan become <strong>trusted community leader dalam medical profession</strong>, facilitate meaningful connection &#x26; collaboration, dan strengthen position MEDTOOLS sebagai <strong>advocate for medical community</strong> di Indonesia.</p>
+<p>Mari bersama-sama membangun komunitas medis yang kuat, supportive, dan collaborative – where professional doctor &#x26; student can truly connect, grow, dan celebrate success bersama.</p>
+<hr>
+<p><strong>Dokumen ini berlaku efektif sejak: Januari 2026</strong><br>
+<strong>Last Updated: 13 Januari 2026</strong><br>
+<strong>Next Review: Maret 2026</strong></p>
+<p><strong>Dibuat oleh:</strong> Tim Creator MEDTOOLS.ID<br>
+<strong>Disetujui oleh:</strong> Gilang Ramadhan, Head of Creator Team</p>
+<hr>
+<h3 id="lampiran-a-member-story-interview-brief-template">LAMPIRAN A: Member Story Interview Brief Template</h3>
+<pre><code>MEMBER STORY INTERVIEW BRIEF – @MEDIMPACT.CO
+
+Story Subject: [Name, Title, Institution]
+Contact: [Email/Phone]
+Interview Date: [YYYY-MM-DD]
+Estimated Duration: [30-60 minutes]
+
+---
+
+STORY ANGLE:
+[Brief description dari story tema – e.g., "How mentorship accelerate career", "Collaboration dalam research project"]
+
+KEY QUESTIONS (Guide, not script):
+1. [About background &#x26; journey]
+2. [About challenge atau turning point]
+3. [About collaboration/mentorship/learning experience]
+4. [About impact atau outcome]
+5. [About lesson &#x26; advice untuk community]
+
+INTERVIEW GOAL:
+[What we want to capture dari this interview? Emotion, insight, lesson]
+
+PERMISSION &#x26; CONSENT:
+☐ Verbal consent obtained untuk record &#x26; publish
+☐ Written consent form signed (if needed)
+☐ Subject comfortable dengan story being public
+☐ Name/institution mention approved
+
+PRODUCTION PLAN:
+[Video format? Length? B-roll needed?]
+
+FOLLOW-UP:
+[How will we use this story? Carousel, video, feature?]
+
+Interviewer: _________________ Date: _______________
+Subject Approval: _________________ Date: _______________
+</code></pre>
+<h3 id="lampiran-b-community-health-report-template">LAMPIRAN B: Community Health Report Template</h3>
+<pre><code>COMMUNITY HEALTH REPORT – @MEDIMPACT.CO
+
+PERIODE: [Month/Year]
+
+ENGAGEMENT OVERVIEW:
+- Total Post Published: ____
+- Total Engagement Rate (Avg): ____%
+- Total Comment: ____
+- Total Reach: ____
+
+ENGAGEMENT QUALITY:
+- Comment Sentiment: ___% positive, ___% neutral, ___% negative
+- Comment Type: ___% discussion, ___% question, ___% sharing
+- Avg Response Time to Comment: ____ hours
+
+TOP PERFORMING CONTENT:
+1. [Title]: __% engagement, ____ reach, ____ comment
+   - Why perform: [Analysis]
+2. [Title]: ...
+
+COMMUNITY FEEDBACK:
+- Most requested topic: [Topic]
+- Most common question/struggle: [Question]
+- Member feedback sentiment: [Overall positive/mixed/needs improvement]
+
+MEMBER PARTICIPATION:
+- Unique member commenting/participating: ____
+- Member story/UGC submitted: ____
+- Initiative/challenge participation: ____ member
+
+COMMUNITY HEALTH SCORE:
+- Belonging Score: ___/10
+- Participation Rate: ____%
+- Member Loyalty Score: ___/10
+
+INSIGHTS &#x26; LEARNINGS:
+- What work: [What content/approach perform well]
+- What need improvement: [Underperforming element]
+- Member request: [What member want to see]
+
+PLAN FOR NEXT MONTH:
+- Content focus: [Main focus area]
+- Initiative/challenge: [Planned initiative]
+- Member story to feature: [Story pipeline]
+
+[Creator Name] ________________ [Date] _______________
+[Dept. Head Review] ________________ [Date] _______________
+</code></pre>
+<h3 id="lampiran-c-community-content-quality-checklist">LAMPIRAN C: Community Content Quality Checklist</h3>
+<pre><code>COMMUNITY CONTENT QUALITY CHECKLIST – @MEDIMPACT.CO
+
+Content Title: _________________________________
+Creator: _________________ Date: _____________
+
+RATING SCALE: 1 (Poor) - 2 (Fair) - 3 (Good) - 4 (Excellent)
+
+COMMUNITY VALUE:
+[1] [2] [3] [4] Content valuable untuk community (insight, opportunity, celebration)
+[1] [2] [3] [4] Member perspective included (not one-sided)
+[1] [2] [3] [4] Content spark discussion atau collaboration
+[1] [2] [3] [4] Authentic &#x26; genuine narrative
+
+PROFESSIONAL QUALITY:
+[1] [2] [3] [4] Audio clear &#x26; professional
+[1] [2] [3] [4] Visual quality professional &#x26; attractive
+[1] [2] [3] [4] Editing smooth &#x26; professional
+[1] [2] [3] [4] Grammar &#x26; spelling correct
+
+ENGAGEMENT SETUP:
+[1] [2] [3] [4] Discussion prompt clear &#x26; compelling
+[1] [2] [3] [4] CTA obvious (what do we want from community?)
+[1] [2] [3] [4] Caption engaging &#x26; inviting
+
+APPROPRIATENESS:
+[1] [2] [3] [4] Professional &#x26; respectful tone
+[1] [2] [3] [4] Inclusive &#x26; welcoming
+[1] [2] [3] [4] No inaccurate information
+[1] [2] [3] [4] Permission &#x26; consent obtained (if needed)
+
+OVERALL ASSESSMENT:
+Total Score: ____/40
+
+Status:
+☐ APPROVED (Score 33+)
+☐ APPROVED WITH MINOR REVISION (Score 28-32)
+☐ REVISION NEEDED (Score &#x3C;28)
+
+Reviewer Comment:
+_________________________________________
+
+Reviewer: _________________ Date: ___________
+</code></pre>
+<hr>
+<p><strong>END OF DOCUMENT</strong></p>
+5:["$","section",null,{"className":"bg-white rounded-[32px] p-8 md:p-16 shadow-xl border border-slate-100 relative overflow-hidden transition-all hover:shadow-2xl","children":[["$","div",null,{"className":"absolute top-0 right-0 p-8 opacity-[0.03] select-none pointer-events-none","children":["$","span",null,{"className":"text-9xl font-black text-blue-900 rotate-12 block","children":"SOP"}]}],["$","div",null,{"className":"flex items-center space-x-4 mb-20 print:mb-10","children":[["$","h2",null,{"className":"text-xs uppercase tracking-[0.4em] font-black text-blue-500 whitespace-nowrap","children":"Dokumen Panduan Lengkap"}],["$","div",null,{"className":"h-[1px] flex-1 bg-blue-50"}]]}],["$","article",null,{"className":"$f","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$10"}}]}]]}]
+6:["$","section",null,{"className":"mt-32 print:hidden","children":[["$","div",null,{"className":"flex items-center justify-between mb-12","children":[["$","h2",null,{"className":"text-sm uppercase tracking-[0.3em] font-black text-slate-900","children":"Lampiran: Contoh Konten Live"}],["$","div",null,{"className":"h-[2px] flex-1 bg-slate-100 ml-6"}]]}],["$","$L11",null,{"embeds":[{"type":"instagram","url":"https://www.instagram.com/medimpact.co/"},{"type":"instagram","url":"https://www.instagram.com/p/DSj7i5fj1jF/"}]}]]}]
+7:["$","$L12",null,{}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/3e9c63e23d3b9851.js","async":true}]
+9:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+a:["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Carousel/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">8"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">8"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 10.901179688398173 L40 19.859915802974875 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]
+b:["$","div","2",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Stories/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">100"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">100"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 18.192049540758845 L40 18.656246847754932 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+c:["$","div","3",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-emerald-50 text-emerald-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Video/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">2"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">2"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 17.376123091422826 L40 14.117920647961862 L60 5 L80 10 L100 2","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+d:["$","div","4",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-amber-50 text-amber-500","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":14,"height":14,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-trending-up rotate-180","aria-hidden":"true","children":[["$","path","box55l",{"d":"M16 7h6v6"}],["$","path","1t1m79",{"d":"m22 7-8.5 8.5-5-5L2 17"}],"$undefined"]}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Follower Growth/Bulan"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">500"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">500"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 10.452343434381907 L40 18.601373677348207 L60 15 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+e:["$","div","5",{"className":"group relative bg-white rounded-2xl p-6 border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden","children":[["$","div",null,{"className":"absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full blur-3xl -z-10 -translate-y-1/2 translate-x-1/2 group-hover:bg-blue-100 transition-colors"}],["$","div",null,{"className":"relative z-10","children":[["$","div",null,{"className":"flex justify-between items-start mb-6","children":[["$","span",null,{"className":"px-2.5 py-1 rounded-lg text-[10px] uppercase tracking-wider font-bold border bg-blue-50 text-blue-500 border-blue-100","children":"Medium"}],["$","div",null,{"className":"p-1.5 rounded-md bg-slate-50 text-slate-400","children":["$","div",null,{"className":"w-3.5 h-[2px] bg-current my-1.5"}]}]]}],["$","h4",null,{"className":"font-semibold text-slate-500 text-xs mb-3 uppercase tracking-wide","children":"Follower Growth YoY"}],["$","div",null,{"className":"flex items-baseline space-x-2","children":[["$","span",null,{"className":"text-4xl font-bold text-slate-900 tracking-tight","children":">3K"}],["$","span",null,{"className":"text-slate-400 text-sm font-medium","children":">3K"}]]}],["$","div",null,{"className":"mt-8 pt-4 border-t border-slate-50 flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center text-[10px] text-slate-400 font-medium bg-slate-50 px-2 py-1 rounded-md","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":10,"height":10,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-target mr-1.5","aria-hidden":"true","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","circle","1vlfrh",{"cx":"12","cy":"12","r":"6"}],["$","circle","1c9p78",{"cx":"12","cy":"12","r":"2"}],"$undefined"]}],"Bulanan"]}],["$","div",null,{"className":"w-16 h-4 opacity-30","children":["$","svg",null,{"viewBox":"0 0 100 20","className":"w-full h-full stroke-blue-500 stroke-2 fill-none","children":["$","path",null,{"d":"M0 20 L20 17.435456951721445 L40 15.59068420979208 L60 5 L80 10 L100 18","strokeLinecap":"round","strokeLinejoin":"round"}]}]}]]}]]}]]}]
+15:null
