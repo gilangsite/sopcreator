@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://creator.medtools.id/sitemap.xml
