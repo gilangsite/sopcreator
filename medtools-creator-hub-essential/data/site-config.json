@@ -1,0 +1,17 @@
+
+{
+  "site": {
+    "title": "MEDTOOLS Creator Hub",
+    "description": "SOP dan panduan creator departemen Medtools",
+    "baseUrl": "https://creator.medtools.id",
+    "theme": "minimal-elegant"
+  },
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "@medtools.id", "href": "/platform/medtools.id" },
+    { "label": "@medtools.store", "href": "/platform/medtools.store" },
+    { "label": "@medtools.academy", "href": "/platform/medtools.academy" },
+    { "label": "@hai.medi", "href": "/platform/hai.medi" },
+    { "label": "@medimpact.co", "href": "/platform/medimpact.co" }
+  ]
+}

@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# MEDTOOLS Creator Hub
 
-First, run the development server:
+Static documentation website for MEDTOOLS Creator Department SOPs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Features
+- **Markdown-driven**: Content is sourced from `content/*.md` files.
+
+- **Static Export**: Zero-JS runtime requirement for hosting (compatible with GitHub Pages, Vercel, Netlify).
+
+- **Light Blue Aesthetics**: Clean, professional design using Medtools Blue palette (#3B82F6) and soft gradients.
+
+- **Responsive Design**: Mobile-friendly navigation and layout.
+
+- **KPI Scorecards**: Visual representation of monthly targets.
+- **Social Embeds**: Inline examples from Instagram, TikTok, and YouTube.
+- **PDF Ready**: Optimized print styles for saving as PDF.
+
+## Tech Stack
+- Next.js 15 (App Router)
+- Tailwind CSS v4
+- Framer Motion
+- Lucide React
+
+## Project Structure
+```
+web/
+├── app/                # Application routes and layouts
+├── components/         # React components (Navbar, KPI, Embeds)
+├── config/             # Single Source of Truth for Platforms
+├── content/            # Markdown Source Files (SOPs)
+├── data/               # Site metadata
+├── lib/                # Utilities (KPI extraction, Markdown parsing)
+└── public/             # Static assets
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Update Content
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Edit SOPs**: Modify the `.md` files in `web/content/`.
+   - Ensure the `Frontmatter` (at the top of the file) is preserved.
+   - Use standard Markdown. Sections under headers will be automatically wrapped in tables.
+   - **KPIs**: KPIs are automatically extracted from the "KPI Index" table in each Markdown file.
+2. **Add Platforms**:
+   - Add the new `.md` file to `web/content/`.
+   - Update `web/config/platforms.json` to include the new platform in `navigation` and `platforms` arrays.
+3. **Rebuild**: Run `npm run build` to generate the updated static site.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Development & Build
 
-## Learn More
+### Prerequisites
+- Node.js 18+
 
-To learn more about Next.js, take a look at the following resources:
+### Commands
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+# Install dependencies
+npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Run development server
+npm run dev
 
-## Deploy on Vercel
+# Build static site (Output to `out/`)
+npm run build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The `out/` directory contains the purely static files.
+- **Vercel**: Connect repository and set Framework Preset to Next.js.
+- **Netlify**: Drag and drop `out` folder or connect repo.
+- **GitHub Pages**: Push `out` folder content to `gh-pages` branch.
+
+## PDF Generation
+
+To generate a PDF of a platform SOP:
+1. Navigate to the platform page.
+2. Click the Floating Print Button (bottom right).
+3. Select "Save as PDF" in the print dialog.
+   - *Note: The layout is optimized to remove navigational elements during printing.*
