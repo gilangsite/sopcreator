@@ -1,0 +1,63 @@
+{
+    "navigation": [
+        {
+            "label": "Home",
+            "href": "/"
+        },
+        {
+            "label": "@medtools.id",
+            "href": "/platform/medtools.id"
+        },
+        {
+            "label": "@medtools.store",
+            "href": "/platform/medtools.store"
+        },
+        {
+            "label": "@medtools.academy",
+            "href": "/platform/medtools.academy"
+        },
+        {
+            "label": "@hai.medi",
+            "href": "/platform/hai.medi"
+        },
+        {
+            "label": "@medimpact.co",
+            "href": "/platform/medimpact.co"
+        },
+        {
+            "label": "Content Reference",
+            "href": "/content-reference"
+        },
+        {
+            "label": "Ads Calculator",
+            "href": "/ads-calculator"
+        }
+    ],
+    "platforms": [
+        {
+            "id": "medtools.id",
+            "slug": "medtools.id",
+            "markdown": "SOP-Panduan-Creator-Medtools.id.md"
+        },
+        {
+            "id": "medtools.store",
+            "slug": "medtools.store",
+            "markdown": "SOP-Panduan-Creator-Medtools.Store.md"
+        },
+        {
+            "id": "medtools.academy",
+            "slug": "medtools.academy",
+            "markdown": "SOP-Panduan-Creator-Medtools.Academy.md"
+        },
+        {
+            "id": "hai.medi",
+            "slug": "hai.medi",
+            "markdown": "SOP-Panduan-Creator-Hai-Medi.md"
+        },
+        {
+            "id": "medimpact.co",
+            "slug": "medimpact.co",
+            "markdown": "SOP-Panduan-Creator-Medimpact.co.md"
+        }
+    ]
+}

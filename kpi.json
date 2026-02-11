@@ -1,0 +1,89 @@
+{
+    "medtools.id": [
+        {
+            "metric": "Konten Feed Edukasi Kedokteran",
+            "freq": "8x/bulan",
+            "target": "8",
+            "unit": "post",
+            "priority": "High"
+        },
+        {
+            "metric": "Konten Reels Entertainment & Product",
+            "freq": "16x/bulan",
+            "target": "16",
+            "unit": "video",
+            "priority": "High"
+        },
+        {
+            "metric": "Stories Harian",
+            "freq": "Daily",
+            "target": "80",
+            "unit": "story",
+            "priority": "Medium"
+        }
+    ],
+    "medtools.store": [
+        {
+            "metric": "Product Showcase Reels",
+            "freq": "12x/bulan",
+            "target": "12",
+            "unit": "video",
+            "priority": "High"
+        },
+        {
+            "metric": "Promo/Flash Sale Stories",
+            "freq": "Daily",
+            "target": "30",
+            "unit": "story",
+            "priority": "Medium"
+        }
+    ],
+    "medtools.academy": [
+        {
+            "metric": "Tips Belajar/Edukasi",
+            "freq": "10x/bulan",
+            "target": "10",
+            "unit": "post",
+            "priority": "High"
+        },
+        {
+            "metric": "Testimoni Siswa",
+            "freq": "4x/bulan",
+            "target": "4",
+            "unit": "post",
+            "priority": "Medium"
+        }
+    ],
+    "hai.medi": [
+        {
+            "metric": "Study With Me Content",
+            "freq": "4x/bulan",
+            "target": "4",
+            "unit": "video",
+            "priority": "Medium"
+        },
+        {
+            "metric": " Interactive Stories",
+            "freq": "Daily",
+            "target": "30",
+            "unit": "story",
+            "priority": "Low"
+        }
+    ],
+    "medimpact.co": [
+        {
+            "metric": "Social Impact Stories",
+            "freq": "2x/bulan",
+            "target": "2",
+            "unit": "post",
+            "priority": "Medium"
+        },
+        {
+            "metric": "Event Coverage",
+            "freq": "Ad-hoc",
+            "target": "1",
+            "unit": "event",
+            "priority": "Low"
+        }
+    ]
+}
