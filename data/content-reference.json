@@ -236,6 +236,18 @@
             "title": "Konten BBM",
             "url": "https://medtoolsid2025-my.sharepoint.com/:w:/g/personal/stellon_lim_medtools_id/IQDVYcw7w2pHTq-nPdhuZ5keAYQFJJSI3DnbmXQUTm89ZGU?e=G8TUFv",
             "icon": "📑"
+        },
+        {
+            "id": "script-feeds-product",
+            "title": "Feeds Product",
+            "url": "https://medtoolsid2025-my.sharepoint.com/:w:/g/personal/stellon_lim_medtools_id/IQB4sp5lstikRKG8g26OrkT6AW8kHhs3w5g2eR0vFxKNYFA?e=habNok",
+            "icon": "📄"
+        },
+        {
+            "id": "script-edukasi-product-reels",
+            "title": "Edukasi Product (Reels)",
+            "url": "https://medtoolsid2025-my.sharepoint.com/:w:/g/personal/stellon_lim_medtools_id/IQBhYo02ohX-SZFm-buZGT6ZAVAr6Ddxekq55riS8qeL0jo?e=aQbERg",
+            "icon": "📝"
         }
     ],
     "platforms": [

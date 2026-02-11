@@ -11,6 +11,16 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata: Metadata = {
   title: "MEDTOOLS Creator Hub",
   description: "Internal Documentation & SOPs",
+  icons: {
+    icon: '/favicon.ico',
+  },
+  openGraph: {
+    images: {
+      url: '/open-page.png',
+      width: 1200,
+      height: 630,
+    }
+  }
 };
 
 export default function RootLayout({
